@@ -1,0 +1,1294 @@
+Id	PubDate	FullJournalName	date	year	month
+30931155	2019	Journal of pregnancy	2019-01-01	2019.0	1.0
+30891071	2019	Journal of tropical medicine	2019-01-01	2019.0	1.0
+30880921	2019	Patient preference and adherence	2019-01-01	2019.0	1.0
+30871551	2019 Mar 11	Malaria journal	2019-03-11	2019.0	3.0
+30867636	2019	Tropical medicine and health	2019-01-01	2019.0	1.0
+30866924	2019 Mar 11	BMC health services research	2019-03-11	2019.0	3.0
+30860013	2019 Mar 11	The American journal of tropical medicine and hygiene	2019-03-11	2019.0	3.0
+30845998	2019 Mar 7	Malaria journal	2019-03-07	2019.0	3.0
+30843638	2019 Mar 7	Tropical medicine & international health : TM & IH	2019-03-07	2019.0	3.0
+30802426	2019 Feb 22	Acta tropica	2019-02-22	2019.0	2.0
+30795764	2019 Feb 22	Malaria journal	2019-02-22	2019.0	2.0
+30793683	2019 Feb 18	The American journal of tropical medicine and hygiene	2019-02-18	2019.0	2.0
+30789314	2019 Feb 21	Vector borne and zoonotic diseases (Larchmont, N.Y.)	2019-02-21	2019.0	2.0
+30786905	2019 Feb 20	Malaria journal	2019-02-20	2019.0	2.0
+30786891	2019 Feb 20	Malaria journal	2019-02-20	2019.0	2.0
+30786883	2019 Feb 20	BMC public health	2019-02-20	2019.0	2.0
+30777070	2019 Feb 18	Malaria journal	2019-02-18	2019.0	2.0
+30736456	2019 Feb 7	Tropical medicine and infectious disease	2019-02-07	2019.0	2.0
+30726218	2019	PloS one	2019-01-01	2019.0	1.0
+30682097	2019	PloS one	2019-01-01	2019.0	1.0
+30658602	2019 Jan 18	BMC pediatrics	2019-01-18	2019.0	1.0
+30650322	2019 Jan 17	The New England journal of medicine	2019-01-17	2019.0	1.0
+30642347	2019 Jan 14	Malaria journal	2019-01-14	2019.0	1.0
+30629580	2019 Jan	PLoS neglected tropical diseases	2019-01-01	2019.0	1.0
+30621669	2019 Jan 8	BMC public health	2019-01-08	2019.0	1.0
+30602987	2018 Sep	African health sciences	2018-09-01	2018.0	9.0
+30598821	2018	Archives of public health = Archives belges de sante publique	2018-01-01	2018.0	1.0
+30588344	2018	BMJ global health	2018-01-01	2018.0	1.0
+30587238	2018 Dec 19	Infectious diseases of poverty	2018-12-19	2018.0	12.0
+30579868	2019 Jan	EBioMedicine	2019-01-01	2019.0	1.0
+30576335	2018 Dec	PLoS neglected tropical diseases	2018-12-01	2018.0	12.0
+30574247	2018	The Pan African medical journal	2018-01-01	2018.0	1.0
+30562390	2018	PloS one	2018-01-01	2018.0	1.0
+30558586	2018 Dec 17	BMC public health	2018-12-17	2018.0	12.0
+30541456	2018 Dec 12	BMC infectious diseases	2018-12-12	2018.0	12.0
+30522524	2018 Dec 7	Infectious diseases of poverty	2018-12-07	2018.0	12.0
+30538862	2018	Anemia	2018-01-01	2018.0	1.0
+30535153	2018 Dec 7	The Journal of infectious diseases	2018-12-07	2018.0	12.0
+30534413	2018	Tropical diseases, travel medicine and vaccines	2018-01-01	2018.0	1.0
+30526747	2019 Feb	The American journal of tropical medicine and hygiene	2019-02-01	2019.0	2.0
+30518399	2018 Dec 5	Malaria journal	2018-12-05	2018.0	12.0
+30518365	2018 Dec 5	Malaria journal	2018-12-05	2018.0	12.0
+30459359	2018 Nov 20	Scientific reports	2018-11-20	2018.0	11.0
+30457091	2019 Jan	The American journal of tropical medicine and hygiene	2019-01-01	2019.0	1.0
+30455961	2018	BMC hematology	2018-01-01	2018.0	1.0
+30430342	2018 Nov 14	AIDS and behavior	2018-11-14	2018.0	11.0
+30428916	2018 Nov 14	Malaria journal	2018-11-14	2018.0	11.0
+30424775	2018 Nov 13	Malaria journal	2018-11-13	2018.0	11.0
+30419002	2018	PloS one	2018-01-01	2018.0	1.0
+30390654	2018 Nov 3	Malaria journal	2018-11-03	2018.0	11.0
+30390652	2018 Nov 3	Malaria journal	2018-11-03	2018.0	11.0
+30382868	2018 Nov 1	BMC pregnancy and childbirth	2018-11-01	2018.0	11.0
+30367615	2018 Oct 26	BMC public health	2018-10-26	2018.0	10.0
+30356290	2018	PloS one	2018-01-01	2018.0	1.0
+30350769	2018 Dec	The American journal of tropical medicine and hygiene	2018-12-01	2018.0	12.0
+30350499	2018 Sep 26	Zhongguo xue xi chong bing fang zhi za zhi = Chinese journal of schistosomiasis control	2018-09-26	2018.0	9.0
+30347183	2019 Feb	Acta tropica	2019-02-01	2019.0	2.0
+30344800	2018	The Canadian journal of infectious diseases & medical microbiology = Journal canadien des maladies infectieuses et de la microbiologie medicale	2018-01-01	2018.0	1.0
+30344128	2018 Sep	The Gulf journal of oncology	2018-09-01	2018.0	9.0
+30340640	2018 Oct 19	Malaria journal	2018-10-19	2018.0	10.0
+30326909	2018 Oct 16	Malaria journal	2018-10-16	2018.0	10.0
+30314438	2018 Oct 12	Malaria journal	2018-10-12	2018.0	10.0
+30307559	2019 Jan 9	The Journal of infectious diseases	2019-01-09	2019.0	1.0
+30305107	2018 Oct 10	Malaria journal	2018-10-10	2018.0	10.0
+30265330	2019 Mar 1	International health	2019-03-01	2019.0	3.0
+30257995	2018 Nov-Dec	Peritoneal dialysis international : journal of the International Society for Peritoneal Dialysis			
+30249261	2018 Sep 24	Malaria journal	2018-09-24	2018.0	9.0
+30239631	2018 Sep 20	Clinical infectious diseases : an official publication of the Infectious Diseases Society of America	2018-09-20	2018.0	9.0
+30231938	2018 Sep 20	BMC medicine	2018-09-20	2018.0	9.0
+30222732	2018	PloS one	2018-01-01	2018.0	1.0
+30212496	2018	PloS one	2018-01-01	2018.0	1.0
+30192770	2018	PloS one	2018-01-01	2018.0	1.0
+30183889	2018 Jan-Feb	Revista de salud publica (Bogota, Colombia)			
+30153834	2018 Aug 28	Malaria journal	2018-08-28	2018.0	8.0
+30143047	2018 Aug 24	Malaria journal	2018-08-24	2018.0	8.0
+30097037	2018 Aug 10	Malaria journal	2018-08-10	2018.0	8.0
+30076361	2018 Aug 3	Scientific reports	2018-08-03	2018.0	8.0
+30071875	2018 Aug 2	Malaria journal	2018-08-02	2018.0	8.0
+30064433	2018 Jul 31	Malaria journal	2018-07-31	2018.0	7.0
+30050600	2018	The Pan African medical journal	2018-01-01	2018.0	1.0
+30050360	2018	Research and reports in tropical medicine	2018-01-01	2018.0	1.0
+29988695	2018	BMC hematology	2018-01-01	2018.0	1.0
+29973194	2018 Jul 4	Malaria journal	2018-07-04	2018.0	7.0
+29954356	2018 Jun 28	BMC pregnancy and childbirth	2018-06-28	2018.0	6.0
+29943722	2018 Aug	The American journal of tropical medicine and hygiene	2018-08-01	2018.0	8.0
+29942414	2017	The Pan African medical journal	2017-01-01	2017.0	1.0
+29940968	2018 Jun 26	Malaria journal	2018-06-26	2018.0	6.0
+29929529	2018 Jun 22	Parasites & vectors	2018-06-22	2018.0	6.0
+29925378	2018 Jun 20	Malaria journal	2018-06-20	2018.0	6.0
+29914488	2018 Jun 18	Malaria journal	2018-06-18	2018.0	6.0
+29914473	2018 Jun 18	Malaria journal	2018-06-18	2018.0	6.0
+29898719	2018 Jun 14	Malaria journal	2018-06-14	2018.0	6.0
+29887894	2018	Journal of tropical medicine	2018-01-01	2018.0	1.0
+29886710	2018 May	Journal of preventive medicine and public health = Yebang Uihakhoe chi	2018-05-01	2018.0	5.0
+29885612	2018 Oct	Environmental research	2018-10-01	2018.0	10.0
+29884160	2018 Jun 8	BMC medical education	2018-06-08	2018.0	6.0
+29879939	2018 Jun 7	BMC pregnancy and childbirth	2018-06-07	2018.0	6.0
+29866113	2018 Jun 4	Malaria journal	2018-06-04	2018.0	6.0
+29859089	2018 Jun 1	Malaria journal	2018-06-01	2018.0	6.0
+29793482	2018 May 25	Malaria journal	2018-05-25	2018.0	5.0
+29783973	2018 May 21	BMC medical genomics	2018-05-21	2018.0	5.0
+29776368	2018 May 18	Harm reduction journal	2018-05-18	2018.0	5.0
+29776367	2018 May 18	Malaria journal	2018-05-18	2018.0	5.0
+29736274	2018	BMJ global health	2018-01-01	2018.0	1.0
+29720163	2018 May 2	BMC health services research	2018-05-02	2018.0	5.0
+29720136	2018 May 2	BMC public health	2018-05-02	2018.0	5.0
+29692310	2018 Jul	The American journal of tropical medicine and hygiene	2018-07-01	2018.0	7.0
+29678150	2018 Apr 20	BMC pregnancy and childbirth	2018-04-20	2018.0	4.0
+29642899	2018 Apr 11	BMC public health	2018-04-11	2018.0	4.0
+29625574	2018 Apr 6	Malaria journal	2018-04-06	2018.0	4.0
+29623255	2017 Jul	MalariaWorld journal	2017-07-01	2017.0	7.0
+29618382	2018 Apr 4	BMC research notes	2018-04-04	2018.0	4.0
+29617393	2018	PloS one	2018-01-01	2018.0	1.0
+29615693	2018 Apr 3	Scientific reports	2018-04-03	2018.0	4.0
+29614095	2018	PloS one	2018-01-01	2018.0	1.0
+29608248	2018 Jul	Maternal & child nutrition	2018-07-01	2018.0	7.0
+29566695	2018 Mar 23	Malaria journal	2018-03-23	2018.0	3.0
+29556162	2017 Dec	Annals of Ibadan postgraduate medicine	2017-12-01	2017.0	12.0
+29554901	2018 Mar 19	Malaria journal	2018-03-19	2018.0	3.0
+29551393	2018 Jun	Acta tropica	2018-06-01	2018.0	6.0
+29508599	2017 Jun 9	Zhongguo xue xi chong bing fang zhi za zhi = Chinese journal of schistosomiasis control	2017-06-09	2017.0	6.0
+29506570	2018 Mar 5	Parasites & vectors	2018-03-05	2018.0	3.0
+29456374	2017 Oct-Dec	Journal of pharmacy & bioallied sciences			
+29450195	2018	Frontiers in public health	2018-01-01	2018.0	1.0
+29439870	2018 Mar 14	Vaccine	2018-03-14	2018.0	3.0
+29436349	2018 Apr	The American journal of tropical medicine and hygiene	2018-04-01	2018.0	4.0
+29402293	2018 Feb 5	Malaria journal	2018-02-05	2018.0	2.0
+29402245	2018 Feb 5	BMC pediatrics	2018-02-05	2018.0	2.0
+29389541	2018 Feb	The Lancet. Global health	2018-02-01	2018.0	2.0
+29372060	2018	BMC hematology	2018-01-01	2018.0	1.0
+29363457	2018 Mar	The American journal of tropical medicine and hygiene	2018-03-01	2018.0	3.0
+29357869	2018 Jan 22	BMC public health	2018-01-22	2018.0	1.0
+29351795	2018 Jan 19	Malaria journal	2018-01-19	2018.0	1.0
+29330677	2018 Mar	EcoHealth	2018-03-01	2018.0	3.0
+29317419	2018 Jan 8	BMJ open	2018-01-08	2018.0	1.0
+29310609	2018 Jan 8	BMC pregnancy and childbirth	2018-01-08	2018.0	1.0
+29304803	2018 Jan 5	Malaria journal	2018-01-05	2018.0	1.0
+29287179	2018 Apr	Environmental research	2018-04-01	2018.0	4.0
+29276622	2017	Tropical diseases, travel medicine and vaccines	2017-01-01	2017.0	1.0
+29258448	2017 Dec 19	BMC infectious diseases	2017-12-19	2017.0	12.0
+29241618	2018 Jan	The Lancet. Global health	2018-01-01	2018.0	1.0
+29234551	2017	Malaria research and treatment	2017-01-01	2017.0	1.0
+29217951	2017 Sep	Ethiopian journal of health sciences	2017-09-01	2017.0	9.0
+29216842	2017 Dec 8	BMC infectious diseases	2017-12-08	2017.0	12.0
+29211830	2018 May 2	Clinical infectious diseases : an official publication of the Infectious Diseases Society of America	2018-05-02	2018.0	5.0
+29202097	2017	Global health research and policy	2017-01-01	2017.0	1.0
+29164092	2017	Frontiers in public health	2017-01-01	2017.0	1.0
+29163934	2017 Dec	Journal of global health	2017-12-01	2017.0	12.0
+29162062	2017 Nov 21	BMC public health	2017-11-21	2017.0	11.0
+29157243	2017 Nov 21	Malaria journal	2017-11-21	2017.0	11.0
+29155825	2017 Nov	PLoS neglected tropical diseases	2017-11-01	2017.0	11.0
+29151802	2017	Tropical medicine and health	2017-01-01	2017.0	1.0
+29138004	2018 Feb	Acta tropica	2018-02-01	2018.0	2.0
+29137944	2018 Jan	The Journal of steroid biochemistry and molecular biology	2018-01-01	2018.0	1.0
+29132373	2017 Nov 13	Malaria journal	2017-11-13	2017.0	11.0
+29123514	2017	Frontiers in immunology	2017-01-01	2017.0	1.0
+29115966	2017 Nov 7	Malaria journal	2017-11-07	2017.0	11.0
+29108003	2017 Nov	PLoS neglected tropical diseases	2017-11-01	2017.0	11.0
+29085254	2017	Tropical medicine and health	2017-01-01	2017.0	1.0
+29077052	2017 Oct 27	International journal of environmental research and public health	2017-10-27	2017.0	10.0
+29075500	2017	BMC hematology	2017-01-01	2017.0	1.0
+29059184	2017 Oct	PLoS neglected tropical diseases	2017-10-01	2017.0	10.0
+29037202	2017 Oct 16	Malaria journal	2017-10-16	2017.0	10.0
+29033373	2017 Nov	EBioMedicine	2017-11-01	2017.0	11.0
+29020386	2018 Jan 6	Clinical infectious diseases : an official publication of the Infectious Diseases Society of America	2018-01-06	2018.0	1.0
+29017588	2017 Oct 10	BMC research notes	2017-10-10	2017.0	10.0
+29016322	2017 Nov	The American journal of tropical medicine and hygiene	2017-11-01	2017.0	11.0
+29016317	2017 Nov	The American journal of tropical medicine and hygiene	2017-11-01	2017.0	11.0
+28991911	2017 Oct	PLoS medicine	2017-10-01	2017.0	10.0
+28990920	2017 Sep	The American journal of tropical medicine and hygiene	2017-09-01	2017.0	9.0
+28985734	2017 Oct 6	Malaria journal	2017-10-06	2017.0	10.0
+28985421	2018 Jun 1	Journal of tropical pediatrics	2018-06-01	2018.0	6.0
+28969636	2017 Oct 2	Malaria journal	2017-10-02	2017.0	10.0
+28969632	2017 Oct 2	Malaria journal	2017-10-02	2017.0	10.0
+28968846	2017 Nov 7	Journal of medical entomology	2017-11-07	2017.0	11.0
+28962616	2017 Sep 29	Malaria journal	2017-09-29	2017.0	9.0
+28935919	2017 Sep 21	Scientific reports	2017-09-21	2017.0	9.0
+28934438	2017 Sep 15	The Journal of infectious diseases	2017-09-15	2017.0	9.0
+28914186	2018 Jul	International journal of stroke : official journal of the International Stroke Society	2018-07-01	2018.0	7.0
+28903758	2017 Sep 13	Malaria journal	2017-09-13	2017.0	9.0
+28903727	2017 Sep 13	BMC health services research	2017-09-13	2017.0	9.0
+28902263	2017 Aug 21	Revista panamericana de salud publica = Pan American journal of public health	2017-08-21	2017.0	8.0
+28893263	2017 Sep 11	Malaria journal	2017-09-11	2017.0	9.0
+28877733	2017 Sep 6	BMC research notes	2017-09-06	2017.0	9.0
+28870241	2017 Sep 5	BMC research notes	2017-09-05	2017.0	9.0
+28850631	2017	PloS one	2017-01-01	2017.0	1.0
+28829731	2017 Aug	The American journal of tropical medicine and hygiene	2017-08-01	2017.0	8.0
+28820883	2017	PloS one	2017-01-01	2017.0	1.0
+28818627	2017 Dec	Acta tropica	2017-12-01	2017.0	12.0
+28797296	2017 Aug 10	Malaria journal	2017-08-10	2017.0	8.0
+28787328	2017 Nov 1	Journal of acquired immune deficiency syndromes (1999)	2017-11-01	2017.0	11.0
+28778210	2017 Aug 4	Malaria journal	2017-08-04	2017.0	8.0
+28764717	2017 Aug 2	Malaria journal	2017-08-02	2017.0	8.0
+28758162	2017 Jun 9	The Lancet. Planetary health	2017-06-09	2017.0	6.0
+28753649	2017	PloS one	2017-01-01	2017.0	1.0
+28727775	2017	PloS one	2017-01-01	2017.0	1.0
+28722582	2017 Sep	The American journal of tropical medicine and hygiene	2017-09-01	2017.0	9.0
+28716009	2017 Jul 17	BMC public health	2017-07-17	2017.0	7.0
+28705498	2017 Oct	Therapie	2017-10-01	2017.0	10.0
+28671987	2017	PloS one	2017-01-01	2017.0	1.0
+28668084	2017 Jul 1	Malaria journal	2017-07-01	2017.0	7.0
+28637467	2017 Jun 21	Malaria journal	2017-06-21	2017.0	6.0
+28633672	2017 Jun 21	BMC medicine	2017-06-21	2017.0	6.0
+28615262	2017 Jul	The American journal of clinical nutrition	2017-07-01	2017.0	7.0
+28615260	2017 Jul	The American journal of clinical nutrition	2017-07-01	2017.0	7.0
+28610579	2017 Jun 13	Malaria journal	2017-06-13	2017.0	6.0
+28592572	2017 Jun 6	BMJ open	2017-06-06	2017.0	6.0
+28571583	2017 Jun 1	Malaria journal	2017-06-01	2017.0	6.0
+28558701	2017 May 30	Malaria journal	2017-05-30	2017.0	5.0
+28552183	2017 Jun	Spatial and spatio-temporal epidemiology	2017-06-01	2017.0	6.0
+28526083	2017 May 19	Malaria journal	2017-05-19	2017.0	5.0
+28510633	2017 Sep 15	Clinical infectious diseases : an official publication of the Infectious Diseases Society of America	2017-09-15	2017.0	9.0
+28500813	2017 May	The American journal of tropical medicine and hygiene	2017-05-01	2017.0	5.0
+28469130	2017 May 3	Scientific reports	2017-05-03	2017.0	5.0
+28454537	2017 Apr 28	Malaria journal	2017-04-28	2017.0	4.0
+28449641	2017 Apr 27	BMC infectious diseases	2017-04-27	2017.0	4.0
+28446847	2016 Sep	Ethiopian journal of health sciences	2016-09-01	2016.0	9.0
+28439418	2017	BMC hematology	2017-01-01	2017.0	1.0
+28431115	2017 May 1	Clinical infectious diseases : an official publication of the Infectious Diseases Society of America	2017-05-01	2017.0	5.0
+28427415	2017 Apr 20	Malaria journal	2017-04-20	2017.0	4.0
+28427357	2017 Apr 20	BMC infectious diseases	2017-04-20	2017.0	4.0
+28426116	2017 Jul 1	Journal of travel medicine	2017-07-01	2017.0	7.0
+28416929	2017 Feb	The Eurasian journal of medicine	2017-02-01	2017.0	2.0
+28410415	2017	PloS one	2017-01-01	2017.0	1.0
+28406952	2017	PloS one	2017-01-01	2017.0	1.0
+28399179	2017	PloS one	2017-01-01	2017.0	1.0
+28390423	2017 Apr 8	Malaria journal	2017-04-08	2017.0	4.0
+28388914	2017 Apr 7	Malaria journal	2017-04-07	2017.0	4.0
+28369268	2017 May 1	Clinical infectious diseases : an official publication of the Infectious Diseases Society of America	2017-05-01	2017.0	5.0
+28347311	2017 Mar 27	Malaria journal	2017-03-27	2017.0	3.0
+28329101	2017 Feb 15	The Journal of infectious diseases	2017-02-15	2017.0	2.0
+28329034	2017 Apr 1	The Journal of infectious diseases	2017-04-01	2017.0	4.0
+28329019	2017	PloS one	2017-01-01	2017.0	1.0
+28320389	2017 Mar 20	Malaria journal	2017-03-20	2017.0	3.0
+28302147	2017 Mar 16	Infectious diseases of poverty	2017-03-16	2017.0	3.0
+28302093	2017 Mar 16	BMC public health	2017-03-16	2017.0	3.0
+28301539	2017	PloS one	2017-01-01	2017.0	1.0
+28274257	2017 Mar 9	Malaria journal	2017-03-09	2017.0	3.0
+28241813	2017 Feb 28	BMC pediatrics	2017-02-28	2017.0	2.0
+28239760	2017 Jun	Indian journal of pediatrics	2017-06-01	2017.0	6.0
+28222094	2017 Feb	PLoS medicine	2017-02-01	2017.0	2.0
+28220714	2017 Mar	Pathogens and global health	2017-03-01	2017.0	3.0
+28187770	2017 Feb 10	Malaria journal	2017-02-10	2017.0	2.0
+28173862	2017 Feb 7	Malaria journal	2017-02-07	2017.0	2.0
+28143417	2017 Jan 31	BMC infectious diseases	2017-01-31	2017.0	1.0
+28126001	2017 Jan 26	Malaria journal	2017-01-26	2017.0	1.0
+28114942	2017 Jan 23	Malaria journal	2017-01-23	2017.0	1.0
+28103889	2017 Jan 19	Malaria journal	2017-01-19	2017.0	1.0
+28095801	2017 Jan 17	BMC pregnancy and childbirth	2017-01-17	2017.0	1.0
+28068989	2017 Jan 9	Malaria journal	2017-01-09	2017.0	1.0
+28049481	2017 Jan 3	Malaria journal	2017-01-03	2017.0	1.0
+28049471	2017 Jan 4	Malaria journal	2017-01-04	2017.0	1.0
+28049466	2017 Jan 3	Malaria journal	2017-01-03	2017.0	1.0
+28011610	2017 Feb 1	Clinical infectious diseases : an official publication of the Infectious Diseases Society of America	2017-02-01	2017.0	2.0
+28003151	2017 Jan	International journal for parasitology	2017-01-01	2017.0	1.0
+27980789	2016	BMC hematology	2016-01-01	2016.0	1.0
+27965185	2016 Nov 1	Medecine et sante tropicales	2016-11-01	2016.0	11.0
+27965145	2017 Nov	Acta tropica	2017-11-01	2017.0	11.0
+27942016	2016	PloS one	2016-01-01	2016.0	1.0
+27941968	2016 Dec	PLoS neglected tropical diseases	2016-12-01	2016.0	12.0
+27941110	2016 Dec 15	Clinical infectious diseases : an official publication of the Infectious Diseases Society of America	2016-12-15	2016.0	12.0
+27936031	2016	PloS one	2016-01-01	2016.0	1.0
+27894851	2017 Jan	The Lancet. Global health	2017-01-01	2017.0	1.0
+27882866	2016	Global health action	2016-01-01	2016.0	1.0
+27881136	2016 Nov 24	Malaria journal	2016-11-24	2016.0	11.0
+27858887	2016 Nov	Medicine	2016-11-01	2016.0	11.0
+27857610	2016	Tropical medicine and health	2016-01-01	2016.0	1.0
+27856796	2016 Nov 16	Science translational medicine	2016-11-16	2016.0	11.0
+27852705	2016 Nov 16	BMJ open	2016-11-16	2016.0	11.0
+27852258	2016 Nov 16	Malaria journal	2016-11-16	2016.0	11.0
+27821171	2016 Nov 8	Malaria journal	2016-11-08	2016.0	11.0
+27799650	2016 Dec 7	The American journal of tropical medicine and hygiene	2016-12-07	2016.0	12.0
+27561363	2016 Nov	The Journal of animal ecology	2016-11-01	2016.0	11.0
+27756395	2016 Oct 19	Malaria journal	2016-10-19	2016.0	10.0
+27756391	2016 Oct 18	Malaria journal	2016-10-18	2016.0	10.0
+27746826	2016	Computational and mathematical methods in medicine	2016-01-01	2016.0	1.0
+27681544	2016 Jul-Sep	Journal of vector borne diseases			
+27642435	2016	The Pan African medical journal	2016-01-01	2016.0	1.0
+27638946	2016 Oct 15	The Journal of infectious diseases	2016-10-15	2016.0	10.0
+27636719	2016	PloS one	2016-01-01	2016.0	1.0
+27622496	2016	PloS one	2016-01-01	2016.0	1.0
+27604807	2016 Sep 7	Parasites & vectors	2016-09-07	2016.0	9.0
+27604777	2016 Sep 7	Malaria journal	2016-09-07	2016.0	9.0
+27603309	2016	PloS one	2016-01-01	2016.0	1.0
+27600604	2016 Sep 6	BMC infectious diseases	2016-09-06	2016.0	9.0
+27578303	2016 Aug 30	BMC public health	2016-08-30	2016.0	8.0
+27548286	2016 Aug	PLoS neglected tropical diseases	2016-08-01	2016.0	8.0
+27543078	2016 Aug 19	Reproductive health	2016-08-19	2016.0	8.0
+27542940	2016 Aug 19	Malaria journal	2016-08-19	2016.0	8.0
+27515696	2016 Aug 11	Malaria journal	2016-08-11	2016.0	8.0
+27502491	2016 Aug 9	Infectious diseases of poverty	2016-08-09	2016.0	8.0
+27495904	2016 Aug 5	BMC pregnancy and childbirth	2016-08-05	2016.0	8.0
+27495044	2016 Aug	Medicine	2016-08-01	2016.0	8.0
+27491865	2016 Aug 4	BMC public health	2016-08-04	2016.0	8.0
+27487398	2016 Aug	PLoS neglected tropical diseases	2016-08-01	2016.0	8.0
+27474932	2016 Sep	Midwifery	2016-09-01	2016.0	9.0
+27448599	2016 Jul 22	BMC infectious diseases	2016-07-22	2016.0	7.0
+27448394	2016 Jul 22	Malaria journal	2016-07-22	2016.0	7.0
+27445510	2016	Risk management and healthcare policy	2016-01-01	2016.0	1.0
+27435973	2016 Jul 19	Malaria journal	2016-07-19	2016.0	7.0
+27430560	2016 Jul 18	BMC public health	2016-07-18	2016.0	7.0
+27430322	2016 Jul 19	Malaria journal	2016-07-19	2016.0	7.0
+27417676	2016 Jul 15	Malaria journal	2016-07-15	2016.0	7.0
+27411062	2016 Sep	Molecular ecology	2016-09-01	2016.0	9.0
+27406091	2016 Jul 12	Malaria journal	2016-07-12	2016.0	7.0
+27385484	2016 Jul 7	Scientific reports	2016-07-07	2016.0	7.0
+27378367	2016 May	Journal of travel medicine	2016-05-01	2016.0	5.0
+27358838	2016 Mar	Journal of lifestyle medicine	2016-03-01	2016.0	3.0
+27352303	2016 Jun	PLoS medicine	2016-06-01	2016.0	6.0
+27342570	2016 Jun 24	BMC research notes	2016-06-24	2016.0	6.0
+27336164	2016	PloS one	2016-01-01	2016.0	1.0
+27314369	2016 Jun 14	International journal of environmental research and public health	2016-06-14	2016.0	6.0
+27306221	2016 Jun 16	Malaria journal	2016-06-16	2016.0	6.0
+27304051	2016 Aug	Vector borne and zoonotic diseases (Larchmont, N.Y.)	2016-08-01	2016.0	8.0
+27303570	2016	The Pan African medical journal	2016-01-01	2016.0	1.0
+27283211	2016 Sep	Public health nursing (Boston, Mass.)	2016-09-01	2016.0	9.0
+27273644	2016 Aug 3	The American journal of tropical medicine and hygiene	2016-08-03	2016.0	8.0
+27255376	2016 Jun 3	Malaria journal	2016-06-03	2016.0	6.0
+27221542	2016 May 24	BMC medicine	2016-05-24	2016.0	5.0
+27217909	2016 Mar	Malawi medical journal : the journal of Medical Association of Malawi	2016-03-01	2016.0	3.0
+27169470	2016 May 11	Malaria journal	2016-05-11	2016.0	5.0
+27154310	2016 May 6	Malaria journal	2016-05-06	2016.0	5.0
+27147109	2016 May 4	BMC pregnancy and childbirth	2016-05-04	2016.0	5.0
+27146298	2016 May 4	Malaria journal	2016-05-04	2016.0	5.0
+27145034	2016	PloS one	2016-01-01	2016.0	1.0
+27145248	2016 Jul	Journal of nursing scholarship : an official publication of Sigma Theta Tau International Honor Society of Nursing	2016-07-01	2016.0	7.0
+27142303	2016 May 4	Malaria journal	2016-05-04	2016.0	5.0
+27137913	2016	PloS one	2016-01-01	2016.0	1.0
+27121196	2016 Apr 27	Malaria journal	2016-04-27	2016.0	4.0
+27114294	2016 Jul 6	The American journal of tropical medicine and hygiene	2016-07-06	2016.0	7.0
+27114289	2016 Jul 6	The American journal of tropical medicine and hygiene	2016-07-06	2016.0	7.0
+27109419	2016 Apr 25	Infectious diseases of poverty	2016-04-25	2016.0	4.0
+27098976	2016 Apr 21	Malaria journal	2016-04-21	2016.0	4.0
+27098596	2016 Apr 21	Malaria journal	2016-04-21	2016.0	4.0
+27091046	2016 Apr 18	Malaria journal	2016-04-18	2016.0	4.0
+27079380	2016 Apr 14	Malaria journal	2016-04-14	2016.0	4.0
+27072128	2016 Apr 12	International journal of health geographics	2016-04-12	2016.0	4.0
+27068575	2016 Apr 11	Malaria journal	2016-04-11	2016.0	4.0
+27056132	2016 Aug	Acta tropica	2016-08-01	2016.0	8.0
+27036722	2015 Sep-Oct	Annals of global health			
+27029360	2016 Apr	Zhonghua yu fang yi xue za zhi [Chinese journal of preventive medicine]	2016-04-01	2016.0	4.0
+27004580	2016 Mar	Journal of vector borne diseases	2016-03-01	2016.0	3.0
+27004578	2016 Mar	Journal of vector borne diseases	2016-03-01	2016.0	3.0
+27001145	2016 Jul	Acta tropica	2016-07-01	2016.0	7.0
+26999435	2016	PloS one	2016-01-01	2016.0	1.0
+26996396	2016 Jun	Tropical medicine & international health : TM & IH	2016-06-01	2016.0	6.0
+26963914	2016	PloS one	2016-01-01	2016.0	1.0
+26958008	2015 Dec	African health sciences	2015-12-01	2015.0	12.0
+26956373	2016 Mar 8	BMC medical research methodology	2016-03-08	2016.0	3.0
+26949296	2015 Oct	Ethiopian journal of health sciences	2015-10-01	2015.0	10.0
+26947310	2016 Jun	Public health	2016-06-01	2016.0	6.0
+26931488	2016 Mar 1	Malaria journal	2016-03-01	2016.0	3.0
+26874788	2016 Feb 13	BMC infectious diseases	2016-02-13	2016.0	2.0
+26871882	2016 Mar 1	Journal of acquired immune deficiency syndromes (1999)	2016-03-01	2016.0	3.0
+26866471	2016	PloS one	2016-01-01	2016.0	1.0
+26864042	2016 Apr	European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology	2016-04-01	2016.0	4.0
+26845546	2016	PloS one	2016-01-01	2016.0	1.0
+26842751	2016 Feb 3	BMC infectious diseases	2016-02-03	2016.0	2.0
+26830027	2016 Feb 1	BMC public health	2016-02-01	2016.0	2.0
+26799167	2016 Mar	Tropical medicine & international health : TM & IH	2016-03-01	2016.0	3.0
+29546143	2016	AIMS public health	2016-01-01	2016.0	1.0
+26739654	2016 Mar	Acta tropica	2016-03-01	2016.0	3.0
+26738805	2016 Jan 6	Malaria journal	2016-01-06	2016.0	1.0
+26731524	2016	PloS one	2016-01-01	2016.0	1.0
+26702815	2015 Dec 24	Malaria journal	2015-12-24	2015.0	12.0
+26696416	2015 Dec 22	Malaria journal	2015-12-22	2015.0	12.0
+26696263	2016 Mar	AIDS and behavior	2016-03-01	2016.0	3.0
+26693816	2015 Dec 22	Malaria journal	2015-12-22	2015.0	12.0
+26686045	2015 Oct	The Lancet. Haematology	2015-10-01	2015.0	10.0
+26671012	2015 Dec 15	Malaria journal	2015-12-15	2015.0	12.0
+26626275	2015 Dec 1	Malaria journal	2015-12-01	2015.0	12.0
+26626013	2015 Dec 2	Malaria journal	2015-12-02	2015.0	12.0
+26619943	2015 Dec 1	Malaria journal	2015-12-01	2015.0	12.0
+26618305	2015 Nov 4	Geospatial health	2015-11-04	2015.0	11.0
+26613716	2015 Nov 28	Reproductive health	2015-11-28	2015.0	11.0
+26608029	2015 Nov 25	BMC public health	2015-11-25	2015.0	11.0
+26599634	2015	PloS one	2015-01-01	2015.0	1.0
+26597653	2015 Nov 24	Malaria journal	2015-11-24	2015.0	11.0
+26577571	2015 Nov 17	Malaria journal	2015-11-17	2015.0	11.0
+26559606	2015 Nov 12	Scientific reports	2015-11-12	2015.0	11.0
+26537373	2015 Nov 4	Malaria journal	2015-11-04	2015.0	11.0
+26507650	2016 Apr	Journal of community health	2016-04-01	2016.0	4.0
+26500831	2015	PeerJ	2015-01-01	2015.0	1.0
+26476849	2015 Dec	Social science & medicine (1982)	2015-12-01	2015.0	12.0
+26459307	2015 Oct 12	Malaria journal	2015-10-12	2015.0	10.0
+26448013	2015 Oct	Medicine	2015-10-01	2015.0	10.0
+26446166	2015 Oct 7	BMJ open	2015-10-07	2015.0	10.0
+26445341	2015 Oct 6	Malaria journal	2015-10-06	2015.0	10.0
+26444670	2015 Oct 6	BMC neurology	2015-10-06	2015.0	10.0
+26430747	2015	PloS one	2015-01-01	2015.0	1.0
+26429418	2016 Mar-Apr	Peritoneal dialysis international : journal of the International Society for Peritoneal Dialysis			
+26425794	2015 Dec	Tropical medicine & international health : TM & IH	2015-12-01	2015.0	12.0
+26423819	2015 Sep 30	Malaria journal	2015-09-30	2015.0	9.0
+26418655	2015 Sep	Journal of vector borne diseases	2015-09-01	2015.0	9.0
+26418004	2015	PloS one	2015-01-01	2015.0	1.0
+26416106	2015 Dec	The American journal of tropical medicine and hygiene	2015-12-01	2015.0	12.0
+26415959	2015 Sep 29	Malaria journal	2015-09-29	2015.0	9.0
+26415939	2015 Sep 28	BMC research notes	2015-09-28	2015.0	9.0
+26409483	2015 Sep 26	Malaria journal	2015-09-26	2015.0	9.0
+26407275	2016 Dec	Journal of the Pediatric Infectious Diseases Society	2016-12-01	2016.0	12.0
+26405498	2015	The Pan African medical journal	2015-01-01	2015.0	1.0
+26391129	2015 Sep 22	Malaria journal	2015-09-22	2015.0	9.0
+26383545	2015 Sep 17	Malaria journal	2015-09-17	2015.0	9.0
+26377199	2015 Sep 17	Malaria journal	2015-09-17	2015.0	9.0
+26376980	2015 Sep 17	Malaria journal	2015-09-17	2015.0	9.0
+26356311	2015	PloS one	2015-01-01	2015.0	1.0
+26343146	2015 Sep 7	Critical care (London, England)	2015-09-07	2015.0	9.0
+26343145	2015 Sep 7	BMC medicine	2015-09-07	2015.0	9.0
+26338385	2015 Apr-Jun	Revista peruana de medicina experimental y salud publica			
+26334824	2015 May	Journal of medical entomology	2015-05-01	2015.0	5.0
+26315661	2015 Aug 28	BMC health services research	2015-08-28	2015.0	8.0
+26313752	2015	PloS one	2015-01-01	2015.0	1.0
+26311240	2015 Dec	Tropical medicine & international health : TM & IH	2015-12-01	2015.0	12.0
+26278589	2016	AIDS care	2016-01-01	2016.0	1.0
+26275151	2015	PloS one	2015-01-01	2015.0	1.0
+26272067	2015 Aug 15	Malaria journal	2015-08-15	2015.0	8.0
+26269708	2015	International breastfeeding journal	2015-01-01	2015.0	1.0
+26250533	2015 Aug 7	BMC public health	2015-08-07	2015.0	8.0
+26248362	2015 Oct	Antimicrobial agents and chemotherapy	2015-10-01	2015.0	10.0
+26246383	2015 Aug 7	Malaria journal	2015-08-07	2015.0	8.0
+26218274	2015	PloS one	2015-01-01	2015.0	1.0
+26207181	2015 Dec	Journal of global health	2015-12-01	2015.0	12.0
+26187622	2015 Sep	Transactions of the Royal Society of Tropical Medicine and Hygiene	2015-09-01	2015.0	9.0
+26186686	2015 Sep	Journal of thrombosis and haemostasis : JTH	2015-09-01	2015.0	9.0
+26186547	2015	PloS one	2015-01-01	2015.0	1.0
+26178656	2015 Jul 16	Malaria journal	2015-07-16	2015.0	7.0
+26178574	2016 Jan	AIDS research and human retroviruses	2016-01-01	2016.0	1.0
+26173958	2015 Jul 16	Malaria journal	2015-07-16	2015.0	7.0
+26171962	2015	PloS one	2015-01-01	2015.0	1.0
+26155670	2015 Jun	Indian journal of experimental biology	2015-06-01	2015.0	6.0
+26152223	2015 Jul 8	Malaria journal	2015-07-08	2015.0	7.0
+26139773	2015 May	The Indian journal of medical research	2015-05-01	2015.0	5.0
+26124786	2015 Jun	African health sciences	2015-06-01	2015.0	6.0
+26101076	2015 Jul	The British journal of nutrition	2015-07-01	2015.0	7.0
+26063399	2015 Jun 11	Malaria journal	2015-06-11	2015.0	6.0
+26063324	2015 Jun 11	Parasites & vectors	2015-06-11	2015.0	6.0
+26062097	2016 May-Jun	Journal of public health management and practice : JPHMP			
+26054511	2015 Jun 3	Geospatial health	2015-06-03	2015.0	6.0
+26049737	2015 Jun 7	BMC public health	2015-06-07	2015.0	6.0
+26045328	2016 Mar	Health policy and planning	2016-03-01	2016.0	3.0
+26042370	2015 Jun 2	International journal of environmental research and public health	2015-06-02	2015.0	6.0
+26040464	2015 Jun 4	Malaria journal	2015-06-04	2015.0	6.0
+26038691	2015	Infectious diseases of poverty	2015-01-01	2015.0	1.0
+25992620	2015	PloS one	2015-01-01	2015.0	1.0
+25990715	2015 May 21	Malaria journal	2015-05-21	2015.0	5.0
+25985404	2015 Apr 24	AIDS (London, England)	2015-04-24	2015.0	4.0
+25976412	2015 Sep	Acta tropica	2015-09-01	2015.0	9.0
+25966028	2015	PloS one	2015-01-01	2015.0	1.0
+25965586	2015	PloS one	2015-01-01	2015.0	1.0
+25963402	2015 May 13	Parasites & vectors	2015-05-13	2015.0	5.0
+25962776	2015 Jul	The American journal of tropical medicine and hygiene	2015-07-01	2015.0	7.0
+25962514	2015 May 13	Malaria journal	2015-05-13	2015.0	5.0
+25957881	2015 May 10	Malaria journal	2015-05-10	2015.0	5.0
+25949972	2015 Apr-Jun	Journal of family medicine and primary care			
+25935720	2015 May 3	Malaria journal	2015-05-03	2015.0	5.0
+25935236	2015 Jun	Immunogenetics	2015-06-01	2015.0	6.0
+25934315	2015 May 2	BMC public health	2015-05-02	2015.0	5.0
+25930101	2015 May 2	BMC infectious diseases	2015-05-02	2015.0	5.0
+25928880	2015 Apr 17	BMC pediatrics	2015-04-17	2015.0	4.0
+25926989	2015	Journal of pharmaceutical policy and practice	2015-01-01	2015.0	1.0
+25916414	2015 Jul	Pathogens and global health	2015-07-01	2015.0	7.0
+25903826	2015 Apr 24	Malaria journal	2015-04-24	2015.0	4.0
+25893500	2015	PloS one	2015-01-01	2015.0	1.0
+25890202	2015 Mar 1	Malaria journal	2015-03-01	2015.0	3.0
+25889767	2015 Feb 19	Malaria journal	2015-02-19	2015.0	2.0
+25889306	2015 Feb 13	Malaria journal	2015-02-13	2015.0	2.0
+25889049	2015 Mar 14	Malaria journal	2015-03-14	2015.0	3.0
+25888254	2015 Mar 13	BMC infectious diseases	2015-03-13	2015.0	3.0
+25880664	2015 Feb 19	Malaria journal	2015-02-19	2015.0	2.0
+25880096	2015 Apr 14	Malaria journal	2015-04-14	2015.0	4.0
+25841025	2015 May 5	Neurology	2015-05-05	2015.0	5.0
+25837978	2015	PloS one	2015-01-01	2015.0	1.0
+25802434	2015 May	The American journal of tropical medicine and hygiene	2015-05-01	2015.0	5.0
+25764173	2015 Mar	PLoS pathogens	2015-03-01	2015.0	3.0
+25723502	2015 Feb	PLoS neglected tropical diseases	2015-02-01	2015.0	2.0
+25716380	2014 Sep 25	Global journal of health science	2014-09-25	2014.0	9.0
+25674040	2015	Population health metrics	2015-01-01	2015.0	1.0
+25673799	2015 Mar	Postgraduate medical journal	2015-03-01	2015.0	3.0
+25672353	2015	Japanese journal of infectious diseases	2015-01-01	2015.0	1.0
+25645738	2015 Feb 3	BMC pregnancy and childbirth	2015-02-03	2015.0	2.0
+25604040	2015 Jan 21	Malaria journal	2015-01-21	2015.0	1.0
+25603818	2015 Jan 21	Malaria journal	2015-01-21	2015.0	1.0
+25567111	2015 Jan 7	Malaria journal	2015-01-07	2015.0	1.0
+25559587	2015 Jan 5	Malaria journal	2015-01-05	2015.0	1.0
+25557741	2015 Jan 5	Malaria journal	2015-01-05	2015.0	1.0
+25531373	2014	PloS one	2014-01-01	2014.0	1.0
+25529292	2015 Feb 4	Vaccine	2015-02-04	2015.0	2.0
+25523795	2015 Mar	Journal of microscopy	2015-03-01	2015.0	3.0
+25515850	2014 Dec 16	Malaria journal	2014-12-16	2014.0	12.0
+25489193	2014 Oct	Ethiopian journal of health sciences	2014-10-01	2014.0	10.0
+25470777	2014	PloS one	2014-01-01	2014.0	1.0
+25431086	2014 Nov 28	Malaria journal	2014-11-28	2014.0	11.0
+25418476	2014 Nov 24	Malaria journal	2014-11-24	2014.0	11.0
+25414840	2014	International journal of tropical disease & health	2014-01-01	2014.0	1.0
+25413231	2014 Nov 21	Malaria journal	2014-11-21	2014.0	11.0
+25408152	2014 Nov 19	BMC infectious diseases	2014-11-19	2014.0	11.0
+25373784	2014 Nov 5	Malaria journal	2014-11-05	2014.0	11.0
+25372043	2014	PloS one	2014-01-01	2014.0	1.0
+25358894	2014 Oct 30	Implementation science : IS	2014-10-30	2014.0	10.0
+25350546	2014	PloS one	2014-01-01	2014.0	1.0
+25339637	2015 Nov	Health policy and planning	2015-11-01	2015.0	11.0
+25338083	2014	PloS one	2014-01-01	2014.0	1.0
+25333909	2014	PloS one	2014-01-01	2014.0	1.0
+25324687	2014 Sep	Tropical medicine and health	2014-09-01	2014.0	9.0
+25320590	2014 Jun	African health sciences	2014-06-01	2014.0	6.0
+25318705	2014 Oct 15	Malaria journal	2014-10-15	2014.0	10.0
+25306431	2014 Oct 11	Malaria journal	2014-10-11	2014.0	10.0
+25304187	2014 Oct 10	BMC research notes	2014-10-10	2014.0	10.0
+25280926	2014 Oct 4	BMC infectious diseases	2014-10-04	2014.0	10.0
+25276574	2014 May	Global health, science and practice	2014-05-01	2014.0	5.0
+25261933	2014 Nov	Nature genetics	2014-11-01	2014.0	11.0
+25246718	2014 Aug	The Korean journal of parasitology	2014-08-01	2014.0	8.0
+25245164	2014 Sep 23	Malaria journal	2014-09-23	2014.0	9.0
+25233893	2014 Sep 18	BMC pregnancy and childbirth	2014-09-18	2014.0	9.0
+25233836	2014 Sep 19	Malaria journal	2014-09-19	2014.0	9.0
+25222882	2015 Jun	Public health nutrition	2015-06-01	2015.0	6.0
+25200267	2014 Nov	The American journal of tropical medicine and hygiene	2014-11-01	2014.0	11.0
+25200262	2014 Nov	The American journal of tropical medicine and hygiene	2014-11-01	2014.0	11.0
+25192615	2014 Sep 5	BMC health services research	2014-09-05	2014.0	9.0
+25190579	2014 Sep 4	Malaria journal	2014-09-04	2014.0	9.0
+25182432	2014 Sep 3	Malaria journal	2014-09-03	2014.0	9.0
+25177640	2014 Jul	Journal of clinical and diagnostic research : JCDR	2014-07-01	2014.0	7.0
+25170029	2014 Oct	Transactions of the Royal Society of Tropical Medicine and Hygiene	2014-10-01	2014.0	10.0
+25166263	2014 Aug	PLoS neglected tropical diseases	2014-08-01	2014.0	8.0
+25164538	2014 Aug 27	BMJ open	2014-08-27	2014.0	8.0
+25149186	2014 Aug 22	BMJ open	2014-08-22	2014.0	8.0
+25133548	2014	PloS one	2014-01-01	2014.0	1.0
+25129447	2015 Jan-Feb	Journal of infection and public health			
+25126864	2014 Jun	The Nigerian postgraduate medical journal	2014-06-01	2014.0	6.0
+25107355	2014 Aug 8	Malaria journal	2014-08-08	2014.0	8.0
+25106643	2014 Oct	Transactions of the Royal Society of Tropical Medicine and Hygiene	2014-10-01	2014.0	10.0
+25076108	2014 Nov	Acta tropica	2014-11-01	2014.0	11.0
+25075623	2014	PloS one	2014-01-01	2014.0	1.0
+25072616	2014 Oct 1	Journal of acquired immune deficiency syndromes (1999)	2014-10-01	2014.0	10.0
+25061936	2014	PloS one	2014-01-01	2014.0	1.0
+25036291	2014	PloS one	2014-01-01	2014.0	1.0
+25009996	2014 Jul	PLoS neglected tropical diseases	2014-07-01	2014.0	7.0
+25008574	2014 Jul 9	Malaria journal	2014-07-09	2014.0	7.0
+25002302	2014 Sep	The American journal of tropical medicine and hygiene	2014-09-01	2014.0	9.0
+24992885	2015 Jun	Journal of mathematical biology	2015-06-01	2015.0	6.0
+24991915	2014	PloS one	2014-01-01	2014.0	1.0
+24926687	2014	PloS one	2014-01-01	2014.0	1.0
+24921627	2014 Jun	PLoS neglected tropical diseases	2014-06-01	2014.0	6.0
+24903736	2014 Jun 6	International journal of health geographics	2014-06-06	2014.0	6.0
+24885180	2014 May 28	Malaria journal	2014-05-28	2014.0	5.0
+24858193	2014	PloS one	2014-01-01	2014.0	1.0
+24778895	2014	Malaria research and treatment	2014-01-01	2014.0	1.0
+24761799	2014 Apr 24	BMC pharmacology & toxicology	2014-04-24	2014.0	4.0
+24748325	2013 Sep	The Lancet. Global health	2013-09-01	2013.0	9.0
+24748201	2014	PloS one	2014-01-01	2014.0	1.0
+24740291	2014	PloS one	2014-01-01	2014.0	1.0
+24737881	2015 Mar	International journal of STD & AIDS	2015-03-01	2015.0	3.0
+24732258	2014	PloS one	2014-01-01	2014.0	1.0
+24728349	2014 Aug	Journal of tropical pediatrics	2014-08-01	2014.0	8.0
+24721998	2014	PloS one	2014-01-01	2014.0	1.0
+24713375	2014	Journal of the International AIDS Society	2014-01-01	2014.0	1.0
+24679068	2014 Mar 28	Malaria journal	2014-03-28	2014.0	3.0
+24674301	2014 Mar 28	BMC infectious diseases	2014-03-28	2014.0	3.0
+24666562	2014 Mar 25	Malaria journal	2014-03-25	2014.0	3.0
+24651078	2014	PloS one	2014-01-01	2014.0	1.0
+24644526	2014	The Pan African medical journal	2014-01-01	2014.0	1.0
+24641533	2014 Mar	BJOG : an international journal of obstetrics and gynaecology	2014-03-01	2014.0	3.0
+24633915	2015 Apr	Health policy and planning	2015-04-01	2015.0	4.0
+24632676	2014	PloS one	2014-01-01	2014.0	1.0
+24615132	2014 May	The American journal of tropical medicine and hygiene	2014-05-01	2014.0	5.0
+24615128	2014 May	The American journal of tropical medicine and hygiene	2014-05-01	2014.0	5.0
+24595186	2014	PloS one	2014-01-01	2014.0	1.0
+24591802	2014 Jan	Ethiopian journal of health sciences	2014-01-01	2014.0	1.0
+24587264	2014	PloS one	2014-01-01	2014.0	1.0
+24568206	2014 Feb 25	Parasites & vectors	2014-02-25	2014.0	2.0
+24555713	2014 Feb 20	Globalization and health	2014-02-20	2014.0	2.0
+24535679	2014 Apr	Genetic epidemiology	2014-04-01	2014.0	4.0
+24524462	2014 May	Parasitology	2014-05-01	2014.0	5.0
+24520325	2014	PloS one	2014-01-01	2014.0	1.0
+24517452	2014 Feb 11	Malaria journal	2014-02-11	2014.0	2.0
+24490102	2013	Malaria research and treatment	2013-01-01	2013.0	1.0
+24489732	2014	PloS one	2014-01-01	2014.0	1.0
+24479770	2014 Jan 31	BMC public health	2014-01-31	2014.0	1.0
+24463333	2015 Mar	Health policy and planning	2015-03-01	2015.0	3.0
+24423279	2014 Jan 14	Malaria journal	2014-01-14	2014.0	1.0
+24420781	2014 Feb	The American journal of tropical medicine and hygiene	2014-02-01	2014.0	2.0
+24373342	2013 Dec 28	BMC infectious diseases	2013-12-28	2013.0	12.0
+27355032	2014	International scholarly research notices	2014-01-01	2014.0	1.0
+26867270	2014 Jan	Tanzania journal of health research	2014-01-01	2014.0	1.0
+26862629	2014 Jan	East African medical journal	2014-01-01	2014.0	1.0
+24363547	2013	Infectious diseases in obstetrics and gynecology	2013-01-01	2013.0	1.0
+24343886	2014 Feb	The American journal of tropical medicine and hygiene	2014-02-01	2014.0	2.0
+24336697	2014 Feb	Transactions of the Royal Society of Tropical Medicine and Hygiene	2014-02-01	2014.0	2.0
+24325267	2013 Dec 10	Malaria journal	2013-12-10	2013.0	12.0
+24279303	2013 Nov 27	BMC public health	2013-11-27	2013.0	11.0
+24245949	2013 Nov 18	Diagnostic pathology	2013-11-18	2013.0	11.0
+24244581	2013	PloS one	2013-01-01	2013.0	1.0
+24237749	2013 Nov 15	Malaria journal	2013-11-15	2013.0	11.0
+24237621	2013 Nov 15	Malaria journal	2013-11-15	2013.0	11.0
+24235927	2013 Jun	African health sciences	2013-06-01	2013.0	6.0
+24225406	2013 Nov 14	Malaria journal	2013-11-14	2013.0	11.0
+24225377	2013 Nov 14	Malaria journal	2013-11-14	2013.0	11.0
+24215465	2014 May	HIV medicine	2014-05-01	2014.0	5.0
+24206777	2013 Nov 11	Malaria journal	2013-11-11	2013.0	11.0
+24200236	2013 Nov 7	Malaria journal	2013-11-07	2013.0	11.0
+24198882	2013	The Pan African medical journal	2013-01-01	2013.0	1.0
+24167457	2013	International journal of integrated care	2013-01-01	2013.0	1.0
+24166044	2014 Jan	The American journal of tropical medicine and hygiene	2014-01-01	2014.0	1.0
+24133327	2013 Jul	Indian journal of critical care medicine : peer-reviewed, official publication of Indian Society of Critical Care Medicine	2013-07-01	2013.0	7.0
+24112638	2013 Oct 10	Malaria journal	2013-10-10	2013.0	10.0
+24054534	2013 Sep 21	Lancet (London, England)	2013-09-21	2013.0	9.0
+24053679	2013 Sep 21	Malaria journal	2013-09-21	2013.0	9.0
+24053144	2013 Sep 22	Malaria journal	2013-09-22	2013.0	9.0
+24042090	2013 Nov	Health & place	2013-11-01	2013.0	11.0
+24041795	2014 Feb 15	The Journal of infectious diseases	2014-02-15	2014.0	2.0
+24035311	2014 Jan-Feb	Travel medicine and infectious disease			
+24030274	2013 Sep	International health	2013-09-01	2013.0	9.0
+24030115	2013 Jun	International health	2013-06-01	2013.0	6.0
+24016301	2013	Rural and remote health	2013-01-01	2013.0	1.0
+24007753	2014 Jun	Epidemiology and infection	2014-06-01	2014.0	6.0
+24007344	2013 Sep 3	BMC research notes	2013-09-03	2013.0	9.0
+24001135	2013 Aug 30	Infectious diseases of poverty	2013-08-30	2013.0	8.0
+23999346	2014 Feb	Journal of infection and public health	2014-02-01	2014.0	2.0
+23977253	2013	PloS one	2013-01-01	2013.0	1.0
+23977099	2013	PloS one	2013-01-01	2013.0	1.0
+23936345	2013	PloS one	2013-01-01	2013.0	1.0
+23914971	2013 Aug 2	Malaria journal	2013-08-02	2013.0	8.0
+23906614	2013 Dec	Acta tropica	2013-12-01	2013.0	12.0
+23899336	2013 Jul 30	BMC infectious diseases	2013-07-30	2013.0	7.0
+23872929	2013 Nov	Pediatric nephrology (Berlin, Germany)	2013-11-01	2013.0	11.0
+23870515	2013 Jul 19	Malaria journal	2013-07-19	2013.0	7.0
+23855893	2013 Jul 15	Malaria journal	2013-07-15	2013.0	7.0
+23840729	2013	PloS one	2013-01-01	2013.0	1.0
+23836566	2013 Aug	The American journal of tropical medicine and hygiene	2013-08-01	2013.0	8.0
+23829311	2013 Jul 8	Malaria journal	2013-07-08	2013.0	7.0
+23809071	2013 Jul-Aug	Journal of travel medicine			
+23798997	2013	PloS one	2013-01-01	2013.0	1.0
+23766660	2013	HIV/AIDS (Auckland, N.Z.)	2013-01-01	2013.0	1.0
+23741481	2013	PloS one	2013-01-01	2013.0	1.0
+23705591	2013 May 27	Malaria journal	2013-05-27	2013.0	5.0
+23656210	2013 Aug	Internal medicine journal	2013-08-01	2013.0	8.0
+23651490	2013 May 7	Malaria journal	2013-05-07	2013.0	5.0
+23645841	2013 Aug 1	Blood	2013-08-01	2013.0	8.0
+23634654	2013 May 1	Malaria journal	2013-05-01	2013.0	5.0
+23614351	2013 Jun	Epilepsia	2013-06-01	2013.0	6.0
+23604864	2013 Jun	Transactions of the Royal Society of Tropical Medicine and Hygiene	2013-06-01	2013.0	6.0
+23589533	2013 Jun	The American journal of tropical medicine and hygiene	2013-06-01	2013.0	6.0
+23577673	2013 Apr 11	BMC public health	2013-04-11	2013.0	4.0
+23574987	2013 Apr 10	Malaria journal	2013-04-10	2013.0	4.0
+23566168	2013 Apr 8	BMC public health	2013-04-08	2013.0	4.0
+23555035	2013	PloS one	2013-01-01	2013.0	1.0
+23545128	2013 Jul	Acta tropica	2013-07-01	2013.0	7.0
+23521898	2013 Mar 25	BMC immunology	2013-03-25	2013.0	3.0
+23503560	2013	The Pan African medical journal	2013-01-01	2013.0	1.0
+23497139	2013 Mar 5	BMC infectious diseases	2013-03-05	2013.0	3.0
+23431812	2012 Sep	The Southeast Asian journal of tropical medicine and public health	2012-09-01	2012.0	9.0
+23425576	2013 Feb 20	BMC public health	2013-02-20	2013.0	2.0
+23420905	2013 May 15	The Journal of infectious diseases	2013-05-15	2013.0	5.0
+23375964	2013 Mar	The Lancet. Neurology	2013-03-01	2013.0	3.0
+23358640	2013 Apr	The American journal of tropical medicine and hygiene	2013-04-01	2013.0	4.0
+23351608	2013 Jan 25	Malaria journal	2013-01-25	2013.0	1.0
+23347097	2013 Sep	Nursing & health sciences	2013-09-01	2013.0	9.0
+23326508	2013	PloS one	2013-01-01	2013.0	1.0
+23324389	2013 Jan 16	Parasites & vectors	2013-01-16	2013.0	1.0
+23308281	2013	PloS one	2013-01-01	2013.0	1.0
+23297732	2013 Jan 8	Malaria journal	2013-01-08	2013.0	1.0
+23297692	2013 Jan 8	Malaria journal	2013-01-08	2013.0	1.0
+23296448	2013 Feb	The American journal of tropical medicine and hygiene	2013-02-01	2013.0	2.0
+23282173	2013 Jan 2	BMC cancer	2013-01-02	2013.0	1.0
+23279225	2013 Jan-Feb	Journal of travel medicine			
+23136276	2012 Nov	The American journal of tropical medicine and hygiene	2012-11-01	2012.0	11.0
+27335851	2013	ISRN parasitology	2013-01-01	2013.0	1.0
+26591670	2013 Jan	Tanzania journal of health research	2013-01-01	2013.0	1.0
+23270614	2012 Dec 27	Malaria journal	2012-12-27	2012.0	12.0
+23270377	2012 Dec 27	BMC public health	2012-12-27	2012.0	12.0
+23269660	2013 Mar	The American journal of tropical medicine and hygiene	2013-03-01	2013.0	3.0
+23249685	2013 Feb	The American journal of tropical medicine and hygiene	2013-02-01	2013.0	2.0
+23237576	2012 Dec 14	Malaria journal	2012-12-14	2012.0	12.0
+23222954	2013 Feb	Transactions of the Royal Society of Tropical Medicine and Hygiene	2013-02-01	2013.0	2.0
+23219288	2013 Mar	International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics	2013-03-01	2013.0	3.0
+23190709	2012 Nov 28	Malaria journal	2012-11-28	2012.0	11.0
+23167586	2013 Jan	Maternal & child nutrition	2013-01-01	2013.0	1.0
+23166194	2013 Feb	The American journal of tropical medicine and hygiene	2013-02-01	2013.0	2.0
+23144702	2012	PloS one	2012-01-01	2012.0	1.0
+23137196	2012 Nov 8	BMC public health	2012-11-08	2012.0	11.0
+23133712	2012	The Pan African medical journal	2012-01-01	2012.0	1.0
+23117621	2013 Feb	Tropical animal health and production	2013-02-01	2013.0	2.0
+23110615	2012 Oct 30	Malaria journal	2012-10-30	2012.0	10.0
+23107021	2012 Oct 29	Malaria journal	2012-10-29	2012.0	10.0
+23088844	2012 Oct 22	Malaria journal	2012-10-22	2012.0	10.0
+23073891	2013 Sep	Health policy and planning	2013-09-01	2013.0	9.0
+23035141	2012 Oct 1	American journal of epidemiology	2012-10-01	2012.0	10.0
+23057857	2012 Oct 11	BMC research notes	2012-10-11	2012.0	10.0
+23049979	2012	PloS one	2012-01-01	2012.0	1.0
+23045477	2012 Dec	Infection and immunity	2012-12-01	2012.0	12.0
+23043671	2012 Oct 8	Implementation science : IS	2012-10-08	2012.0	10.0
+23043538	2012 Oct 8	Malaria journal	2012-10-08	2012.0	10.0
+23032281	2012 Sep	Geospatial health	2012-09-01	2012.0	9.0
+23029433	2012	PloS one	2012-01-01	2012.0	1.0
+23029094	2012	PloS one	2012-01-01	2012.0	1.0
+23012954	2012 Jun	Zhongguo xue xi chong bing fang zhi za zhi = Chinese journal of schistosomiasis control	2012-06-01	2012.0	6.0
+22995852	2012 Dec	The Lancet. Infectious diseases	2012-12-01	2012.0	12.0
+22943788	2012 Sep 3	Malaria journal	2012-09-03	2012.0	9.0
+22937071	2012	PloS one	2012-01-01	2012.0	1.0
+22927489	2012 Sep	BMJ quality & safety	2012-09-01	2012.0	9.0
+22914561	2013 Jan	The Pediatric infectious disease journal	2013-01-01	2013.0	1.0
+22909232	2012 Oct	British journal of haematology	2012-10-01	2012.0	10.0
+22908877	2012 Aug 21	BMC public health	2012-08-21	2012.0	8.0
+22888620	2012 Jun	Eastern Mediterranean health journal = La revue de sante de la Mediterranee orientale = al-Majallah al-sihhiyah li-sharq al-mutawassit	2012-06-01	2012.0	6.0
+22856525	2012 Aug 2	Malaria journal	2012-08-02	2012.0	8.0
+22848097	2012 Sep	The American journal of tropical medicine and hygiene	2012-09-01	2012.0	9.0
+22833603	2012 Jul 24	BMJ (Clinical research ed.)	2012-07-24	2012.0	7.0
+22802736	2012	PLoS medicine	2012-01-01	2012.0	1.0
+22767651	2012 Oct	Clinical infectious diseases : an official publication of the Infectious Diseases Society of America	2012-10-01	2012.0	10.0
+22760138	2012 Jun	Revista da Sociedade Brasileira de Medicina Tropical	2012-06-01	2012.0	6.0
+22752514	2012 Oct	Clinical infectious diseases : an official publication of the Infectious Diseases Society of America	2012-10-01	2012.0	10.0
+22748122	2012 Jul 2	Human resources for health	2012-07-02	2012.0	7.0
+22734580	2012 Jun 26	BMC public health	2012-06-26	2012.0	6.0
+22726955	2012 Jun 24	BMC infectious diseases	2012-06-24	2012.0	6.0
+22706291	2012 Sep 1	Journal of acquired immune deficiency syndromes (1999)	2012-09-01	2012.0	9.0
+22705463	2012 Oct	Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases	2012-10-01	2012.0	10.0
+22701664	2012	PloS one	2012-01-01	2012.0	1.0
+22701563	2012	PloS one	2012-01-01	2012.0	1.0
+22692434	2013 Mar	Indian journal of pediatrics	2013-03-01	2013.0	3.0
+22689390	2013 Jan-Mar	The International journal of health planning and management			
+22687630	2012 Sep	Public health nutrition	2012-09-01	2012.0	9.0
+22666414	2012	PloS one	2012-01-01	2012.0	1.0
+22665595	2012 Jun	The American journal of tropical medicine and hygiene	2012-06-01	2012.0	6.0
+22590865	2012 Feb	Zhongguo xue xi chong bing fang zhi za zhi = Chinese journal of schistosomiasis control	2012-02-01	2012.0	2.0
+22585235	2012 Mar	Journal of vector borne diseases	2012-03-01	2012.0	3.0
+22579125	2012 Jun 9	Lancet (London, England)	2012-06-09	2012.0	6.0
+22576181	2012 Jun	Revue d'epidemiologie et de sante publique	2012-06-01	2012.0	6.0
+22574948	2012 Jul	Tropical medicine & international health : TM & IH	2012-07-01	2012.0	7.0
+22571469	2012 May 9	Malaria journal	2012-05-09	2012.0	5.0
+22570109	2012 Aug	Human genetics	2012-08-01	2012.0	8.0
+22551019	2012 Jul 11	Malaria journal	2012-07-11	2012.0	7.0
+22546009	2012 Jul 10	Malaria journal	2012-07-10	2012.0	7.0
+22545573	2012 Apr 30	Malaria journal	2012-04-30	2012.0	4.0
+22533793	2012	AIDS care	2012-01-01	2012.0	1.0
+22506087	2012	PLoS neglected tropical diseases	2012-01-01	2012.0	1.0
+22490146	2012 Apr 10	Parasites & vectors	2012-04-10	2012.0	4.0
+22444032	2012 Mar 23	Parasites & vectors	2012-03-23	2012.0	3.0
+22412067	2012 Apr	Clinical infectious diseases : an official publication of the Infectious Diseases Society of America	2012-04-01	2012.0	4.0
+22406279	2012 May 9	Vaccine	2012-05-09	2012.0	5.0
+22379817	2011 Dec	Zhongguo xue xi chong bing fang zhi za zhi = Chinese journal of schistosomiasis control	2011-12-01	2011.0	12.0
+22379815	2011 Dec	Zhongguo xue xi chong bing fang zhi za zhi = Chinese journal of schistosomiasis control	2011-12-01	2011.0	12.0
+22370114	2012 Jun	Environmental health perspectives	2012-06-01	2012.0	6.0
+22363558	2012	PloS one	2012-01-01	2012.0	1.0
+26859915	2012 Mar	East African medical journal	2012-03-01	2012.0	3.0
+22343839	2012 Mar	Critical care medicine	2012-03-01	2012.0	3.0
+22336441	2012 Feb 15	International journal of health geographics	2012-02-15	2012.0	2.0
+22330320	2012 Feb 13	Parasites & vectors	2012-02-13	2012.0	2.0
+22323100	2012 Oct	Journal of community health	2012-10-01	2012.0	10.0
+22319629	2012	PloS one	2012-01-01	2012.0	1.0
+22314533	2012 May	Antimicrobial agents and chemotherapy	2012-05-01	2012.0	5.0
+22312572	2011	Malaria research and treatment	2011-01-01	2011.0	1.0
+22309768	2012 Feb 6	BMC public health	2012-02-06	2012.0	2.0
+22302856	2012 Feb	The American journal of tropical medicine and hygiene	2012-02-01	2012.0	2.0
+22299397	2011 Nov	The Southeast Asian journal of tropical medicine and public health	2011-11-01	2011.0	11.0
+22297189	2012 Feb 1	Malaria journal	2012-02-01	2012.0	2.0
+22276858	2012 Jan 25	Malaria journal	2012-01-25	2012.0	1.0
+22262792	2012 Mar 1	The Journal of infectious diseases	2012-03-01	2012.0	3.0
+22236395	2012 Jan 11	Malaria journal	2012-01-11	2012.0	1.0
+22225997	2012 Jan 6	Malaria journal	2012-01-06	2012.0	1.0
+22212628	2012 Mar	Tropical medicine & international health : TM & IH	2012-03-01	2012.0	3.0
+22169409	2012 May	The Lancet. Infectious diseases	2012-05-01	2012.0	5.0
+22166073	2011 Dec 13	Malaria journal	2011-12-13	2011.0	12.0
+22160444	2012 Jun	EcoHealth	2012-06-01	2012.0	6.0
+22147304	2012 Aug	Bulletin de la Societe de pathologie exotique (1990)	2012-08-01	2012.0	8.0
+22144430	2011 Dec	The American journal of tropical medicine and hygiene	2011-12-01	2011.0	12.0
+22141751	2011 Dec 5	Malaria journal	2011-12-05	2011.0	12.0
+22120856	2011 Oct-Dec	Journal of postgraduate medicine			
+22118531	2011 Nov 25	Malaria journal	2011-11-25	2011.0	11.0
+22100446	2012 Mar	Acta tropica	2012-03-01	2012.0	3.0
+22087321	2011	PloS one	2011-01-01	2011.0	1.0
+22078175	2011 Nov 13	Malaria journal	2011-11-13	2011.0	11.0
+22054069	2011 Nov 3	BMC infectious diseases	2011-11-03	2011.0	11.0
+22052892	2012 Jan 15	Clinical infectious diseases : an official publication of the Infectious Diseases Society of America	2012-01-15	2012.0	1.0
+22039892	2011 Oct 31	Malaria journal	2011-10-31	2011.0	10.0
+22022481	2011	PloS one	2011-01-01	2011.0	1.0
+21989409	2011 Oct 11	Malaria journal	2011-10-11	2011.0	10.0
+21969001	2011 Dec	Infection and immunity	2011-12-01	2011.0	12.0
+26592051	2011 Oct	Tanzania journal of health research	2011-10-01	2011.0	10.0
+21943224	2011 Sep 23	Malaria journal	2011-09-23	2011.0	9.0
+21943107	2011 Sep 25	BMC public health	2011-09-25	2011.0	9.0
+21931645	2011	PloS one	2011-01-01	2011.0	1.0
+21921220	2011 Oct	Clinical infectious diseases : an official publication of the Infectious Diseases Society of America	2011-10-01	2011.0	10.0
+21920034	2011 Sep 15	Malaria journal	2011-09-15	2011.0	9.0
+21915678	2012 Nov	Maternal and child health journal	2012-11-01	2012.0	11.0
+21909249	2011 Sep	PLoS medicine	2011-09-01	2011.0	9.0
+21881764	2011 Aug	Memorias do Instituto Oswaldo Cruz	2011-08-01	2011.0	8.0
+21889859	2011 Oct	Revue d'epidemiologie et de sante publique	2011-10-01	2011.0	10.0
+21889618	2011 Dec	Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases	2011-12-01	2011.0	12.0
+21883727	2011 Dec	Tropical medicine & international health : TM & IH	2011-12-01	2011.0	12.0
+21865191	2011 Sep	Clinical infectious diseases : an official publication of the Infectious Diseases Society of America	2011-09-01	2011.0	9.0
+21858127	2011	PloS one	2011-01-01	2011.0	1.0
+21857927	2011	PloS one	2011-01-01	2011.0	1.0
+21856232	2011 Dec	The Lancet. Infectious diseases	2011-12-01	2011.0	12.0
+21849081	2011 Aug 17	Malaria journal	2011-08-17	2011.0	8.0
+21831319	2011 Aug 10	Malaria journal	2011-08-10	2011.0	8.0
+21819616	2011 Aug 6	BMC genetics	2011-08-06	2011.0	8.0
+21818580	2012 Feb	Human genetics	2012-02-01	2012.0	2.0
+21801497	2011 Apr	Annals of tropical medicine and parasitology	2011-04-01	2011.0	4.0
+21801395	2011 Jul 29	Infectious agents and cancer	2011-07-29	2011.0	7.0
+21790366	2012 Feb	The Journal of parasitology	2012-02-01	2012.0	2.0
+21766555	2011 Jun	Journal of health, population, and nutrition	2011-06-01	2011.0	6.0
+21749228	2011 Sep	Food additives & contaminants. Part A, Chemistry, analysis, control, exposure & risk assessment	2011-09-01	2011.0	9.0
+21719933	2012 Feb	Indian pediatrics	2012-02-01	2012.0	2.0
+21715730	2011 Jun	Journal of vector borne diseases	2011-06-01	2011.0	6.0
+21703016	2011 Jun 26	Malaria journal	2011-06-26	2011.0	6.0
+21699741	2011 Jun 24	Malaria journal	2011-06-24	2011.0	6.0
+21696622	2011 Jun 22	Malaria journal	2011-06-22	2011.0	6.0
+21693489	2011 Dec 23	Biology letters	2011-12-23	2011.0	12.0
+21682875	2011 Jun 17	Parasites & vectors	2011-06-17	2011.0	6.0
+21679475	2011 Jun 17	BMC pregnancy and childbirth	2011-06-17	2011.0	6.0
+21668948	2011 Jun 13	BMC infectious diseases	2011-06-13	2011.0	6.0
+21652576	2012 Jul	Health policy and planning	2012-07-01	2012.0	7.0
+21630256	2012 Apr 15	International journal of cancer	2012-04-15	2012.0	4.0
+21625634	2011	PloS one	2011-01-01	2011.0	1.0
+21619624	2011 May 27	Parasites & vectors	2011-05-27	2011.0	5.0
+21533048	2011 Apr 21	PloS one	2011-04-21	2011.0	4.0
+21527240	2011 Jul	Acta tropica	2011-07-01	2011.0	7.0
+21507217	2011 Apr 20	Malaria journal	2011-04-20	2011.0	4.0
+21505300	2011 Jun 1	AIDS (London, England)	2011-06-01	2011.0	6.0
+21496331	2011 Apr 17	Malaria journal	2011-04-17	2011.0	4.0
+21493991	2011 Jan-Mar	Nigerian journal of clinical practice			
+21482551	2011 May	Brain : a journal of neurology	2011-05-01	2011.0	5.0
+21466385	2011 Apr	Vector borne and zoonotic diseases (Larchmont, N.Y.)	2011-04-01	2011.0	4.0
+21453493	2011 Mar 31	Malaria journal	2011-03-31	2011.0	3.0
+25566608	2011 Apr	Tanzania journal of health research	2011-04-01	2011.0	4.0
+21375768	2011 Mar 5	Malaria journal	2011-03-05	2011.0	3.0
+21323158	2011 Jan	The Southeast Asian journal of tropical medicine and public health	2011-01-01	2011.0	1.0
+21320243	2011 May	Tropical medicine & international health : TM & IH	2011-05-01	2011.0	5.0
+21304923	2011 Feb 1	PLoS medicine	2011-02-01	2011.0	2.0
+21257247	2011 Mar	Social science & medicine (1982)	2011-03-01	2011.0	3.0
+21212219	2011 Jan	The American journal of tropical medicine and hygiene	2011-01-01	2011.0	1.0
+21208928	2011 Feb 1	The Journal of infectious diseases	2011-02-01	2011.0	2.0
+24409645	2011 Jan	Tanzania journal of health research	2011-01-01	2011.0	1.0
+21179571	2010 Dec 16	PloS one	2010-12-16	2010.0	12.0
+21176242	2010 Dec 23	Malaria journal	2010-12-23	2010.0	12.0
+21155833	2011 Jun	Transfusion	2011-06-01	2011.0	6.0
+21144184	2010 Dec	Annals of tropical medicine and parasitology	2010-12-01	2010.0	12.0
+21106789	2011 Feb	Journal of clinical microbiology	2011-02-01	2011.0	2.0
+21102592	2010 Nov 23	British journal of cancer	2010-11-23	2010.0	11.0
+21092176	2010 Nov 22	Malaria journal	2010-11-22	2010.0	11.0
+21085871	2010 Sep-Oct	Revista da Sociedade Brasileira de Medicina Tropical			
+21085711	2010 Nov 10	PloS one	2010-11-10	2010.0	11.0
+21080317	2010 Nov	Geospatial health	2010-11-01	2010.0	11.0
+21072229	2010 Nov 2	PLoS neglected tropical diseases	2010-11-02	2010.0	11.0
+21070644	2010 Nov 11	Malaria journal	2010-11-11	2010.0	11.0
+21067615	2010 Nov 11	Malaria journal	2010-11-11	2010.0	11.0
+21050496	2010 Nov 5	International journal of health geographics	2010-11-05	2010.0	11.0
+21036841	2010 Nov	The American journal of tropical medicine and hygiene	2010-11-01	2010.0	11.0
+20955565	2010 Oct 18	Malaria journal	2010-10-18	2010.0	10.0
+20889880	2010 Oct	The American journal of tropical medicine and hygiene	2010-10-01	2010.0	10.0
+20888613	2010 Nov	Transactions of the Royal Society of Tropical Medicine and Hygiene	2010-11-01	2010.0	11.0
+20883315	2010 Oct	Scandinavian journal of immunology	2010-10-01	2010.0	10.0
+24409638	2010 Oct	Tanzania journal of health research	2010-10-01	2010.0	10.0
+20832366	2010 Oct	The Lancet. Infectious diseases	2010-10-01	2010.0	10.0
+20821179	2010 Dec	Bulletin de la Societe de pathologie exotique (1990)	2010-12-01	2010.0	12.0
+20799995	2010 Aug 30	Malaria journal	2010-08-30	2010.0	8.0
+20796288	2010 Aug 26	Malaria journal	2010-08-26	2010.0	8.0
+20691120	2010 Aug 9	Malaria journal	2010-08-09	2010.0	8.0
+20657782	2010 Jul 21	PloS one	2010-07-21	2010.0	7.0
+20650014	2010 Jul 23	Malaria journal	2010-07-23	2010.0	7.0
+20636598	2010 Jul-Aug	Journal of travel medicine			
+20602778	2010 Jul 5	BMC public health	2010-07-05	2010.0	7.0
+20596779	2011 Feb	Journal of immigrant and minority health	2011-02-01	2011.0	2.0
+20578448	2009 Nov	The Southeast Asian journal of tropical medicine and public health	2009-11-01	2009.0	11.0
+20537127	2010 Jun 10	Malaria journal	2010-06-10	2010.0	6.0
+20525209	2010 Jun 2	Malaria journal	2010-06-02	2010.0	6.0
+20520797	2010 May 25	PLoS neglected tropical diseases	2010-05-25	2010.0	5.0
+20519334	2010 Aug	International journal of epidemiology	2010-08-01	2010.0	8.0
+20499780	2009 Jul	East African medical journal	2009-07-01	2009.0	7.0
+20497587	2010 May 25	Malaria journal	2010-05-25	2010.0	5.0
+20487506	2010	Genome medicine	2010-01-01	2010.0	1.0
+20456550	2010 Dec	Journal of the European Academy of Dermatology and Venereology : JEADV	2010-12-01	2010.0	12.0
+20433718	2010 Apr 30	BMC research notes	2010-04-30	2010.0	4.0
+20433102	2010 Mar	Journal of the Royal Army Medical Corps	2010-03-01	2010.0	3.0
+20428736	2010 Mar	Singapore medical journal	2010-03-01	2010.0	3.0
+20412180	2010 Mar-Apr	Journal of travel medicine			
+20409342	2010 Apr 21	Malaria journal	2010-04-21	2010.0	4.0
+20408849	2010 Jun	British journal of haematology	2010-06-01	2010.0	6.0
+20398339	2010 Apr 15	Malaria journal	2010-04-15	2010.0	4.0
+20379355	2010	Infectious diseases in obstetrics and gynecology	2010-01-01	2010.0	1.0
+20334682	2010 Mar 24	Malaria journal	2010-03-24	2010.0	3.0
+20207862	2010 Mar	The American journal of tropical medicine and hygiene	2010-03-01	2010.0	3.0
+20205713	2010 Mar 5	Malaria journal	2010-03-05	2010.0	3.0
+20181896	2010 May	Journal of clinical microbiology	2010-05-01	2010.0	5.0
+20175980	2010 Jul-Aug	Acta tropica			
+20162487	2010 Apr	International journal of environmental health research	2010-04-01	2010.0	4.0
+20133990	2010 Feb	The American journal of tropical medicine and hygiene	2010-02-01	2010.0	2.0
+20128921	2010 Feb 3	Malaria journal	2010-02-03	2010.0	2.0
+20122148	2010 Feb 1	Malaria journal	2010-02-01	2010.0	2.0
+20105074	2010 Mar 1	Clinical infectious diseases : an official publication of the Infectious Diseases Society of America	2010-03-01	2010.0	3.0
+20078256	2010 Mar	International journal of food sciences and nutrition	2010-03-01	2010.0	3.0
+20065053	2010 Mar	Antimicrobial agents and chemotherapy	2010-03-01	2010.0	3.0
+20037643	2009 Dec 23	PloS one	2009-12-23	2009.0	12.0
+20017909	2009 Dec 17	Malaria journal	2009-12-17	2009.0	12.0
+20003529	2009 Dec 15	Malaria journal	2009-12-15	2009.0	12.0
+20003189	2009 Dec 9	Malaria journal	2009-12-09	2009.0	12.0
+19961563	2010 Feb	Tropical medicine & international health : TM & IH	2010-02-01	2010.0	2.0
+19951424	2009 Dec 1	Malaria journal	2009-12-01	2009.0	12.0
+19930654	2009 Nov 23	Malaria journal	2009-11-23	2009.0	11.0
+19922609	2009 Nov 17	Malaria journal	2009-11-17	2009.0	11.0
+19917712	2010 Feb	Infection and immunity	2010-02-01	2010.0	2.0
+19911989	2009 Dec 15	The Journal of infectious diseases	2009-12-15	2009.0	12.0
+19909523	2009 Nov 12	BMC medical research methodology	2009-11-12	2009.0	11.0
+19884328	2010 Jan	Infection and immunity	2010-01-01	2010.0	1.0
+19845968	2009 Oct 21	Malaria journal	2009-10-21	2009.0	10.0
+19835497	2009 May	Journal of obstetrics and gynaecology : the journal of the Institute of Obstetrics and Gynaecology	2009-05-01	2009.0	5.0
+19814788	2009 Oct 8	Malaria journal	2009-10-08	2009.0	10.0
+19765815	2009 Oct 31	Lancet (London, England)	2009-10-31	2009.0	10.0
+19743795	2009 Jan	Ethiopian medical journal	2009-01-01	2009.0	1.0
+19732949	2009 Sep 19	Lancet (London, England)	2009-09-19	2009.0	9.0
+19732924	2010 Feb	Transactions of the Royal Society of Tropical Medicine and Hygiene	2010-02-01	2010.0	2.0
+19724043	2009 Sep 2	JAMA	2009-09-02	2009.0	9.0
+19689091	2009 Jun	Food and nutrition bulletin	2009-06-01	2009.0	6.0
+19664286	2009 Aug 10	Malaria journal	2009-08-10	2009.0	8.0
+19652739	2009 Jun	African health sciences	2009-06-01	2009.0	6.0
+19642807	2009 Jun	The Journal of parasitology	2009-06-01	2009.0	6.0
+19602253	2009 Jul 14	Malaria journal	2009-07-14	2009.0	7.0
+19591577	2009 Aug 15	The Journal of infectious diseases	2009-08-15	2009.0	8.0
+19582979	2009 Feb	The Journal of the Association of Physicians of India	2009-02-01	2009.0	2.0
+19565846	2009 Jan	Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi	2009-01-01	2009.0	1.0
+19564904	2009 Jun 30	PLoS neglected tropical diseases	2009-06-30	2009.0	6.0
+19564366	2009 Sep	Antimicrobial agents and chemotherapy	2009-09-01	2009.0	9.0
+19556563	2009 Jul	The American journal of tropical medicine and hygiene	2009-07-01	2009.0	7.0
+19539589	2009 Oct	Acta tropica	2009-10-01	2009.0	10.0
+19527528	2009 Jun 16	Malaria journal	2009-06-16	2009.0	6.0
+19500425	2009 Jun 7	Malaria journal	2009-06-07	2009.0	6.0
+19497103	2009 Jun 4	Malaria journal	2009-06-04	2009.0	6.0
+19463171	2009 May 22	Malaria journal	2009-05-22	2009.0	5.0
+19454325	2009 Sep	Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases	2009-09-01	2009.0	9.0
+19440962	2009 May	Geospatial health	2009-05-01	2009.0	5.0
+19440961	2009 May	Geospatial health	2009-05-01	2009.0	5.0
+19418670	2009 Feb	South African medical journal = Suid-Afrikaanse tydskrif vir geneeskunde	2009-02-01	2009.0	2.0
+19389038	2009 May	Tropical medicine & international health : TM & IH	2009-05-01	2009.0	5.0
+19383126	2009 Apr 21	Malaria journal	2009-04-21	2009.0	4.0
+19375159	2009 May 30	Lancet (London, England)	2009-05-30	2009.0	5.0
+19371415	2009 Apr 16	Malaria journal	2009-04-16	2009.0	4.0
+19370159	2009	PloS one	2009-01-01	2009.0	1.0
+19356246	2009 Apr 8	Malaria journal	2009-04-08	2009.0	4.0
+19335811	2009 Mar-Apr	Journal of travel medicine			
+19299681	2009 May	American journal of public health	2009-05-01	2009.0	5.0
+19284673	2009 Mar 14	Malaria journal	2009-03-14	2009.0	3.0
+19284650	2009 Mar 13	Malaria journal	2009-03-13	2009.0	3.0
+19284648	2009 Mar 13	Malaria journal	2009-03-13	2009.0	3.0
+19284533	2009 Mar 6	BMC research notes	2009-03-06	2009.0	3.0
+19270298	2009 Mar	The American journal of tropical medicine and hygiene	2009-03-01	2009.0	3.0
+19243243	2009 Apr 1	Clinical infectious diseases : an official publication of the Infectious Diseases Society of America	2009-04-01	2009.0	4.0
+19216781	2009 Feb 13	Malaria journal	2009-02-13	2009.0	2.0
+19190215	2009 Feb	The American journal of tropical medicine and hygiene	2009-02-01	2009.0	2.0
+19178727	2009 Jan 29	Malaria journal	2009-01-29	2009.0	1.0
+19177169	2009	PloS one	2009-01-01	2009.0	1.0
+19171009	2009 Feb	Tropical medicine & international health : TM & IH	2009-02-01	2009.0	2.0
+19169635	2009 Apr	Infection	2009-04-01	2009.0	4.0
+19144144	2009 Jan 13	Malaria journal	2009-01-13	2009.0	1.0
+19123926	2009 Jan 5	Malaria journal	2009-01-05	2009.0	1.0
+19086817	2009 Jan 1	The Journal of infectious diseases	2009-01-01	2009.0	1.0
+19064524	2008 Dec	The American journal of clinical nutrition	2008-12-01	2008.0	12.0
+19000389	2008 Dec	Annals of tropical medicine and parasitology	2008-12-01	2008.0	12.0
+19000385	2008 Dec	Annals of tropical medicine and parasitology	2008-12-01	2008.0	12.0
+18992140	2008 Nov 7	Malaria journal	2008-11-07	2008.0	11.0
+18977268	2009 Jan 1	Vaccine	2009-01-01	2009.0	1.0
+18972133	2008 Dec	Human genetics	2008-12-01	2008.0	12.0
+18958607	2009 Apr	Journal of community health	2009-04-01	2009.0	4.0
+18956987	2008 Nov 15	The Journal of infectious diseases	2008-11-15	2008.0	11.0
+18937746	2008 Oct	Tropical medicine & international health : TM & IH	2008-10-01	2008.0	10.0
+18840755	2008 Oct	The American journal of tropical medicine and hygiene	2008-10-01	2008.0	10.0
+18828901	2008 Oct 1	BMC public health	2008-10-01	2008.0	10.0
+18810501	2008 Nov	Oecologia	2008-11-01	2008.0	11.0
+18801158	2008 Sep 18	Malaria journal	2008-09-18	2008.0	9.0
+18793448	2008 Sep 16	BMC public health	2008-09-16	2008.0	9.0
+18718621	2009 Jan	Transactions of the Royal Society of Tropical Medicine and Hygiene	2009-01-01	2009.0	1.0
+18702267	2008 May-Jun	Prehospital and disaster medicine			
+18702243	2008 Mar	Annals of African medicine	2008-03-01	2008.0	3.0
+18686246	2007 May	Geospatial health	2007-05-01	2007.0	5.0
+18680959	2008 Jan	Tanzania journal of health research	2008-01-01	2008.0	1.0
+18667929	2008 Sep 1	Journal of acquired immune deficiency syndromes (1999)	2008-09-01	2008.0	9.0
+18631316	2008 Aug	Tropical medicine & international health : TM & IH	2008-08-01	2008.0	8.0
+18611279	2008 Jul 8	Malaria journal	2008-07-08	2008.0	7.0
+18599531	2008 Dec	Journal of tropical pediatrics	2008-12-01	2008.0	12.0
+18560562	2008 Jun 18	PloS one	2008-06-18	2008.0	6.0
+18533842	2008 Jul 15	Clinical infectious diseases : an official publication of the Infectious Diseases Society of America	2008-07-15	2008.0	7.0
+18489763	2008 May 19	Malaria journal	2008-05-19	2008.0	5.0
+18478773	2008 Feb	Medecine tropicale : revue du Corps de sante colonial	2008-02-01	2008.0	2.0
+18471299	2008 May 9	BMC public health	2008-05-09	2008.0	5.0
+18466201	2008 Jun-Jul	Parasite immunology			
+18341180	2007 Nov-Dec	Eastern Mediterranean health journal = La revue de sante de la Mediterranee orientale = al-Majallah al-sihhiyah li-sharq al-mutawassit			
+18304267	2008 Feb	Tropical medicine & international health : TM & IH	2008-02-01	2008.0	2.0
+18302771	2008 Feb 26	Malaria journal	2008-02-26	2008.0	2.0
+18302749	2008 Feb 26	International journal of health geographics	2008-02-26	2008.0	2.0
+18294371	2008	Critical care (London, England)	2008-01-01	2008.0	1.0
+18291006	2008 Jan	Tropical medicine & international health : TM & IH	2008-01-01	2008.0	1.0
+18284691	2008 Feb 19	BMC medical research methodology	2008-02-19	2008.0	2.0
+18263734	2008 Feb 19	Proceedings of the National Academy of Sciences of the United States of America	2008-02-19	2008.0	2.0
+18258132	2008 Feb	Emerging infectious diseases	2008-02-01	2008.0	2.0
+18256427	2008 Feb	The American journal of tropical medicine and hygiene	2008-02-01	2008.0	2.0
+18234102	2008 Jan 30	Malaria journal	2008-01-30	2008.0	1.0
+18215251	2008 Jan 23	Malaria journal	2008-01-23	2008.0	1.0
+18184669	2008 Apr	International journal of epidemiology	2008-04-01	2008.0	4.0
+18174865	2008 Feb	The Pediatric infectious disease journal	2008-02-01	2008.0	2.0
+18157330	2007 Dec	Cadernos de saude publica	2007-12-01	2007.0	12.0
+18155195	2008 Apr	Experimental parasitology	2008-04-01	2008.0	4.0
+18068171	2008 Apr	International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics	2008-04-01	2008.0	4.0
+18043317	2007 Dec 15	Journal of acquired immune deficiency syndromes (1999)	2007-12-15	2007.0	12.0
+18029495	2007 Dec	The Journal of nutrition	2007-12-01	2007.0	12.0
+18000823	2008 Mar 15	International journal of cancer	2008-03-15	2008.0	3.0
+17995533	2007 Nov-Dec	Journal of travel medicine			
+17988171	2007 Nov 6	PLoS medicine	2007-11-06	2007.0	11.0
+17950960	2007 Nov 23	Vaccine	2007-11-23	2007.0	11.0
+17915520	2007 Sep	Journal of medical entomology	2007-09-01	2007.0	9.0
+17896621	2007 Sep	Journal of vector borne diseases	2007-09-01	2007.0	9.0
+17892584	2007 Sep 24	International journal of health geographics	2007-09-24	2007.0	9.0
+17822541	2007 Sep 6	BMC infectious diseases	2007-09-06	2007.0	9.0
+17785859	2007 Sep 15	Journal of immunology (Baltimore, Md. : 1950)	2007-09-15	2007.0	9.0
+17690391	2007 Aug	The American journal of tropical medicine and hygiene	2007-08-01	2007.0	8.0
+17665841	2007 Jul-Sep	Cahiers de sociologie et de demographie medicales			
+17651488	2007 Jul 25	International journal of health geographics	2007-07-25	2007.0	7.0
+17620000	2007 Oct	Journal of pharmacokinetics and pharmacodynamics	2007-10-01	2007.0	10.0
+17597460	2007 Aug 1	The Journal of infectious diseases	2007-08-01	2007.0	8.0
+17589774	2007 May-Jun	Salud publica de Mexico			
+17559638	2007 Jun 8	BMC public health	2007-06-08	2007.0	6.0
+17556606	2007 Jun	The American journal of tropical medicine and hygiene	2007-06-01	2007.0	6.0
+17556602	2007 Jun	The American journal of tropical medicine and hygiene	2007-06-01	2007.0	6.0
+17553228	2007 Jun	Emerging infectious diseases	2007-06-01	2007.0	6.0
+17550620	2007 Jun 5	International journal of health geographics	2007-06-05	2007.0	6.0
+17543872	2007 May	Acta tropica	2007-05-01	2007.0	5.0
+17531102	2007 May 26	Malaria journal	2007-05-26	2007.0	5.0
+17519413	2007 May 23	JAMA	2007-05-23	2007.0	5.0
+17519011	2007 May 22	BMC infectious diseases	2007-05-22	2007.0	5.0
+17518949	2007 Jun	Parasite immunology	2007-06-01	2007.0	6.0
+17488903	2007 May	The American journal of tropical medicine and hygiene	2007-05-01	2007.0	5.0
+17445255	2007 Apr 19	Malaria journal	2007-04-19	2007.0	4.0
+17425775	2007 Apr 10	Malaria journal	2007-04-10	2007.0	4.0
+17386083	2007 Mar 26	Malaria journal	2007-03-26	2007.0	3.0
+17370699	2006 Mar	The Journal of communicable diseases	2006-03-01	2006.0	3.0
+17343728	2007 Mar 7	International journal of health geographics	2007-03-07	2007.0	3.0
+17341298	2007 Mar 6	Malaria journal	2007-03-06	2007.0	3.0
+17300188	2007 Apr	Journal of proteome research	2007-04-01	2007.0	4.0
+17297026	2007 Feb	The American journal of tropical medicine and hygiene	2007-02-01	2007.0	2.0
+17283085	2007 May	Infection and immunity	2007-05-01	2007.0	5.0
+17280666	2007 Mar	International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics	2007-03-01	2007.0	3.0
+17187653	2007 Jan	Parasite immunology	2007-01-01	2007.0	1.0
+17175998	2006 Sep	Biomedica : revista del Instituto Nacional de Salud	2006-09-01	2006.0	9.0
+17125496	2006 Nov 24	Malaria journal	2006-11-24	2006.0	11.0
+17094598	2006 Aug	Zhongguo ji sheng chong xue yu ji sheng chong bing za zhi = Chinese journal of parasitology & parasitic diseases	2006-08-01	2006.0	8.0
+17083720	2006 Nov 3	Malaria journal	2006-11-03	2006.0	11.0
+17076908	2006 Nov 1	Malaria journal	2006-11-01	2006.0	11.0
+17071423	2006 Oct	Journal of obstetrics and gynaecology : the journal of the Institute of Obstetrics and Gynaecology	2006-10-01	2006.0	10.0
+17067375	2006 Oct 26	Malaria journal	2006-10-26	2006.0	10.0
+17063824	2006 Sep-Oct	Salud publica de Mexico			
+17038683	2006 Oct	The American journal of tropical medicine and hygiene	2006-10-01	2006.0	10.0
+17033960	2006 Nov	American journal of human genetics	2006-11-01	2006.0	11.0
+17022932	2006 Oct	Acta tropica	2006-10-01	2006.0	10.0
+16967817	2006 Jun	Journal of vector borne diseases	2006-06-01	2006.0	6.0
+16903878	2006 Aug	Tropical medicine & international health : TM & IH	2006-08-01	2006.0	8.0
+16901337	2006 Aug 10	Journal of occupational medicine and toxicology (London, England)	2006-08-10	2006.0	8.0
+16872516	2006 Jul 27	Malaria journal	2006-07-27	2006.0	7.0
+16867194	2006 Jul 25	Malaria journal	2006-07-25	2006.0	7.0
+16862473	2006	Acta obstetricia et gynecologica Scandinavica	2006-01-01	2006.0	1.0
+16827703	2006 Jul	Tropical medicine & international health : TM & IH	2006-07-01	2006.0	7.0
+16797467	2006 Jul	Acta tropica	2006-07-01	2006.0	7.0
+16772004	2006 Jun	Tropical medicine & international health : TM & IH	2006-06-01	2006.0	6.0
+16749361	2005 Sep	African journal of medicine and medical sciences	2005-09-01	2005.0	9.0
+16723143	2006 Aug	Transactions of the Royal Society of Tropical Medicine and Hygiene	2006-08-01	2006.0	8.0
+16716232	2006 May 23	BMC genomics	2006-05-23	2006.0	5.0
+16704783	2006 Mar	Emerging infectious diseases	2006-03-01	2006.0	3.0
+16629703	2006 May	Parasite immunology	2006-05-01	2006.0	5.0
+16572713	2006 Mar	Food and nutrition bulletin	2006-03-01	2006.0	3.0
+16525094	2006 Mar	The American journal of tropical medicine and hygiene	2006-03-01	2006.0	3.0
+16480523	2006 Feb 16	Malaria journal	2006-02-16	2006.0	2.0
+16460558	2006 Feb 6	Malaria journal	2006-02-06	2006.0	2.0
+16451729	2006 Feb 1	Malaria journal	2006-02-01	2006.0	2.0
+16450538	2003 Sep-Nov	Eastern Mediterranean health journal = La revue de sante de la Mediterranee orientale = al-Majallah al-sihhiyah li-sharq al-mutawassit			
+16448735	2006 Jul	Social science & medicine (1982)	2006-07-01	2006.0	7.0
+16436216	2006 Jan 26	Malaria journal	2006-01-26	2006.0	1.0
+16423307	2006 Jan 20	Malaria journal	2006-01-20	2006.0	1.0
+16388497	2006 Feb 1	The Journal of infectious diseases	2006-02-01	2006.0	2.0
+16354822	2005 Dec	The American journal of tropical medicine and hygiene	2005-12-01	2005.0	12.0
+16336671	2005 Dec 8	Malaria journal	2005-12-08	2005.0	12.0
+16336645	2005 Dec 7	Malaria journal	2005-12-07	2005.0	12.0
+16313935	2006 Apr	Transactions of the Royal Society of Tropical Medicine and Hygiene	2006-04-01	2006.0	4.0
+16277654	2005 Nov 8	Malaria journal	2005-11-08	2005.0	11.0
+16271153	2005 Nov 6	Malaria journal	2005-11-06	2005.0	11.0
+16259531	2005 Dec	PLoS medicine	2005-12-01	2005.0	12.0
+16256049	2005 Sep-Oct	Journal of travel medicine			
+16194274	2005 Sep 29	Malaria journal	2005-09-29	2005.0	9.0
+16185237	2005 Oct	Tropical medicine & international health : TM & IH	2005-10-01	2005.0	10.0
+16161702	2005 Jun	Journal of vector borne diseases	2005-06-01	2005.0	6.0
+16124420	2005 May	The Southeast Asian journal of tropical medicine and public health	2005-05-01	2005.0	5.0
+16120698	2005 Oct 15	American journal of epidemiology	2005-10-15	2005.0	10.0
+16088837	2005 Sep 1	The Journal of infectious diseases	2005-09-01	2005.0	9.0
+16026612	2005 Jul 18	BMC medical research methodology	2005-07-18	2005.0	7.0
+16025548	2005 Sep 15	Statistics in medicine	2005-09-15	2005.0	9.0
+16011692	2005 Jun	Biometrics	2005-06-01	2005.0	6.0
+15949197	2005 Jun	Annals of tropical paediatrics	2005-06-01	2005.0	6.0
+15949196	2005 Jun	Annals of tropical paediatrics	2005-06-01	2005.0	6.0
+15916077	2004 Dec	The Southeast Asian journal of tropical medicine and public health	2004-12-01	2004.0	12.0
+15871128	2005 Jun 1	The Journal of infectious diseases	2005-06-01	2005.0	6.0
+15838789	2005 May 15	The Journal of infectious diseases	2005-05-15	2005.0	5.0
+15829131	2005 Apr	Annals of tropical medicine and parasitology	2005-04-01	2005.0	4.0
+15784869	2005 Mar 23	JAMA	2005-03-23	2005.0	3.0
+15776381	2005 Apr 15	The Journal of infectious diseases	2005-04-15	2005.0	4.0
+15772316	2005 Mar	The American journal of tropical medicine and hygiene	2005-03-01	2005.0	3.0
+15694504	2005 Mar	Health policy (Amsterdam, Netherlands)	2005-03-01	2005.0	3.0
+15688298	2005 Mar 1	The Journal of infectious diseases	2005-03-01	2005.0	3.0
+15649333	2005 Jan 14	Malaria journal	2005-01-14	2005.0	1.0
+15642960	2004 Dec	The American journal of tropical medicine and hygiene	2004-12-01	2004.0	12.0
+15642956	2004 Dec	The American journal of tropical medicine and hygiene	2004-12-01	2004.0	12.0
+15640472	2005 Jan	The American journal of clinical nutrition	2005-01-01	2005.0	1.0
+15638948	2005 Jan 9	Malaria journal	2005-01-09	2005.0	1.0
+15544712	2004 Sep-Oct	Journal of travel medicine			
+15544703	2004 Nov 15	Malaria journal	2004-11-15	2004.0	11.0
+15541178	2004 Nov 12	Malaria journal	2004-11-12	2004.0	11.0
+15535621	2004 Sep	Journal of medical entomology	2004-09-01	2004.0	9.0
+15514272	2004 Nov	The Journal of nutrition	2004-11-01	2004.0	11.0
+15496225	2004 Oct 20	Malaria journal	2004-10-20	2004.0	10.0
+15385530	2004 Oct	Infection and immunity	2004-10-01	2004.0	10.0
+15331838	2004 Aug	The American journal of tropical medicine and hygiene	2004-08-01	2004.0	8.0
+15303813	2004 Jul	Acta paediatrica (Oslo, Norway : 1992)	2004-07-01	2004.0	7.0
+15282030	2004 Jul 28	Malaria journal	2004-07-28	2004.0	7.0
+15272744	2004 Mar	The Southeast Asian journal of tropical medicine and public health	2004-03-01	2004.0	3.0
+15259472	2003 Jul-Aug	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+15259460	2003 Jul-Aug	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+15256523	2004 Oct	International journal of epidemiology	2004-10-01	2004.0	10.0
+15228485	2004 Jul	Tropical medicine & international health : TM & IH	2004-07-01	2004.0	7.0
+15166534	2004 May 21	AIDS (London, England)	2004-05-21	2004.0	5.0
+15158191	2004 May	Microbes and infection	2004-05-01	2004.0	5.0
+15138076	2004 Jul	Transactions of the Royal Society of Tropical Medicine and Hygiene	2004-07-01	2004.0	7.0
+15125805	2004 May	British journal of health psychology	2004-05-01	2004.0	5.0
+15115118	2003 Sep	The Southeast Asian journal of tropical medicine and public health	2003-09-01	2003.0	9.0
+15064158	2004 Apr	Environmental health perspectives	2004-04-01	2004.0	4.0
+15018419	2003 Dec	East African medical journal	2003-12-01	2003.0	12.0
+14996361	2004 Mar	Tropical medicine & international health : TM & IH	2004-03-01	2004.0	3.0
+14971691	2004 Jan	The American journal of tropical medicine and hygiene	2004-01-01	2004.0	1.0
+14693661	2004 Jan 1	American journal of epidemiology	2004-01-01	2004.0	1.0
+14688565	2003 Dec	The Pediatric infectious disease journal	2003-12-01	2003.0	12.0
+14582287	2003 Aug	Bulletin de la Societe de pathologie exotique (1990)	2003-08-01	2003.0	8.0
+14576887	2003	Bulletin of the World Health Organization	2003-01-01	2003.0	1.0
+12917269	2003 Sep	Health policy and planning	2003-09-01	2003.0	9.0
+12913128	2003 Aug 19	Proceedings of the National Academy of Sciences of the United States of America	2003-08-19	2003.0	8.0
+12875305	2003 Apr	The American journal of tropical medicine and hygiene	2003-04-01	2003.0	4.0
+12853749	2003 Jul 25	AIDS (London, England)	2003-07-25	2003.0	7.0
+12830403	2003 Jul 1	Clinical infectious diseases : an official publication of the Infectious Diseases Society of America	2003-07-01	2003.0	7.0
+12789476	2003 Jun	Infection	2003-06-01	2003.0	6.0
+12784590	2003 Mar	Bulletin de la Societe de pathologie exotique (1990)	2003-03-01	2003.0	3.0
+12736989	2003 Mar-Apr	Salud publica de Mexico			
+12714553	2003 Apr	International journal of epidemiology	2003-04-01	2003.0	4.0
+12693585	2002 Sep	The Southeast Asian journal of tropical medicine and public health	2002-09-01	2002.0	9.0
+12684579	2003 Feb	Revue d'epidemiologie et de sante publique	2003-02-01	2003.0	2.0
+12665262	2002 Oct-Dec	West African journal of medicine			
+12625129	2002 Nov-Dec	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+12606182	2003 Feb 22	Lancet (London, England)	2003-02-22	2003.0	2.0
+12552440	2003 Feb 1	The Journal of infectious diseases	2003-02-01	2003.0	2.0
+12471337	2002 Oct	Revue d'epidemiologie et de sante publique	2002-10-01	2002.0	10.0
+12460390	2002 Dec	Tropical medicine & international health : TM & IH	2002-12-01	2002.0	12.0
+12430758	2002 Sep	Journal of health, population, and nutrition	2002-09-01	2002.0	9.0
+12406193	2002 Aug	Parasite immunology	2002-08-01	2002.0	8.0
+12389946	2002 Aug	The American journal of tropical medicine and hygiene	2002-08-01	2002.0	8.0
+12389936	2002 Aug	The American journal of tropical medicine and hygiene	2002-08-01	2002.0	8.0
+12296972	2002 Aug 14	Malaria journal	2002-08-14	2002.0	8.0
+12199444	2001 Dec	East African medical journal	2001-12-01	2001.0	12.0
+12195390	2002 Aug 15	The Journal of infectious diseases	2002-08-15	2002.0	8.0
+12144293	2002 Jul	Journal of medical entomology	2002-07-01	2002.0	7.0
+12139225	2002 Mar	The American journal of tropical medicine and hygiene	2002-03-01	2002.0	3.0
+12125874	2002 Jun	Journal of vector ecology : journal of the Society for Vector Ecology	2002-06-01	2002.0	6.0
+12100438	2002 Jul	Tropical medicine & international health : TM & IH	2002-07-01	2002.0	7.0
+12088575	2002 May-Jun	Journal of travel medicine			
+12023907	2002 Jun	Emerging infectious diseases	2002-06-01	2002.0	6.0
+11989534	2002 Jan	Annals of tropical medicine and parasitology	2002-01-01	2002.0	1.0
+11986269	2002 May	Clinical and diagnostic laboratory immunology	2002-05-01	2002.0	5.0
+11976993	2002 Mar-Apr	HIV clinical trials			
+27528917	2002 Apr	Malawi medical journal : the journal of Medical Association of Malawi	2002-04-01	2002.0	4.0
+11921565	2001 Aug	East African medical journal	2001-08-01	2001.0	8.0
+11807721	2002 Feb 1	The Journal of infectious diseases	2002-02-01	2002.0	2.0
+11791991	2001 Dec	The American journal of tropical medicine and hygiene	2001-12-01	2001.0	12.0
+11752881	2001 Nov	International archives of allergy and immunology	2001-11-01	2001.0	11.0
+11716129	2001 Nov	The American journal of tropical medicine and hygiene	2001-11-01	2001.0	11.0
+11716126	2001 Nov	The American journal of tropical medicine and hygiene	2001-11-01	2001.0	11.0
+11706659	2001 Sep-Oct	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+11687462	2001 Nov	Clinical and diagnostic laboratory immunology	2001-11-01	2001.0	11.0
+11583447	2001 Sep	Medical and veterinary entomology	2001-09-01	2001.0	9.0
+11583443	2001 Sep	Medical and veterinary entomology	2001-09-01	2001.0	9.0
+11583440	2001 Sep	Medical and veterinary entomology	2001-09-01	2001.0	9.0
+11562696	2001 Aug	Memorias do Instituto Oswaldo Cruz	2001-08-01	2001.0	8.0
+11484805	2000	European journal of epidemiology	2000-01-01	2000.0	1.0
+11468099	2001	International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases	2001-01-01	2001.0	1.0
+11467140	2001 May-Jun	The National medical journal of India			
+11463412	2001 Jul 14	Lancet (London, England)	2001-07-14	2001.0	7.0
+11422958	2001 Jun	Tropical medicine & international health : TM & IH	2001-06-01	2001.0	6.0
+11422956	2001 Jun	Tropical medicine & international health : TM & IH	2001-06-01	2001.0	6.0
+11422955	2001 Jun	Tropical medicine & international health : TM & IH	2001-06-01	2001.0	6.0
+11393823	2001 May	Parasitology	2001-05-01	2001.0	5.0
+11280071	2001 Jan-Feb	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+11280051	2001 Jan-Feb	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+11254820	2001 Apr	Thorax	2001-04-01	2001.0	4.0
+11245348	2001 Feb	Journal of tropical pediatrics	2001-02-01	2001.0	2.0
+11230823	2001 Feb 23	Acta tropica	2001-02-23	2001.0	2.0
+11219163	2000 Dec	Annals of tropical paediatrics	2000-12-01	2000.0	12.0
+11172152	2001 Jan 25	The New England journal of medicine	2001-01-25	2001.0	1.0
+11169275	2000 Dec	Tropical medicine & international health : TM & IH	2000-12-01	2000.0	12.0
+11132387	2000 Sep-Oct	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+11127243	2000 Jul-Aug	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+11127232	2000 Jul-Aug	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+11101024	2000 Oct	Paediatric and perinatal epidemiology	2000-10-01	2000.0	10.0
+11037774	2000 Mar	The American journal of tropical medicine and hygiene	2000-03-01	2000.0	3.0
+11015485	2000 Oct	The Journal of nutrition	2000-10-01	2000.0	10.0
+10963231	2000 Jul 15	Lancet (London, England)	2000-07-15	2000.0	7.0
+10934555	1998 Sep-Dec	Papua and New Guinea medical journal			
+10853642	2000 May 15	American journal of epidemiology	2000-05-15	2000.0	5.0
+10817136	2000 Apr	International journal of epidemiology	2000-04-01	2000.0	4.0
+10813599	2000 Apr	Journal of wildlife diseases	2000-04-01	2000.0	4.0
+10813470	2000 Feb	The American journal of tropical medicine and hygiene	2000-02-01	2000.0	2.0
+10810019	2000 Apr	Tropical medicine & international health : TM & IH	2000-04-01	2000.0	4.0
+10810020	2000 Apr	Tropical medicine & international health : TM & IH	2000-04-01	2000.0	4.0
+10774686	1999 Jun	The Southeast Asian journal of tropical medicine and public health	1999-06-01	1999.0	6.0
+10772546	1998 Dec	The Southeast Asian journal of tropical medicine and public health	1998-12-01	1998.0	12.0
+10696399	1999 Sep-Oct	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+10678934	2000 Mar	Infection and immunity	2000-03-01	2000.0	3.0
+10661651	1999 Dec	International journal of epidemiology	1999-12-01	1999.0	12.0
+10515845	1999 Nov	The Journal of infectious diseases	1999-11-01	1999.0	11.0
+10512558	1999 Sep	Public health nutrition	1999-09-01	1999.0	9.0
+10497986	1999 Sep	The American journal of tropical medicine and hygiene	1999-09-01	1999.0	9.0
+10492749	1999 May-Jun	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+10466970	1999 Mar	The American journal of tropical medicine and hygiene	1999-03-01	1999.0	3.0
+10450425	1999 Feb	Transactions of the Royal Society of Tropical Medicine and Hygiene	1999-02-01	1999.0	2.0
+10403336	1999 Jun	The American journal of tropical medicine and hygiene	1999-06-01	1999.0	6.0
+10401193	1999 Jun	Journal of tropical pediatrics	1999-06-01	1999.0	6.0
+10072160	1999 Feb	The American journal of tropical medicine and hygiene	1999-02-01	1999.0	2.0
+9880280	1999 Jan 9	BMJ (Clinical research ed.)	1999-01-09	1999.0	1.0
+9876193	1998 Dec	Journal of travel medicine	1998-12-01	1998.0	12.0
+9864243	1999 Jan	Infection and immunity	1999-01-01	1999.0	1.0
+9861403	1998 May-Jun	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+9861370	1998 Sep-Oct	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+9777079	1998 May	Annals of the Academy of Medicine, Singapore	1998-05-01	1998.0	5.0
+9764323	1998 Mar-Apr	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+9755565	1998 Mar-Apr	Revista do Instituto de Medicina Tropical de Sao Paulo			
+9715940	1998 Aug	The American journal of tropical medicine and hygiene	1998-08-01	1998.0	8.0
+9692151	1998 Jan-Feb	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+9623940	1998 May	Tropical medicine & international health : TM & IH	1998-05-01	1998.0	5.0
+9598948	1998 Apr	Acta obstetricia et gynecologica Scandinavica	1998-04-01	1998.0	4.0
+9536339	1997 Dec	QJM : monthly journal of the Association of Physicians	1997-12-01	1997.0	12.0
+9509168	1997 Nov-Dec	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+9323709	1997 Sep	Molecular medicine (Cambridge, Mass.)	1997-09-01	1997.0	9.0
+10176379	1997 Oct	Health transition review : the cultural, social, and behavioural determinants of health	1997-10-01	1997.0	10.0
+9294542	1997 Aug	Tropical medicine & international health : TM & IH	1997-08-01	1997.0	8.0
+9294541	1997 Aug	Tropical medicine & international health : TM & IH	1997-08-01	1997.0	8.0
+9255203	1997 Jul	The Journal of pediatrics	1997-07-01	1997.0	7.0
+9242312	1997 Jul	The American journal of tropical medicine and hygiene	1997-07-01	1997.0	7.0
+9222795	1997 Jun	International journal of epidemiology	1997-06-01	1997.0	6.0
+9337012	1997 May	East African medical journal	1997-05-01	1997.0	5.0
+9143216	1997 May 1	American journal of epidemiology	1997-05-01	1997.0	5.0
+9355715	1997 Mar	Indian journal of medical sciences	1997-03-01	1997.0	3.0
+9815460	1996 Dec 1	Journal of travel medicine	1996-12-01	1996.0	12.0
+9015495	1996 Nov-Dec	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+8806288	1996 Sep 14	Lancet (London, England)	1996-09-14	1996.0	9.0
+8910654	1996 Aug	Acta tropica	1996-08-01	1996.0	8.0
+8771643	1996 Jun	Social science & medicine (1982)	1996-06-01	1996.0	6.0
+8764419	1996 Jun	South African medical journal = Suid-Afrikaanse tydskrif vir geneeskunde	1996-06-01	1996.0	6.0
+8758142	1996 Jun	Annals of tropical medicine and parasitology	1996-06-01	1996.0	6.0
+8686780	1996 Jun	The American journal of tropical medicine and hygiene	1996-06-01	1996.0	6.0
+8762402	1996 Apr	Annals of tropical medicine and parasitology	1996-04-01	1996.0	4.0
+8551881	1996 Jan 27	Lancet (London, England)	1996-01-27	1996.0	1.0
+9060051	1996	Scandinavian journal of infectious diseases. Supplementum	1996-01-01	1996.0	1.0
+8706229	1996	Bulletin of the World Health Organization	1996-01-01	1996.0	1.0
+8702038	1996	The American journal of tropical medicine and hygiene	1996-01-01	1996.0	1.0
+8594690	1995 Nov-Dec	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+7485706	1995 Nov	The American journal of tropical medicine and hygiene	1995-11-01	1995.0	11.0
+8600555	1995 Sep-Oct	Salud publica de Mexico			
+8527547	1995 Sep	Clinical infectious diseases : an official publication of the Infectious Diseases Society of America	1995-09-01	1995.0	9.0
+7487224	1995 Aug	Annals of tropical medicine and parasitology	1995-08-01	1995.0	8.0
+7758543	1995 Jun	Experimental parasitology	1995-06-01	1995.0	6.0
+7723795	1995 May 25	The New England journal of medicine	1995-05-25	1995.0	5.0
+7596895	1995 Apr	Paediatric and perinatal epidemiology	1995-04-01	1995.0	4.0
+7831089	1994 Dec	Parasitology	1994-12-01	1994.0	12.0
+7855468	1994 Nov 30	Statistics in medicine	1994-11-30	1994.0	11.0
+7985743	1994 Nov	The American journal of tropical medicine and hygiene	1994-11-01	1994.0	11.0
+7979637	1994 Oct	Annals of tropical medicine and parasitology	1994-10-01	1994.0	10.0
+7992331	1994 Sep-Oct	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+7915678	1994 May	International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics	1994-05-01	1994.0	5.0
+8147491	1994 Mar	The American journal of tropical medicine and hygiene	1994-03-01	1994.0	3.0
+8036666	1994 Mar-Apr	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+8036663	1994 Mar-Apr	Transactions of the Royal Society of Tropical Medicine and Hygiene			
+8140213	1994 Jan	The Quarterly journal of medicine	1994-01-01	1994.0	1.0
+8359966	1993 Jun	International journal of epidemiology	1993-06-01	1993.0	6.0
+8313494	1993	Bulletin of the World Health Organization	1993-01-01	1993.0	1.0
+1737806	1992 Jan	Journal of biosocial science	1992-01-01	1992.0	1.0
+1844089	1992 Dec	Journal of tropical pediatrics	1992-12-01	1992.0	12.0
+1770882	1991 May-Jun	Meditsinskaia parazitologiia i parazitarnye bolezni			
+2098467	1990 Dec	Journal of the American Mosquito Control Association	1990-12-01	1990.0	12.0
+2290394	1990 Nov-Dec	Meditsinskaia parazitologiia i parazitarnye bolezni			
+2225002	1990 Aug	Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi	1990-08-01	1990.0	8.0
+2161639	1990 Mar-Apr	Anticancer research			
+28312354	1989 Feb	Oecologia	1989-02-01	1989.0	2.0
+2670310	1989	Zhongguo ji sheng chong xue yu ji sheng chong bing za zhi = Chinese journal of parasitology & parasitic diseases	1989-01-01	1989.0	1.0
+3669124	1987 Oct	The Journal of tropical medicine and hygiene	1987-10-01	1987.0	10.0

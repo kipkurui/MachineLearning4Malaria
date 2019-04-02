@@ -1,0 +1,11 @@
+Id	PubDate	FullJournalName	date	year	month
+29444675	2018 Feb 14	International journal of health geographics	2018-02-14	2018	2
+28962616	2017 Sep 29	Malaria journal	2017-09-29	2017	9
+28931241	2017 Aug 15	The Journal of infectious diseases	2017-08-15	2017	8
+27903050	2016 Nov 16	Geospatial health	2016-11-16	2016	11
+27350586	2016 Aug	International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases	2016-08-01	2016	8
+25920668	2015 Nov	Heredity	2015-11-01	2015	11
+25909655	2015 Apr 25	Malaria journal	2015-04-25	2015	4
+25880664	2015 Feb 19	Malaria journal	2015-02-19	2015	2
+25653462	2014 Nov	Water resources research	2014-11-01	2014	11
+23398628	2013 Feb 11	Malaria journal	2013-02-11	2013	2

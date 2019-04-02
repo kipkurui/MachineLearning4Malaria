@@ -1,0 +1,79 @@
+Id	PubDate	FullJournalName	date	year	month
+30917718	2019 Mar 27	Informatics for health & social care	2019-03-27	2019.0	3.0
+30840746	2018 Oct	Journal of medical imaging (Bellingham, Wash.)	2018-10-01	2018.0	10.0
+30706823	2019 Jan 30	Current computer-aided drug design	2019-01-30	2019.0	1.0
+30637185	2018	Journal of statistical distributions and applications	2018-01-01	2018.0	1.0
+30621144	2019 Jan 4	Molecules (Basel, Switzerland)	2019-01-04	2019.0	1.0
+30575213	2019 Mar	Microscopy research and technique	2019-03-01	2019.0	3.0
+30504893	2018 Nov 30	Scientific reports	2018-11-30	2018.0	11.0
+30376866	2018 Oct 31	BMC medicine	2018-10-31	2018.0	10.0
+30333748	2018	Frontiers in pharmacology	2018-01-01	2018.0	1.0
+30253764	2018 Sep 25	Malaria journal	2018-09-25	2018.0	9.0
+30240429	2018	PloS one	2018-01-01	2018.0	1.0
+30212465	2018 Sep	PLoS biology	2018-09-01	2018.0	9.0
+30120591	2018 Aug 17	Journal of molecular modeling	2018-08-17	2018.0	8.0
+30005684	2018 Jul 13	Malaria journal	2018-07-13	2018.0	7.0
+29998591	2018 Oct	Phytotherapy research : PTR	2018-10-01	2018.0	10.0
+29985403	2018 Jul 9	Nature communications	2018-07-09	2018.0	7.0
+29954424	2018 Jun 28	Parasites & vectors	2018-06-28	2018.0	6.0
+29760095	2018 May 29	Proceedings of the National Academy of Sciences of the United States of America	2018-05-29	2018.0	5.0
+29749713	2018 Sep	Molecular informatics	2018-09-01	2018.0	9.0
+29682411	2018	PeerJ	2018-01-01	2018.0	1.0
+29676064	2018 Sep	Journal of biophotonics	2018-09-01	2018.0	9.0
+29642892	2018 Apr 11	Malaria journal	2018-04-11	2018.0	4.0
+29588452	2018 Mar 27	Scientific reports	2018-03-27	2018.0	3.0
+28928948	2017	F1000Research	2017-01-01	2017.0	1.0
+29407988	2018 Feb 25	European journal of medicinal chemistry	2018-02-25	2018.0	2.0
+29360430	2018 Apr	Translational research : the journal of laboratory and clinical medicine	2018-04-01	2018.0	4.0
+29336158	2018 Mar 2	Journal of proteome research	2018-03-02	2018.0	3.0
+29297620	2018 May	Journal of biophotonics	2018-05-01	2018.0	5.0
+29277258	2018 Feb	Computational biology and chemistry	2018-02-01	2018.0	2.0
+29221545	2017 May - Aug	Annals of global health			
+29107642	2017 Nov 8	Cell host & microbe	2017-11-08	2017.0	11.0
+29096442	2017 Dec 4	Molecular pharmaceutics	2017-12-04	2017.0	12.0
+29075939	2017 Oct 26	Journal of medical systems	2017-10-26	2017.0	10.0
+29065113	2017 Oct	PLoS computational biology	2017-10-01	2017.0	10.0
+29031082	2018 Jan	Neural networks : the official journal of the International Neural Network Society	2018-01-01	2018.0	1.0
+28879175	2017	Frontiers in public health	2017-01-01	2017.0	1.0
+28690382	2017	Bioinformation	2017-01-01	2017.0	1.0
+28542223	2017 May	PLoS neglected tropical diseases	2017-05-01	2017.0	5.0
+28319831	2017 Jun	Current opinion in structural biology	2017-06-01	2017.0	6.0
+28260517	2017 Nov 10	Current computer-aided drug design	2017-11-10	2017.0	11.0
+28257198	2017 Mar 27	Journal of chemical information and modeling	2017-03-27	2017.0	3.0
+27974542	2017 Mar	Journal of clinical microbiology	2017-03-01	2017.0	3.0
+27837008	2017 Jan 15	The Journal of infectious diseases	2017-01-15	2017.0	1.0
+27636719	2016	PloS one	2016-01-01	2016.0	1.0
+27490966	2015 Oct	Molecular informatics	2015-10-01	2015.0	10.0
+27367660	2016 Jun 29	Molecules (Basel, Switzerland)	2016-06-29	2016.0	6.0
+27185931	2016 Jun 7	Proceedings of the National Academy of Sciences of the United States of America	2016-06-07	2016.0	6.0
+27095535	2016	Combinatorial chemistry & high throughput screening	2016-01-01	2016.0	1.0
+26994406	2016 May	Molecular ecology	2016-05-01	2016.0	5.0
+26911561	2016	SAR and QSAR in environmental research	2016-01-01	2016.0	1.0
+26813983	2016 Jan 27	Scientific reports	2016-01-27	2016.0	1.0
+26834994	2015	F1000Research	2015-01-01	2015.0	1.0
+26310492	2015 Aug 28	BMC systems biology	2015-08-28	2015.0	8.0
+26234510	2015	Combinatorial chemistry & high throughput screening	2015-01-01	2015.0	1.0
+25920668	2015 Nov	Heredity	2015-11-01	2015.0	11.0
+25869318	2015	International journal of computational biology and drug design	2015-01-01	2015.0	1.0
+25861375	2015	Computational and mathematical methods in medicine	2015-01-01	2015.0	1.0
+25810441	2015 Oct 1	The Journal of infectious diseases	2015-10-01	2015.0	10.0
+25694075	2015	Mini reviews in medicinal chemistry	2015-01-01	2015.0	1.0
+25573118	2015 Aug 15	Bioorganic & medicinal chemistry	2015-08-15	2015.0	8.0
+25023128	2014 Oct	Molecular & cellular proteomics : MCP	2014-10-01	2014.0	10.0
+24604165	2014 May	Amino acids	2014-05-01	2014.0	5.0
+24095682	2013 Dec	Journal of microbiological methods	2013-12-01	2013.0	12.0
+23653283	2013 Aug	Molecular diversity	2013-08-01	2013.0	8.0
+23568463	2013	Methods in molecular biology (Clifton, N.J.)	2013-01-01	2013.0	1.0
+23419172	2013 Feb 15	BMC bioinformatics	2013-02-15	2013.0	2.0
+23218914	2013 Feb	Micron (Oxford, England : 1993)	2013-02-01	2013.0	2.0
+23180505	2012	BMJ open	2012-01-01	2012.0	1.0
+22369208	2011 Dec 23	BMC genomics	2011-12-23	2011.0	12.0
+22114664	2011	PloS one	2011-01-01	2011.0	1.0
+21962353	2011 Oct 31	Analytica chimica acta	2011-10-31	2011.0	10.0
+21931645	2011	PloS one	2011-01-01	2011.0	1.0
+21843142	2011 Dec	Combinatorial chemistry & high throughput screening	2011-12-01	2011.0	12.0
+21258061	2011 Mar 1	Bioinformatics (Oxford, England)	2011-03-01	2011.0	3.0
+20880888	2011 Apr 7	Proceedings. Biological sciences	2011-04-07	2011.0	4.0
+19908123	2010 Jun	Amino acids	2010-06-01	2010.0	6.0
+19057851	2009 May	Genetica	2009-05-01	2009.0	5.0
+18416838	2008 Apr 16	BMC bioinformatics	2008-04-16	2008.0	4.0

@@ -1,0 +1,34 @@
+Id	PubDate	FullJournalName	date	year	month
+30917718	2019 Mar 27	Informatics for health & social care	2019-03-27	2019.0	3.0
+30253764	2018 Sep 25	Malaria journal	2018-09-25	2018.0	9.0
+30035153	2018 Jul	Journal of medical imaging (Bellingham, Wash.)	2018-07-01	2018.0	7.0
+29721616	2018 May 2	Journal of medical systems	2018-05-02	2018.0	5.0
+29682411	2018	PeerJ	2018-01-01	2018.0	1.0
+29392184	2018 Jan 24	ACS central science	2018-01-24	2018.0	1.0
+29241658	2018 Jan	Artificial intelligence in medicine	2018-01-01	2018.0	1.0
+29096442	2017 Dec 4	Molecular pharmaceutics	2017-12-04	2017.0	12.0
+29031082	2018 Jan	Neural networks : the official journal of the International Neural Network Society	2018-01-01	2018.0	1.0
+26777113	2016	Current computer-aided drug design	2016-01-01	2016.0	1.0
+26234510	2015	Combinatorial chemistry & high throughput screening	2015-01-01	2015.0	1.0
+25378575	2015 Jan	Journal of clinical microbiology	2015-01-01	2015.0	1.0
+24516684	2014 Feb	PLoS neglected tropical diseases	2014-02-01	2014.0	2.0
+24209918	2013 Nov	Computers in biology and medicine	2013-11-01	2013.0	11.0
+24110954	2013	Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference	2013-01-01	2013.0	1.0
+23157413	2013 Mar	Current computer-aided drug design	2013-03-01	2013.0	3.0
+22005185	2011 Dec	European journal of medicinal chemistry	2011-12-01	2011.0	12.0
+21085871	2010 Sep-Oct	Revista da Sociedade Brasileira de Medicina Tropical			
+20719001	2010 Aug 19	Malaria journal	2010-08-19	2010.0	8.0
+20465824	2010 May 13	Malaria journal	2010-05-13	2010.0	5.0
+20459613	2010 May 6	Malaria journal	2010-05-06	2010.0	5.0
+19440961	2009 May	Geospatial health	2009-05-01	2009.0	5.0
+19278236	2009 Apr 1	Analytical chemistry	2009-04-01	2009.0	4.0
+18686233	2006 Nov	Geospatial health	2006-11-01	2006.0	11.0
+17249335	2007 Jan	Indian journal of experimental biology	2007-01-01	2007.0	1.0
+16937184	2006 May	Medical & biological engineering & computing	2006-05-01	2006.0	5.0
+15360778	2004	Studies in health technology and informatics	2004-01-01	2004.0	1.0
+14724374	2003	Clinical hemorheology and microcirculation	2003-01-01	2003.0	1.0
+14599665	2003 Dec	Molecular and biochemical parasitology	2003-12-01	2003.0	12.0
+14521780	2003 Sep	Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi	2003-09-01	2003.0	9.0
+12560551	2003 Jan 31	Science (New York, N.Y.)	2003-01-31	2003.0	1.0
+11738814	2001 Dec 12	Gene	2001-12-12	2001.0	12.0
+11552688	2001	Journal of molecular graphics & modelling	2001-01-01	2001.0	1.0

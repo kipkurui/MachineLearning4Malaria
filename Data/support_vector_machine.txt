@@ -1,0 +1,32 @@
+Id	PubDate	FullJournalName	date	year	month
+30575213	2019 Mar	Microscopy research and technique	2019-03-01	2019	3
+29998591	2018 Oct	Phytotherapy research : PTR	2018-10-01	2018	10
+29760095	2018 May 29	Proceedings of the National Academy of Sciences of the United States of America	2018-05-29	2018	5
+29676064	2018 Sep	Journal of biophotonics	2018-09-01	2018	9
+29407988	2018 Feb 25	European journal of medicinal chemistry	2018-02-25	2018	2
+29096442	2017 Dec 4	Molecular pharmaceutics	2017-12-04	2017	12
+28962616	2017 Sep 29	Malaria journal	2017-09-29	2017	9
+28690382	2017	Bioinformation	2017-01-01	2017	1
+27837008	2017 Jan 15	The Journal of infectious diseases	2017-01-15	2017	1
+26994406	2016 May	Molecular ecology	2016-05-01	2016	5
+26911561	2016	SAR and QSAR in environmental research	2016-01-01	2016	1
+26484844	2015 Dec 5	Journal of computational chemistry	2015-12-05	2015	12
+26469764	2016 Feb 15	American journal of respiratory and critical care medicine	2016-02-15	2016	2
+26084541	2015 Jun 18	BMC medical informatics and decision making	2015-06-18	2015	6
+25920668	2015 Nov	Heredity	2015-11-01	2015	11
+25861375	2015	Computational and mathematical methods in medicine	2015-01-01	2015	1
+25543686	2015	Combinatorial chemistry & high throughput screening	2015-01-01	2015	1
+25144549	2014	PloS one	2014-01-01	2014	1
+24878724	2014	International journal of computational biology and drug design	2014-01-01	2014	1
+23653283	2013 Aug	Molecular diversity	2013-08-01	2013	8
+23218914	2013 Feb	Micron (Oxford, England : 1993)	2013-02-01	2013	2
+21962353	2011 Oct 31	Analytica chimica acta	2011-10-31	2011	10
+21843142	2011 Dec	Combinatorial chemistry & high throughput screening	2011-12-01	2011	12
+21445589	2012 Apr	Amino acids	2012-04-01	2012	4
+20880888	2011 Apr 7	Proceedings. Biological sciences	2011-04-07	2011	4
+20003184	2009 Dec 9	Malaria journal	2009-12-09	2009	12
+19908123	2010 Jun	Amino acids	2010-06-01	2010	6
+19057851	2009 May	Genetica	2009-05-01	2009	5
+17879344	2008 Feb 15	Proteins	2008-02-15	2008	2
+17697325	2007 Aug 13	Malaria journal	2007-08-13	2007	8
+17550651	2007 Jul	Annals of tropical medicine and parasitology	2007-07-01	2007	7

@@ -1,0 +1,7 @@
+Id	PubDate	FullJournalName	date	year	month
+30575213	2019 Mar	Microscopy research and technique	2019-03-01	2019	3
+27636719	2016	PloS one	2016-01-01	2016	1
+22915035	2012 Sep 25	Investigative ophthalmology & visual science	2012-09-25	2012	9
+21445589	2012 Apr	Amino acids	2012-04-01	2012	4
+21421551	2011 May 15	Bioinformatics (Oxford, England)	2011-05-15	2011	5
+19387791	2010 Mar	Amino acids	2010-03-01	2010	3
