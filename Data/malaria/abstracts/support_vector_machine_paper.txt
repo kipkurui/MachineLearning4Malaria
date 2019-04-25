@@ -1,0 +1,935 @@
+
+1. Microsc Res Tech. 2019 Mar;82(3):283-295. doi: 10.1002/jemt.23170. Epub 2018 Dec 
+21.
+
+Plasmodium life cycle stage classification based quantification of malaria
+parasitaemia in thin blood smears.
+
+Abbas N(1), Saba T(2), Rehman A(3), Mehmood Z(4), Kolivand H(5), Uddin M(6),
+Anjum A(7).
+
+Author information: 
+(1)Department of Computer Science, Islamia College Peshawar, Pakistan.
+(2)College of Computer and Information Sciences, Prince Sultan University,
+Riyadh, Saudi Arabia.
+(3)College of Computer and Information Systems, Al Yamamah University, Riyadh,
+Saudi Arabia.
+(4)Department of Software Engineering, University of Engineering and Technology, 
+Taxila, Pakistan.
+(5)Department of Computer Science, Liverpool John Moores University, Liverpool,
+UK.
+(6)Information System Department, College of Engineering, Effat University of
+Jeddah, Jeddah, Saudi Arabia.
+(7)Department of Computer Science, COMSATS University Islamabad, Islamabad,
+Pakistan.
+
+Visual inspection for the quantification of malaria parasitaemiain (MP) and
+classification of life cycle stage are hard and time taking. Even though,
+automated techniques for the quantification of MP and their classification are
+reported in the literature. However, either reported techniques are imperfect or 
+cannot deal with special issues such as anemia and hemoglobinopathies due to
+clumps of red blood cells (RBCs). The focus of the current work is to examine the
+thin blood smear microscopic images stained with Giemsa by digital image
+processing techniques, grading MP on independent factors (RBCs morphology) and
+classification of its life cycle stage. For the classification of the life cycle 
+of malaria parasite the k-nearest neighbor, Naïve Bayes and multi-class support
+vector machine are employed for classification based on histograms of oriented
+gradients and local binary pattern features. The proposed methodology is based on
+inductive technique, segment malaria parasites through the adaptive machine
+learning techniques. The quantification accuracy of RBCs is enhanced; RBCs clumps
+are split by analysis of concavity regions for focal points. Further,
+classification of infected and non-infected RBCs has been made to grade MP
+precisely. The training and testing of the proposed approach on benchmark dataset
+with respect to ground truth data, yield 96.75% MP sensitivity and 94.59%
+specificity. Additionally, the proposed approach addresses the process with
+independent factors (RBCs morphology). Finally, it is an economical solution for 
+MP grading in immense testing.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jemt.23170 
+PMID: 30575213  [Indexed for MEDLINE]
+
+
+1. Phytother Res. 2018 Oct;32(10):2021-2033. doi: 10.1002/ptr.6133. Epub 2018 Jul
+12.
+
+Biological activities of extracts from Aspidosperma subincanum Mart. and in
+silico prediction for inhibition of acetylcholinesterase.
+
+Pereira Rocha M(1), Rodrigues Valadares Campana P(2)(3), de Oliveira Scoaris
+D(2), de Almeida VL(2), Dias Lopes JC(4), Fonseca Silva A(5), Pieters L(6),
+Gontijo Silva C(1).
+
+Author information: 
+(1)Serviço de Biotecnologia Vegetal, Fundação Ezequiel Dias, Belo Horizonte, MG, 
+Brazil.
+(2)Serviço de Fitoquímica e Prospecção Farmacêutica, Fundação Ezequiel Dias, Belo
+Horizonte, MG, Brazil.
+(3)Departamento de Produtos Farmacêuticos, FAFAR-UFMG, Belo Horizonte, MG,
+Brazil.
+(4)Chemoinformatics Group (NEQUIM), Departamento de Química, Universidade Federal
+de Minas Gerais, Belo Horizonte, MG, Brazil.
+(5)Empresa de Pesquisa Agropecuária de Minas Gerais (EPAMIG), Belo Horizonte, MG,
+Brazil.
+(6)Natural Products and Food Research and Analysis (NatuRA), Department of
+Pharmaceutical Sciences, University of Antwerp, Antwerp, Belgium.
+
+Species of Aspidosperma are traditionally used to treat malaria, leishmaniasis,
+microbial, and inflammatory diseases. Aspidosperma subincanum Mart. known as
+"guatambu" is used in Brazilian traditional medicine to treat diabetes,
+hypercholesterolemia, and digestive diseases. Its tonic properties have been
+employed by the indigenous populations to stimulate the circulatory and
+genitourinary tracts and to improve respiratory function as well as to relieve
+spasms and to reduce fever. The species is known to contain antitumoural and
+antimalarial indole alkaloids. In the present study, various less explored
+biological activities of extracts from leaves and branches of A. subincanum were 
+investigated, that is, inhibition of acetylcholinesterase as well as antioxidant 
+and antibacterial activity. Twenty-one known indole alkaloids from this species
+were targeted for predicting the inhibition of acetylcholinesterase, and their
+biological activities were collected from the literature. Through in silico the
+prediction, the indole alkaloids uleine and derivatives demonstrated a strong
+probability of being able to inhibit the acetylcholinesterase enzyme, as well as 
+the olivacine derivatives 3,4-dihydroolivacine and N-methyl-tetrahydro-olivacine 
+(guatambuine), and the subincanadines C and E. Indeed, the extracts of
+A. subincanum showed acetylcholinesterase inhibitory activity, antioxidant
+activity in the lipid peroxidation assay, and antimicrobial activity against
+Staphylococcus aureus ATCC 25923, and their pharmacological properties should be 
+explored further.
+
+© 2018 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/ptr.6133 
+PMID: 29998591  [Indexed for MEDLINE]
+
+
+1. J Biophotonics. 2018 Sep;11(9):e201800101. doi: 10.1002/jbio.201800101. Epub 2018
+May 11.
+
+Machine learning-based in-line holographic sensing of unstained malaria-infected 
+red blood cells.
+
+Go T(1), Kim JH(1), Byeon H(1), Lee SJ(1).
+
+Author information: 
+(1)Department of Mechanical Engineering, Pohang University of Science and
+Technology, Pohang, Republic of Korea.
+
+Accurate and immediate diagnosis of malaria is important for medication of the
+infectious disease. Conventional methods for diagnosing malaria are time
+consuming and rely on the skill of experts. Therefore, an automatic and simple
+diagnostic modality is essential for healthcare in developing countries that lack
+the expertise of trained microscopists. In the present study, a new automatic
+sensing method using digital in-line holographic microscopy (DIHM) combined with 
+machine learning algorithms was proposed to sensitively detect unstained
+malaria-infected red blood cells (iRBCs). To identify the RBC characteristics, 13
+descriptors were extracted from segmented holograms of individual RBCs. Among the
+13 descriptors, 10 features were highly statistically different between healthy
+RBCs (hRBCs) and iRBCs. Six machine learning algorithms were applied to
+effectively combine the dominant features and to greatly improve the diagnostic
+capacity of the present method. Among the classification models trained by the 6 
+tested algorithms, the model trained by the support vector machine (SVM) showed
+the best accuracy in separating hRBCs and iRBCs for training (n = 280, 96.78%)
+and testing sets (n = 120, 97.50%). This DIHM-based artificial intelligence
+methodology is simple and does not require blood staining. Thus, it will be
+beneficial and valuable in the diagnosis of malaria.
+
+© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/jbio.201800101 
+PMID: 29676064 
+
+
+1. Mol Pharm. 2017 Dec 4;14(12):4462-4475. doi: 10.1021/acs.molpharmaceut.7b00578.
+Epub 2017 Nov 13.
+
+Comparison of Deep Learning With Multiple Machine Learning Methods and Metrics
+Using Diverse Drug Discovery Data Sets.
+
+Korotcov A(1), Tkachenko V(1), Russo DP(2)(3), Ekins S(2).
+
+Author information: 
+(1)Science Data Software, LLC , 14914 Bradwill Court, Rockville, Maryland 20850, 
+United States.
+(2)Collaborations Pharmaceuticals, Inc. , 840 Main Campus Drive, Lab 3510,
+Raleigh, North Carolina 27606, United States.
+(3)The Rutgers Center for Computational and Integrative Biology , Camden, New
+Jersey 08102, United States.
+
+Machine learning methods have been applied to many data sets in pharmaceutical
+research for several decades. The relative ease and availability of fingerprint
+type molecular descriptors paired with Bayesian methods resulted in the
+widespread use of this approach for a diverse array of end points relevant to
+drug discovery. Deep learning is the latest machine learning algorithm attracting
+attention for many of pharmaceutical applications from docking to virtual
+screening. Deep learning is based on an artificial neural network with multiple
+hidden layers and has found considerable traction for many artificial
+intelligence applications. We have previously suggested the need for a comparison
+of different machine learning methods with deep learning across an array of
+varying data sets that is applicable to pharmaceutical research. End points
+relevant to pharmaceutical research include absorption, distribution, metabolism,
+excretion, and toxicity (ADME/Tox) properties, as well as activity against
+pathogens and drug discovery data sets. In this study, we have used data sets for
+solubility, probe-likeness, hERG, KCNQ1, bubonic plague, Chagas, tuberculosis,
+and malaria to compare different machine learning methods using FCFP6
+fingerprints. These data sets represent whole cell screens, individual proteins, 
+physicochemical properties as well as a data set with a complex end point. Our
+aim was to assess whether deep learning offered any improvement in testing when
+assessed using an array of metrics including AUC, F1 score, Cohen's kappa,
+Matthews correlation coefficient and others. Based on ranked normalized scores
+for the metrics or data sets Deep Neural Networks (DNN) ranked higher than SVM,
+which in turn was ranked higher than all the other machine learning methods.
+Visualizing these properties for training and test sets using radar type plots
+indicates when models are inferior or perhaps over trained. These results also
+suggest the need for assessing deep learning further using multiple metrics with 
+much larger scale comparisons, prospective testing as well as assessment of
+different fingerprints and DNN architectures beyond those used.
+
+DOI: 10.1021/acs.molpharmaceut.7b00578 
+PMCID: PMC5741413
+PMID: 29096442  [Indexed for MEDLINE]
+
+
+1. Malar J. 2017 Sep 29;16(1):391. doi: 10.1186/s12936-017-2041-3.
+
+Statistical prediction of immunity to placental malaria based on multi-assay
+antibody data for malarial antigens.
+
+Siriwardhana C(1), Fang R(1), Salanti A(2), Leke RGF(3), Bobbili N(4), Taylor
+DW(4), Chen JJ(5).
+
+Author information: 
+(1)Biostatistics Core, Department of Complementary and Integrative Medicine, John
+A. Burns School of Medicine, University of Hawaii at Manoa, Honolulu, HI, 96813, 
+USA.
+(2)Centre for Medical Parasitology at Department of Immunology and Microbiology, 
+University of Copenhagen and Department of Infectious Diseases, Copenhagen
+University Hospital, Copenhagen, Denmark.
+(3)The Biotechnology Center, Faculty of Medicine and Biomedical Research,
+University of Yaoundé I, Yaoundé, Cameroon.
+(4)Department of Tropical Medicine, Medical Microbiology and Pharmacology, John
+A. Burns School of Medicine, University of Hawaii at Manoa, Honolulu, HI, 96813, 
+USA.
+(5)Biostatistics Core, Department of Complementary and Integrative Medicine, John
+A. Burns School of Medicine, University of Hawaii at Manoa, Honolulu, HI, 96813, 
+USA. jjchen@hawaii.edu.
+
+BACKGROUND: Plasmodium falciparum infections are especially severe in pregnant
+women because infected erythrocytes (IE) express VAR2CSA, a ligand that binds to 
+placental trophoblasts, causing IE to accumulate in the placenta. Resulting
+inflammation and pathology increases a woman's risk of anemia, miscarriage,
+premature deliveries, and having low birthweight (LBW) babies. Antibodies (Ab) to
+VAR2CSA reduce placental parasitaemia and improve pregnancy outcomes. Currently, 
+no single assay is able to predict if a woman has adequate immunity to prevent
+placental malaria (PM). This study measured Ab levels to 28 malarial antigens and
+used the data to develop statistical models for predicting if a woman has
+sufficient immunity to prevent PM.
+METHODS: Archival plasma samples from 1377 women were screened in a bead-based
+multiplex assay for Ab to 17 VAR2CSA-associated antigens (full length VAR2CSA
+(FV2), DBL 1-6 of the FCR3, 3D7 and 7G8 lines, ID1-ID2a (FCR3 and 3D7) and 11
+antigens that have been reported to be associated with immunity to P. falciparum 
+(AMA-1, CSP, EBA-175, LSA1, MSP1, MSP2, MSP3, MSP11, Pf41, Pf70 and RESA)). Ab
+levels along with clinical variables (age, gravidity) were used in the following 
+seven statistical approaches: logistic regression full model, logistic regression
+reduced model, recursive partitioning, random forests, linear discriminant
+analysis, quadratic discriminant analysis, and support vector machine.
+RESULTS: The best and simplest model proved to be the logistic regression reduced
+model. AMA-1, MSP2, EBA-175, Pf41, and MSP11 were found to be the top five most
+important predictors for the PM status based on overall prediction performance.
+CONCLUSIONS: Not surprising, significant differences were observed between PM
+positive (PM+) and PM negative (PM-) groups for Ab levels to the majority of
+malaria antigens. Individually though, these malarial antigens did not achieve
+reasonably high performances in terms of predicting the PM status. Utilizing
+multiple antigens in predictive models considerably improved discrimination power
+compared to individual assays. Among seven different classifiers considered, the 
+reduced logistic regression model produces the best overall predictive
+performance.
+
+DOI: 10.1186/s12936-017-2041-3 
+PMCID: PMC5622501
+PMID: 28962616  [Indexed for MEDLINE]
+
+
+1. J Infect Dis. 2017 Jan 15;215(2):312-320. doi: 10.1093/infdis/jiw531.
+
+Transcriptional Categorization of the Etiology of Pneumonia Syndrome in Pediatric
+Patients in Malaria-Endemic Areas.
+
+Silterra J(1), Gillette MA(1)(2)(3), Lanaspa M(4)(5), Pellé KG(1)(6), Valim
+C(1)(6), Ahmad R(1), Acácio S(5)(7), Almendinger KD(1), Tan Y(1)(8), Madrid
+L(4)(5), Alonso PL(4)(5), Carr SA(1), Wiegand RC(1), Bassat Q(4)(9)(5), Mesirov
+JP(1)(10), Milner DA Jr(1)(3)(6)(11), Wirth DF(1)(6).
+
+Author information: 
+(1)Broad Institute of MIT and Harvard, Cambridge.
+(2)Massachusetts General Hospital.
+(3)Harvard Medical School.
+(4)Barcelona Institute for Global Health, Barcelona Centre of International
+Health Research, Hospital Clínic-Universitat de Barcelona.
+(5)Centro de Investigação em Saúde de Manhiça.
+(6)Department of Immunology and Infectious Diseases, Harvard T. H. Chan School of
+Public Health.
+(7)National Institute of Health, Health Ministry, Maputo, Mozambique.
+(8)Bioinformatics Program, Boston University.
+(9)Institució Catalana de Recerca i Estudis Avançats, Passeig Lluís Companys 23, 
+08010 Barcelona.
+(10)Department of Medicine, University of California, San Diego.
+(11)Brigham and Women's Hospital, Boston, Massachusetts.
+
+Background: Pediatric acute respiratory distress in tropical settings is very
+common. Bacterial pneumonia is a major contributor to morbidity and mortality
+rates and requires adequate diagnosis for correct treatment. A rapid test that
+could identify bacterial (vs other) infections would have great clinical utility.
+Methods and Results: We performed RNA (RNA-seq) sequencing and analyzed the
+transcriptomes of 68 pediatric patients with well-characterized clinical
+phenotype to identify transcriptional features associated with each disease
+class. We refined the features to predictive models (support vector machine,
+elastic net) and validated those models in an independent test set of 37 patients
+(80%-85% accuracy).
+Conclusions: We have identified sets of genes that are differentially expressed
+in pediatric patients with pneumonia syndrome attributable to different
+infections and requiring different therapeutic interventions. Findings of this
+study demonstrate that human transcription signatures in infected patients
+recapitulate the underlying biology and provide models for predicting a bacterial
+diagnosis to inform treatment.
+
+© The Author 2016. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail
+journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jiw531 
+PMCID: PMC6392473
+PMID: 27837008  [Indexed for MEDLINE]
+
+
+1. SAR QSAR Environ Res. 2016;27(2):101-24. doi: 10.1080/1062936X.2015.1134652.
+
+QSAR study on the antimalarial activity of Plasmodium falciparum dihydroorotate
+dehydrogenase (PfDHODH) inhibitors.
+
+Hou X(1), Chen X(1), Zhang M(1), Yan A(1)(2).
+
+Author information: 
+(1)a State Key Laboratory of Chemical Resource Engineering, Department of
+Pharmaceutical Engineering , Beijing University of Chemical Technology , Beijing 
+, P.R. China.
+(2)b Stake Key Laboratory of Natural and Biomimetic Drugs , Peking University ,
+Beijing , P.R. China.
+
+Plasmodium falciparum, the most fatal parasite that causes malaria, is
+responsible for over one million deaths per year. P. falciparum dihydroorotate
+dehydrogenase (PfDHODH) has been validated as a promising drug development target
+for antimalarial therapy since it catalyzes the rate-limiting step for DNA and
+RNA biosynthesis. In this study, we investigated the quantitative
+structure-activity relationships (QSAR) of the antimalarial activity of PfDHODH
+inhibitors by generating four computational models using a multilinear regression
+(MLR) and a support vector machine (SVM) based on a dataset of 255 PfDHODH
+inhibitors. All the models display good prediction quality with a leave-one-out
+q(2) >0.66, a correlation coefficient (r) >0.85 on both training sets and test
+sets, and a mean square error (MSE) <0.32 on training sets and <0.37 on test
+sets, respectively. The study indicated that the hydrogen bonding ability, atom
+polarizabilities and ring complexity are predominant factors for inhibitors'
+antimalarial activity. The models are capable of predicting inhibitors'
+antimalarial activity and the molecular descriptors for building the models could
+be helpful in the development of new antimalarial drugs.
+
+DOI: 10.1080/1062936X.2015.1134652 
+PMID: 26911561  [Indexed for MEDLINE]
+
+
+1. J Comput Chem. 2015 Dec 5;36(31):2317-27. doi: 10.1002/jcc.24210. Epub 2015 Oct
+20.
+
+DSPMP: Discriminating secretory proteins of malaria parasite by hybridizing
+different descriptors of Chou's pseudo amino acid patterns.
+
+Fan GL(1), Zhang XY(2), Liu YL(1), Nang Y(1), Wang H(1).
+
+Author information: 
+(1)Department of Physics, School of Physical Science and Technology, Inner
+Mongolia University, Hohhot, 010021, China.
+(2)Department of Physics, Inner Mongolia University of Technology, Hohhot,
+010051, China.
+
+Identification of the proteins secreted by the malaria parasite is important for 
+developing effective drugs and vaccines against infection. Therefore, we
+developed an improved predictor called "DSPMP" (Discriminating Secretory Proteins
+of Malaria Parasite) to identify the secretory proteins of the malaria parasite
+by integrating several vector features using support vector machine-based
+methods. DSPMP achieved an overall predictive accuracy of 98.61%, which is
+superior to that of the existing predictors in this field. We show that our
+method is capable of identifying the secretory proteins of the malaria parasite
+and found that the amino acid composition for buried and exposed sequences,
+denoted by AAC(b/e), was the most important feature for constructing the
+predictor. This article not only introduces a novel method for detecting the
+important features of sample proteins related to the malaria parasite but also
+provides a useful tool for tackling general protein-related problems. The DSPMP
+webserver is freely available at http://202.207.14.87:8032/fuwu/DSPMP/index.asp.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jcc.24210 
+PMID: 26484844  [Indexed for MEDLINE]
+
+
+1. Am J Respir Crit Care Med. 2016 Feb 15;193(4):448-59. doi:
+10.1164/rccm.201506-1100OC.
+
+Responses to Bacteria, Virus, and Malaria Distinguish the Etiology of Pediatric
+Clinical Pneumonia.
+
+Valim C(1)(2), Ahmad R(2), Lanaspa M(3)(4), Tan Y(2)(5), Acácio S(4)(6), Gillette
+MA(2)(7)(8), Almendinger KD(2), Milner DA Jr(1)(2)(8)(9), Madrid L(3)(4), Pellé
+K(1)(2), Harezlak J(10), Silterra J(2), Alonso PL(3)(4), Carr SA(2), Mesirov
+JP(2)(5), Wirth DF(1)(2), Wiegand RC(2), Bassat Q(3)(4).
+
+Author information: 
+(1)1 Department of Immunology and Infectious Diseases, Harvard T. H. Chan School 
+of Public Health, Boston, Massachusetts.
+(2)2 Broad Institute of Massachusetts Institute of Technology and Harvard,
+Cambridge, Massachusetts.
+(3)3 Barcelona Institute for Global Health, Barcelona Center of International
+Health Research, and Hospital Clínic-Universitat de Barcelona, Barcelona, Spain.
+(4)4 Centro de Investigação em Saúde de Manhiça, Maputo, Mozambique.
+(5)5 Bioinformatics Program, Boston University, Boston, Massachusetts.
+(6)6 National Institute of Health, Health Ministry, Maputo, Mozambique.
+(7)7 Massachusetts General Hospital, Boston, Massachusetts.
+(8)8 Harvard Medical School, Boston, Massachusetts.
+(9)9 Brigham and Women's Hospital, Boston, Massachusetts; and.
+(10)10 Richard M. Fairbanks School of Public Health and School of Medicine,
+Indiana University, Indianapolis, Indiana.
+
+Comment in
+    Am J Respir Crit Care Med. 2016 Feb 15;193(4):353-5.
+
+RATIONALE: Plasma-detectable biomarkers that rapidly and accurately diagnose
+bacterial infections in children with suspected pneumonia could reduce the
+morbidity of respiratory disease and decrease the unnecessary use of antibiotic
+therapy.
+OBJECTIVES: Using 56 markers measured in a multiplexed immunoassay, we sought to 
+identify proteins and protein combinations that could discriminate bacterial from
+viral or malarial diagnoses.
+METHODS: We selected 80 patients with clinically diagnosed pneumonia (as defined 
+by the World Health Organization) who also met criteria for bacterial, viral, or 
+malarial infection based on clinical, radiographic, and laboratory results. Ten
+healthy community control subjects were enrolled to assess marker reliability.
+Patients were subdivided into two sets: one for identifying potential markers and
+another for validating them.
+MEASUREMENTS AND MAIN RESULTS: Three proteins (haptoglobin, tumor necrosis factor
+receptor 2 or IL-10, and tissue inhibitor of metalloproteinases 1) were
+identified that, when combined through a classification tree signature,
+accurately classified patients into bacterial, malarial, and viral etiologies and
+misclassified only one patient with bacterial pneumonia from the validation set. 
+The overall sensitivity and specificity of this signature for the bacterial
+diagnosis were 96 and 86%, respectively. Alternative combinations of markers with
+comparable accuracy were selected by support vector machine and regression models
+and included haptoglobin, IL-10, and creatine kinase-MB.
+CONCLUSIONS: Combinations of plasma proteins accurately identified children with 
+a respiratory syndrome who were likely to have bacterial infections and who would
+benefit from antibiotic therapy. When used in conjunction with malaria diagnostic
+tests, they may improve diagnostic specificity and simplify treatment decisions
+for clinicians.
+
+DOI: 10.1164/rccm.201506-1100OC 
+PMCID: PMC5440057
+PMID: 26469764  [Indexed for MEDLINE]
+
+
+1. BMC Med Inform Decis Mak. 2015 Jun 18;15:47. doi: 10.1186/s12911-015-0170-6.
+
+Fuzzy association rule mining and classification for the prediction of malaria in
+South Korea.
+
+Buczak AL(1), Baugher B(2), Guven E(2), Ramac-Thomas LC(2), Elbert Y(2), Babin
+SM(2), Lewis SH(2).
+
+Author information: 
+(1)Johns Hopkins University Applied Physics Laboratory, 11100 Johns Hopkins Rd,
+Laurel, MD, 20723-6099, USA. anna.buczak@jhuapl.edu.
+(2)Johns Hopkins University Applied Physics Laboratory, 11100 Johns Hopkins Rd,
+Laurel, MD, 20723-6099, USA.
+
+BACKGROUND: Malaria is the world's most prevalent vector-borne disease. Accurate 
+prediction of malaria outbreaks may lead to public health interventions that
+mitigate disease morbidity and mortality.
+METHODS: We describe an application of a method for creating prediction models
+utilizing Fuzzy Association Rule Mining to extract relationships between
+epidemiological, meteorological, climatic, and socio-economic data from Korea.
+These relationships are in the form of rules, from which the best set of rules is
+automatically chosen and forms a classifier. Two classifiers have been built and 
+their results fused to become a malaria prediction model. Future malaria cases
+are predicted as Low, Medium or High, where these classes are defined as a total 
+of 0-2, 3-16, and above 17 cases, respectively, for a region in South Korea
+during a two-week period. Based on user recommendations, HIGH is considered an
+outbreak.
+RESULTS: Model accuracy is described by Positive Predictive Value (PPV),
+Sensitivity, and F-score for each class, computed on test data not previously
+used to develop the model. For predictions made 7-8 weeks in advance, model PPV
+and Sensitivity are 0.842 and 0.681, respectively, for the HIGH classes. The F0.5
+and F3 scores (which combine PPV and Sensitivity) are 0.804 and 0.694,
+respectively, for the HIGH classes. The overall FARM results (as measured by
+F-scores) are significantly better than those obtained by Decision Tree, Random
+Forest, Support Vector Machine, and Holt-Winters methods for the HIGH class. For 
+the Medium class, Random Forest and FARM obtain comparable results, with FARM
+being better at F0.5, and Random Forest obtaining a higher F3.
+CONCLUSIONS: A previously described method for creating disease prediction models
+has been modified and extended to build models for predicting malaria. In
+addition, some new input variables were used, including indicators of
+intervention measures. The South Korea malaria prediction models predict Low,
+Medium or High cases 7-8 weeks in the future. This paper demonstrates that our
+data driven approach can be used for the prediction of different diseases.
+
+DOI: 10.1186/s12911-015-0170-6 
+PMCID: PMC4472166
+PMID: 26084541  [Indexed for MEDLINE]
+
+
+1. Comput Math Methods Med. 2015;2015:139681. doi: 10.1155/2015/139681. Epub 2015
+Mar 11.
+
+Chagas parasite detection in blood images using AdaBoost.
+
+Uc-Cetina V(1), Brito-Loeza C(1), Ruiz-Piña H(2).
+
+Author information: 
+(1)Facultad de Matemáticas, Universidad Autónoma de Yucatán, Anillo Periférico
+Norte, Tablaje Catastral, 13615 Mérida, YUC, Mexico.
+(2)Centro de Investigaciones Regionales Dr. Hideyo Noguchi, Universidad Autónoma 
+de Yucatán, Avenida, Itzáes No. 490 x 59, Colonia Centro, 97000 Mérida, YUC,
+Mexico.
+
+The Chagas disease is a potentially life-threatening illness caused by the
+protozoan parasite, Trypanosoma cruzi. Visual detection of such parasite through 
+microscopic inspection is a tedious and time-consuming task. In this paper, we
+provide an AdaBoost learning solution to the task of Chagas parasite detection in
+blood images. We give details of the algorithm and our experimental setup. With
+this method, we get 100% and 93.25% of sensitivity and specificity, respectively.
+A ROC comparison with the method most commonly used for the detection of malaria 
+parasites based on support vector machines (SVM) is also provided. Our
+experimental work shows mainly two things: (1) Chagas parasites can be detected
+automatically using machine learning methods with high accuracy and (2) AdaBoost 
++ SVM provides better overall detection performance than AdaBoost or SVMs alone. 
+Such results are the best ones known so far for the problem of automatic
+detection of Chagas parasites through the use of machine learning, computer
+vision, and image processing methods.
+
+DOI: 10.1155/2015/139681 
+PMCID: PMC4377374
+PMID: 25861375  [Indexed for MEDLINE]
+
+
+1. Comb Chem High Throughput Screen. 2015;18(2):227-34.
+
+Discovery of new potential antimalarial compounds using virtual screening of ZINC
+database.
+
+Ghasemi JB, Shiri F, Pirhadi S, Heidari Z(1).
+
+Author information: 
+(1)Drug Design in Silico Lab., Chemistry Faculty, K N Toosi University of
+Technology, Tehran, Iran. Jahan.ghasemi@gmail.com.
+
+Falcipain-3 (FP-3) is a cysteine protease of the malaria parasite Plasmodium
+falciparum which is a promising and attractive target enzyme for antiparasitic
+chemotherapy. In this study, a support vector machine (SVM) model based on
+fingerprint-based descriptors was developed on a dataset of 239 FP-3 inhibitors
+to identify the most active antimalarial compounds among the active compounds
+provided from similarity search. The satisfactory classification performance
+achieved by the SVM model shows its ability to use it as a further filter to
+distinguish the most active compounds. The accuracy in prediction for the
+training, test and external validation sets were 97.39%, 94.74% and 90.6%,
+respectively. Furthermore, the performance of the model was examined by plotting 
+the receiver operating characteristic (ROC) curve, and the area under the ROC
+curve was 0.96 for the modeling set. The ability of a virtual screening scheme to
+scaffold hopping or lead hopping is known as a key ability of an effective method
+for virtual screening. Three diverse reference FP-3 structures were chosen as
+active antimalarial compounds to search the lead-like database of ZINC and
+retrieve the most similar compounds. Compounds having Tanimoto similarity
+coefficient above 0.8 were extracted for further analysis by classification
+model. The SVM model rendered five most active compounds and they were also
+analyzed by ADME/Tox and diversity measures. Maximum property-based distance
+between extracted compounds was found to be 0.70, which shows the importance of
+applying multiple diverse reference compounds in the similarity searching.
+
+
+PMID: 25543686  [Indexed for MEDLINE]
+
+
+1. PLoS One. 2014 Aug 21;9(8):e104855. doi: 10.1371/journal.pone.0104855.
+eCollection 2014.
+
+A malaria diagnostic tool based on computer vision screening and visualization of
+Plasmodium falciparum candidate areas in digitized blood smears.
+
+Linder N(1), Turkki R(1), Walliander M(1), Mårtensson A(2), Diwan V(2), Rahtu
+E(3), Pietikäinen M(3), Lundin M(1), Lundin J(4).
+
+Author information: 
+(1)Institute for Molecular Medicine Finland, University of Helsinki, Helsinki,
+Finland.
+(2)Department of Public Health Sciences, Karolinska Institute, Stockholm, Sweden.
+(3)Department of Computer Science and Engineering, University of Oulu, Oulu,
+Finland.
+(4)Institute for Molecular Medicine Finland, University of Helsinki, Helsinki,
+Finland; Department of Public Health Sciences, Karolinska Institute, Stockholm,
+Sweden.
+
+INTRODUCTION: Microscopy is the gold standard for diagnosis of malaria, however, 
+manual evaluation of blood films is highly dependent on skilled personnel in a
+time-consuming, error-prone and repetitive process. In this study we propose a
+method using computer vision detection and visualization of only the
+diagnostically most relevant sample regions in digitized blood smears.
+METHODS: Giemsa-stained thin blood films with P. falciparum ring-stage
+trophozoites (n = 27) and uninfected controls (n = 20) were digitally scanned
+with an oil immersion objective (0.1 µm/pixel) to capture approximately 50,000
+erythrocytes per sample. Parasite candidate regions were identified based on
+color and object size, followed by extraction of image features (local binary
+patterns, local contrast and Scale-invariant feature transform descriptors) used 
+as input to a support vector machine classifier. The classifier was trained on
+digital slides from ten patients and validated on six samples.
+RESULTS: The diagnostic accuracy was tested on 31 samples (19 infected and 12
+controls). From each digitized area of a blood smear, a panel with the 128 most
+probable parasite candidate regions was generated. Two expert microscopists were 
+asked to visually inspect the panel on a tablet computer and to judge whether the
+patient was infected with P. falciparum. The method achieved a diagnostic
+sensitivity and specificity of 95% and 100% as well as 90% and 100% for the two
+readers respectively using the diagnostic tool. Parasitemia was separately
+calculated by the automated system and the correlation coefficient between manual
+and automated parasitemia counts was 0.97.
+CONCLUSION: We developed a decision support system for detecting malaria
+parasites using a computer vision algorithm combined with visualization of sample
+areas with the highest probability of malaria infection. The system provides a
+novel method for blood smear screening with a significantly reduced need for
+visual examination and has a potential to increase the throughput in malaria
+diagnostics.
+
+DOI: 10.1371/journal.pone.0104855 
+PMCID: PMC4140733
+PMID: 25144549  [Indexed for MEDLINE]
+
+
+1. Int J Comput Biol Drug Des. 2014;7(2-3):113-29. doi: 10.1504/IJCBDD.2014.061655. 
+Epub 2014 May 28.
+
+Classification of T cell movement tracks allows for prediction of cell function.
+
+Kelemen RK(1), He GF(1), Woo HL(1), Lane T(1), Rempe C(1), Wang J(1), Cockburn
+IA(2), Amino R(3), Ganusov VV(4), Berry MW(5).
+
+Author information: 
+(1)UT-ORNL Graduate School of Genome Science and Technology, Center for
+Environmental Biotechnology, and Departments of Civil and Environmental
+Engineering, Geography, and Microbiology, University of Tennessee, F337 Walters
+Life Science, Knoxville, TN 37996-0840, USA.
+(2)Department of Pathogens and Immunity, John Curtin School of Medical Research, 
+Australian National University, GPO Box 334, Canberra City ACT 2600, Australia.
+(3)Unité de Biologie et Génétique du Paludisme, Institut Pasteur, 75724, Paris
+Cedex 15, France.
+(4)Department of Microbiology, University of Tennessee, M409 Walters Life Science
+Building, 1414 West Cumberland Avenue, Knoxville, TN 37996-0845, USA.
+(5)EECS Department, University of Tennessee, 401 Min H. Kao Building, Knoxville, 
+TN 37996, USA.
+
+Using a unique combination of visual, statistical, and data mining methods, we
+tested the hypothesis that an immune cell's movement pattern can convey key
+information about the cell's function, antigen specificity, and environment. We
+applied clustering, statistical tests, and a support vector machine (SVM) to
+assess our ability to classify different datasets of imaged flouresently labelled
+T cells in mouse liver. We additionally saw clusters of different movement
+patterns of T cells of identical antigenic specificity. We found that the
+movement patterns of T cells specific and non-specific for malaria parasites are 
+differentiable with 72% accuracy, and that specific cells have a higher tendency 
+to move towards the parasite than non-specific cells. Movements of
+antigen-specific T cells in uninfected mice vs. infected mice were differentiable
+with 69.8% accuracy. We additionally saw clusters of different movement patterns 
+of T cells of identical antigenic specificity. We concluded that our combination 
+of methods has the potential to advance the understanding of cell movements in
+vivo.
+
+DOI: 10.1504/IJCBDD.2014.061655 
+PMID: 24878724  [Indexed for MEDLINE]
+
+
+1. Mol Divers. 2013 Aug;17(3):489-97. doi: 10.1007/s11030-013-9447-9. Epub 2013 May 
+9.
+
+Classification of Plasmodium falciparum glucose-6-phosphate dehydrogenase
+inhibitors by support vector machine.
+
+Hou X(1), Yan A.
+
+Author information: 
+(1)State Key Laboratory of Chemical Resource Engineering, Department of
+Pharmaceutical Engineering, Beijing University of Chemical Technology, 15
+BeiSanHuan East Road, P.O. Box 53, Beijing, 100029, China.
+
+Plasmodium falciparum glucose-6-phosphate dehydrogenase (PfG6PD) has been
+considered as a potential target for severe forms of anti-malaria therapy. In
+this study, several classification models were built to distinguish active and
+weakly active PfG6PD inhibitors by support vector machine method. Each molecule
+was initially represented by 1,044 molecular descriptors calculated by
+ADRIANA.Code. Correlation analysis and attribute selection methods in Weka were
+used to get the best reduced set of molecular descriptors, respectively. The best
+model (Model 2w) gave a prediction accuracy (Q) of 93.88 % and a Matthew's
+correlation coefficient (MCC) of 0.88 on the test set. Some properties such as
+[Formula: see text] atom charge, [Formula: see text] atom charge, and lone pair
+electronegativity-related descriptors are important for the interaction between
+the PfG6PD and the inhibitor.
+
+DOI: 10.1007/s11030-013-9447-9 
+PMID: 23653283  [Indexed for MEDLINE]
+
+
+1. Micron. 2013 Feb;45:97-106. doi: 10.1016/j.micron.2012.11.002. Epub 2012 Nov 16.
+
+Machine learning approach for automated screening of malaria parasite using light
+microscopic images.
+
+Das DK(1), Ghosh M, Pal M, Maiti AK, Chakraborty C.
+
+Author information: 
+(1)School of Medical Science and Technology, IIT Kharagpur, India.
+
+The aim of this paper is to address the development of computer assisted malaria 
+parasite characterization and classification using machine learning approach
+based on light microscopic images of peripheral blood smears. In doing this,
+microscopic image acquisition from stained slides, illumination correction and
+noise reduction, erythrocyte segmentation, feature extraction, feature selection 
+and finally classification of different stages of malaria (Plasmodium vivax and
+Plasmodium falciparum) have been investigated. The erythrocytes are segmented
+using marker controlled watershed transformation and subsequently total ninety
+six features describing shape-size and texture of erythrocytes are extracted in
+respect to the parasitemia infected versus non-infected cells. Ninety four
+features are found to be statistically significant in discriminating six classes.
+Here a feature selection-cum-classification scheme has been devised by combining 
+F-statistic, statistical learning techniques i.e., Bayesian learning and support 
+vector machine (SVM) in order to provide the higher classification accuracy using
+best set of discriminating features. Results show that Bayesian approach provides
+the highest accuracy i.e., 84% for malaria classification by selecting 19 most
+significant features while SVM provides highest accuracy i.e., 83.5% with 9 most 
+significant features. Finally, the performance of these two classifiers under
+feature selection framework has been compared toward malaria parasite
+classification.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.micron.2012.11.002 
+PMID: 23218914  [Indexed for MEDLINE]
+
+
+1. Anal Chim Acta. 2011 Oct 31;705(1-2):98-110. doi: 10.1016/j.aca.2011.04.019. Epub
+2011 Apr 20.
+
+Classification models for neocryptolepine derivatives as inhibitors of the
+β-haematin formation.
+
+Dejaegher B(1), Dhooghe L, Goodarzi M, Apers S, Pieters L, Vander Heyden Y.
+
+Author information: 
+(1)Analytical Chemistry and Pharmaceutical Technology, Center for Pharmaceutical 
+Research, Vrije Universiteit Brussel, Laarbeeklaan 103, B-1090 Brussels, Belgium.
+
+This paper describes the construction of a QSAR model to relate the structures of
+various derivatives of neocryptolepine to their anti-malarial activities. QSAR
+classification models were build using Linear Discriminant Analysis (LDA),
+Quadratic Discriminant Analysis (QDA), Classification and Regression Trees
+(CART), Partial Least Squares-Discriminant Analysis (PLS-DA), Orthogonal
+Projections to Latent Structures-Discriminant Analysis (OPLS-DA), and Support
+Vector Machines for Classification (SVM-C), using four sets of molecular
+descriptors as explanatory variables. Prior to classification, the molecules were
+divided into a training and a test set using the duplex algorithm. The different 
+classification models were compared regarding their predictive ability,
+simplicity, and interpretability. Both binary and multi-class classification
+models were constructed. For classification into three classes, CART and
+One-Against-One (OAO)-SVM-C were found to be the best predictive methods, while
+for classification into two classes, LDA, QDA and CART were.
+
+Copyright © 2011 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.aca.2011.04.019 
+PMID: 21962353  [Indexed for MEDLINE]
+
+
+1. Comb Chem High Throughput Screen. 2011 Dec;14(10):898-907.
+
+Support vector machine based prediction of P. falciparum proteasome inhibitors
+and development of focused library by molecular docking.
+
+Subramaniam S(1), Mehrotra M, Gupta D.
+
+Author information: 
+(1)Bioinformatics Laboratory, Structural and Computational Biology Group,
+International Centre for Genetic Engineering and Biotechnology, Aruna Asaf Ali
+Marg, New Delhi, India.
+
+The emergence and spread of Plasmodium falciparum resistance to existing
+antimalarials emphasize the impelling search for novel drug targets and
+chemotherapeutic compounds. The ubiquitin-proteasome system plays a major role in
+overall protein turnover, in eukaryotic cells including plasmodia. 20S β subunit 
+is the catalytic core of this proteolytic machinery, and hence most of the
+inhibitors developed are being targeted towards this component. Inhibition of the
+proteasome is established as a promising strategy to develop novel antimalarial
+drugs. The present study reports identification of novel drug-like 20S proteasome
+inhibitors with potential activity against the 20S β subunit of P. falciparum
+using a combination of ligand based (Support Vector Machines) and receptor based 
+(molecular docking) techniques. The robust learning and generalizing capability
+of Support Vector Machines (SVM) has been exploited to classify proteasome
+inhibitors and non-inhibitors, targeted towards P. falciparum 20S proteasome. SVM
+model has been trained using 170 molecular descriptors of 64 inhibitors and 208
+putative non-inhibitors of 20S proteasome. The non-linear classifier based on
+Radial Basis Function (RBF) kernel yielded highest classification accuracy in
+comparison to the linear classifier. The best classifier had 5-fold
+Cross-Validation (CV) accuracy of 97% and Area Under Curve (AUC) of 0.99
+reflecting good accuracy of the model. The SVM model rapidly classified compounds
+with potential proteasomal activity. Subsequently, molecular docking studies
+aided the generation of focused collection of compounds with good binding
+affinity towards the substrate-binding site of 20S β subunit. The novel drug-like
+20S proteasome inhibitors identified in this study can be a good starting point
+to develop novel antimalarial drugs.
+
+
+PMID: 21843142  [Indexed for MEDLINE]
+
+
+1. Amino Acids. 2012 Apr;42(4):1443-54. doi: 10.1007/s00726-011-0888-0. Epub 2011
+Mar 29.
+
+Mito-GSAAC: mitochondria prediction using genetic ensemble classifier and split
+amino acid composition.
+
+Afridi TH(1), Khan A, Lee YS.
+
+Author information: 
+(1)Department of Computer and Information Sciences, Pakistan Institute of
+Engineering and Applied Sciences, Nilore, Islamabad, Pakistan.
+
+Mitochondria are all-important organelles of eukaryotic cells since they are
+involved in processes associated with cellular mortality and human diseases.
+Therefore, trustworthy techniques are highly required for the identification of
+new mitochondrial proteins. We propose Mito-GSAAC system for prediction of
+mitochondrial proteins. The aim of this work is to investigate an effective
+feature extraction strategy and to develop an ensemble approach that can better
+exploit the advantages of this feature extraction strategy for mitochondria
+classification. We investigate four kinds of protein representations for
+prediction of mitochondrial proteins: amino acid composition, dipeptide
+composition, pseudo amino acid composition, and split amino acid composition
+(SAAC). Individual classifiers such as support vector machine (SVM), k-nearest
+neighbor, multilayer perceptron, random forest, AdaBoost, and bagging are first
+trained. An ensemble classifier is then built using genetic programming (GP) for 
+evolving a complex but effective decision space from the individual decision
+spaces of the trained classifiers. The highest prediction performance for
+Jackknife test is 92.62% using GP-based ensemble classifier on SAAC features,
+which is the highest accuracy, reported so far on the Mitochondria dataset being 
+used. While on the Malaria Parasite Mitochondria dataset, the highest accuracy is
+obtained by SVM using SAAC and it is further enhanced to 93.21% using GP-based
+ensemble. It is observed that SAAC has better discrimination power for
+mitochondria prediction over the rest of the feature extraction strategies. Thus,
+the improved prediction performance is largely due to the better capability of
+SAAC for discriminating between mitochondria and non-mitochondria proteins at the
+N and C terminus and the effective combination capability of GP. Mito-GSAAC can
+be accessed at http://111.68.99.218/Mito-GSAAC . It is expected that the novel
+approach and the accompanied predictor will have a major impact to Molecular Cell
+Biology, Proteomics, Bioinformatics, System Biology, and Drug Development.
+
+DOI: 10.1007/s00726-011-0888-0 
+PMID: 21445589  [Indexed for MEDLINE]
+
+
+1. Amino Acids. 2010 Jun;39(1):101-10. doi: 10.1007/s00726-009-0381-1. Epub 2009 Nov
+12.
+
+Prediction of mitochondrial proteins of malaria parasite using split amino acid
+composition and PSSM profile.
+
+Verma R(1), Varshney GC, Raghava GP.
+
+Author information: 
+(1)Bioinformatics Centre, Institute of Microbial Technology, Sector 39-A,
+Chandigarh, India. ruchi@imtech.res.in
+
+The rate of human death due to malaria is increasing day-by-day. Thus the malaria
+causing parasite Plasmodium falciparum (PF) remains the cause of concern. With
+the wealth of data now available, it is imperative to understand protein
+localization in order to gain deeper insight into their functional roles. In this
+manuscript, an attempt has been made to develop prediction method for the
+localization of mitochondrial proteins. In this study, we describe a method for
+predicting mitochondrial proteins of malaria parasite using machine-learning
+technique. All models were trained and tested on 175 proteins (40 mitochondrial
+and 135 non-mitochondrial proteins) and evaluated using five-fold cross
+validation. We developed a Support Vector Machine (SVM) model for predicting
+mitochondrial proteins of P. falciparum, using amino acids and dipeptides
+composition and achieved maximum MCC 0.38 and 0.51, respectively. In this study, 
+split amino acid composition (SAAC) is used where composition of N-termini,
+C-termini, and rest of protein is computed separately. The performance of SVM
+model improved significantly from MCC 0.38 to 0.73 when SAAC instead of simple
+amino acid composition was used as input. In addition, SVM model has been
+developed using composition of PSSM profile with MCC 0.75 and accuracy 91.38%. We
+achieved maximum MCC 0.81 with accuracy 92% using a hybrid model, which combines 
+PSSM profile and SAAC. When evaluated on an independent dataset our method
+performs better than existing methods. A web server PFMpred has been developed
+for predicting mitochondrial proteins of malaria parasites (
+http://www.imtech.res.in/raghava/pfmpred/).
+
+DOI: 10.1007/s00726-009-0381-1 
+PMID: 19908123  [Indexed for MEDLINE]
+
+
+1. Proteins. 2008 Feb 15;70(3):659-66.
+
+MAAP: malarial adhesins and adhesin-like proteins predictor.
+
+Ansari FA(1), Kumar N, Bala Subramanyam M, Gnanamani M, Ramachandran S.
+
+Author information: 
+(1)G. N. Ramachandran Knowledge Centre for Genome Informatics, Institute of
+Genomics and Integrative Biology, Delhi 110 007, India.
+
+Malaria caused by protozoan parasites belonging to the genus Plasmodium is a
+dreaded disease, second only to tuberculosis. The emergence of parasites
+resistant to commonly used drugs and the lack of availability of vaccines
+aggravates the problem. One of the preventive approaches targets adhesion of
+parasites to host cells and tissues. Adhesion of parasites is mediated by
+proteins called adhesins. Abrogation of adhesion by either immunizing the host
+with adhesins or inhibiting the interaction using structural analogs of host cell
+receptors holds the potential to develop novel preventive strategies. The
+availability of complete genome sequence offers new opportunities for identifying
+adhesin and adhesin-like proteins. Development of computational algorithms can
+simplify this task and accelerate experimental characterization of the predicted 
+adhesins from complete genomes. A curated positive dataset of experimentally
+known adhesins from Plasmodium species was prepared by careful examination of
+literature reports. "Controversial" or "hypothetical" adhesins were excluded. The
+negative dataset consisted of proteins representing various intracellular
+functions including information processing, metabolism, and interface
+(transporters). We did not include proteins likely to be on the surface with
+unknown adhesin properties or which are linked even indirectly to the adhesion
+process in either of the training sets. A nonhomology-based approach using 420
+compositional properties of amino acid dipeptide and multiplet frequencies was
+used to develop MAAP Web server with Support Vector Machine (SVM) model
+classifier as its engine for the prediction of malarial adhesins and adhesin-like
+proteins. The MAAP engine has six SVM classifier models identified through an
+exhaustive search from 728 kernel parameters set. These models displayed an
+efficiency (Mathews correlation coefficient) of 0.860-0.967. The final prediction
+P(maap) score is the maximum score attained by a given sequence in any of the six
+models. The results of MAAP runs on complete proteomes of Plasmodium species
+revealed that in Plasmodium falciparum at P(maap) scores above 0.0, we observed a
+sensitivity of 100% with two false positives. In P. vivax and P. yoelii an
+optimal threshold P(maap) score of 0.7 was optimal with very few false positives 
+(upto 5). Several new predictions were obtained. This list includes hypothetical 
+protein PF14_0040, interspersed repeat antigen, STEVOR, liver stage antigen,
+SURFIN, RIFIN, stevor (3D7-stevorT3-2), mature parasite-infected erythrocyte
+surface antigen or P. falciparum erythrocyte membrane protein 2, merozoite
+surface protein 6 in P. falciparum, circumsporozoite proteins, microneme
+protein-1, Vir18, Vir12-like, Vir12, Vir18-like, Vir18-related and Vir4 in P.
+vivax, circumsporozoite protein/thrombospondin related anonymous proteins, 28 kDa
+ookinete surface protein, yir1, and yir4 of P. yoelii. Among these, a few
+proteins identified by MAAP were matched with those identified by other groups
+using different experimental and theoretical strategies. Most other interspersed 
+repeat proteins in Plasmodium species had lower P(maap) scores. These new
+predictions could serve as new leads for further experimental characterization
+(MAAP webserver: http://maap.igib.res.in).
+
+(c) 2007 Wiley-Liss, Inc.
+
+DOI: 10.1002/prot.21568 
+PMID: 17879344  [Indexed for MEDLINE]
+

@@ -1,0 +1,299 @@
+
+1. Microsc Res Tech. 2019 Apr 1. doi: 10.1002/jemt.23269. [Epub ahead of print]
+
+Plasmodium species aware based quantification of malaria parasitemia in light
+microscopy thin blood smear.
+
+Abbas N(1), Saba T(2), Rehman A(3), Mehmood Z(4), Javaid N(5), Tahir M(6), Khan
+NU(1), Ahmed KT(7), Shah R(1).
+
+Author information: 
+(1)Department of Computer Science, Islamia College Peshawar, KPK, Pakistan.
+(2)College of Computer and Information Sciences, Prince Sultan University,
+Riyadh, Saudi Arabia.
+(3)College of Business Administration, Al Yamamah University, Riyadh, Saudi
+Arabia.
+(4)Department of Computer Engineering, University of Engineering and Technology, 
+Taxila, Pakistan.
+(5)Department of Computer Science, COMSATS University Islamabad, Pakistan.
+(6)Department of Computer Science, COMSATS University Islamabad, Attock Campus,
+Pakistan.
+(7)Department of Computer Science, Bahauddin Zakariya University, Multan,
+Pakistan.
+
+Malaria is a serious worldwide disease, caused by a bite of a female Anopheles
+mosquito. The parasite transferred into complex life round in which it is grown
+and reproduces into the human body. The detection and recognition of Plasmodium
+species are possible and efficient through a process called staining (Giemsa).
+The staining process slightly colorizes the red blood cells (RBCs) but highlights
+Plasmodium parasites, white blood cells and artifacts. Giemsa stains nuclei,
+chromatin in blue tone and RBCs in pink color. It has been reported in numerous
+studies that manual microscopy is not a trustworthy screening technique when
+performed by nonexperts. Malaria parasites host in RBCs when it enters the
+bloodstream. This paper presents segmentation of Plasmodium parasite from the
+thin blood smear points on region growing and dynamic convolution based filtering
+algorithm. After segmentation, malaria parasite classified into four Plasmodium
+species: Plasmodium falciparum, Plasmodium ovale, Plasmodium vivax, and
+Plasmodium malaria. The random forest and K-nearest neighbor are used for
+classification base on local binary pattern and hue saturation value features.
+The sensitivity for malaria parasitemia (MP) is 96.75% on training and testing of
+the proposed approach while specificity is 94.59%. Beside these, the comparisons 
+of the two features are added to the proposed work for classification having
+sensitivity is 83.60% while having specificity is 94.90% through random forest
+classifier based on local binary pattern feature.
+
+© 2019 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jemt.23269 
+PMID: 30937990 
+
+
+1. Microsc Res Tech. 2019 Mar;82(3):283-295. doi: 10.1002/jemt.23170. Epub 2018 Dec 
+21.
+
+Plasmodium life cycle stage classification based quantification of malaria
+parasitaemia in thin blood smears.
+
+Abbas N(1), Saba T(2), Rehman A(3), Mehmood Z(4), Kolivand H(5), Uddin M(6),
+Anjum A(7).
+
+Author information: 
+(1)Department of Computer Science, Islamia College Peshawar, Pakistan.
+(2)College of Computer and Information Sciences, Prince Sultan University,
+Riyadh, Saudi Arabia.
+(3)College of Computer and Information Systems, Al Yamamah University, Riyadh,
+Saudi Arabia.
+(4)Department of Software Engineering, University of Engineering and Technology, 
+Taxila, Pakistan.
+(5)Department of Computer Science, Liverpool John Moores University, Liverpool,
+UK.
+(6)Information System Department, College of Engineering, Effat University of
+Jeddah, Jeddah, Saudi Arabia.
+(7)Department of Computer Science, COMSATS University Islamabad, Islamabad,
+Pakistan.
+
+Visual inspection for the quantification of malaria parasitaemiain (MP) and
+classification of life cycle stage are hard and time taking. Even though,
+automated techniques for the quantification of MP and their classification are
+reported in the literature. However, either reported techniques are imperfect or 
+cannot deal with special issues such as anemia and hemoglobinopathies due to
+clumps of red blood cells (RBCs). The focus of the current work is to examine the
+thin blood smear microscopic images stained with Giemsa by digital image
+processing techniques, grading MP on independent factors (RBCs morphology) and
+classification of its life cycle stage. For the classification of the life cycle 
+of malaria parasite the k-nearest neighbor, Naïve Bayes and multi-class support
+vector machine are employed for classification based on histograms of oriented
+gradients and local binary pattern features. The proposed methodology is based on
+inductive technique, segment malaria parasites through the adaptive machine
+learning techniques. The quantification accuracy of RBCs is enhanced; RBCs clumps
+are split by analysis of concavity regions for focal points. Further,
+classification of infected and non-infected RBCs has been made to grade MP
+precisely. The training and testing of the proposed approach on benchmark dataset
+with respect to ground truth data, yield 96.75% MP sensitivity and 94.59%
+specificity. Additionally, the proposed approach addresses the process with
+independent factors (RBCs morphology). Finally, it is an economical solution for 
+MP grading in immense testing.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jemt.23170 
+PMID: 30575213  [Indexed for MEDLINE]
+
+
+1. PLoS One. 2016 Sep 16;11(9):e0163045. doi: 10.1371/journal.pone.0163045.
+eCollection 2016.
+
+Automated Detection of P. falciparum Using Machine Learning Algorithms with
+Quantitative Phase Images of Unstained Cells.
+
+Park HS(1), Rinehart MT(1), Walzer KA(2)(3), Chi JT(2)(3), Wax A(1).
+
+Author information: 
+(1)Department of Biomedical Engineering, Duke University, Durham, North Carolina,
+United States of America.
+(2)Department of Molecular Genetics and Microbiology, Duke University, Durham,
+North Carolina, United States of America.
+(3)Duke Center for Genomic and Computational Biology, Duke University, Durham,
+North Carolina, United States of America.
+
+Malaria detection through microscopic examination of stained blood smears is a
+diagnostic challenge that heavily relies on the expertise of trained
+microscopists. This paper presents an automated analysis method for detection and
+staging of red blood cells infected by the malaria parasite Plasmodium falciparum
+at trophozoite or schizont stage. Unlike previous efforts in this area, this
+study uses quantitative phase images of unstained cells. Erythrocytes are
+automatically segmented using thresholds of optical phase and refocused to enable
+quantitative comparison of phase images. Refocused images are analyzed to extract
+23 morphological descriptors based on the phase information. While all individual
+descriptors are highly statistically different between infected and uninfected
+cells, each descriptor does not enable separation of populations at a level
+satisfactory for clinical utility. To improve the diagnostic capacity, we applied
+various machine learning techniques, including linear discriminant classification
+(LDC), logistic regression (LR), and k-nearest neighbor classification (NNC), to 
+formulate algorithms that combine all of the calculated physical parameters to
+distinguish cells more effectively. Results show that LDC provides the highest
+accuracy of up to 99.7% in detecting schizont stage infected cells compared to
+uninfected RBCs. NNC showed slightly better accuracy (99.5%) than either LDC
+(99.0%) or LR (99.1%) for discriminating late trophozoites from uninfected RBCs. 
+However, for early trophozoites, LDC produced the best accuracy of 98%.
+Discrimination of infection stage was less accurate, producing high specificity
+(99.8%) but only 45.0%-66.8% sensitivity with early trophozoites most often
+mistaken for late trophozoite or schizont stage and late trophozoite and schizont
+stage most often confused for each other. Overall, this methodology points to a
+significant clinical potential of using quantitative phase imaging to detect and 
+stage malaria infection without staining or expert analysis.
+
+DOI: 10.1371/journal.pone.0163045 
+PMCID: PMC5026369
+PMID: 27636719  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+1. Invest Ophthalmol Vis Sci. 2012 Sep 25;53(10):6582-8.
+
+Automated detection of malarial retinopathy-associated retinal hemorrhages.
+
+Joshi VS(1), Maude RJ, Reinhardt JM, Tang L, Garvin MK, Abu Sayeed A, Ghose A,
+Hassan MU, Abràmoff MD.
+
+Author information: 
+(1)Department of Biomedical Engineering, University of Iowa, Iowa City, IA, USA.
+
+PURPOSE: To develop an automated method for the detection of retinal hemorrhages 
+on color fundus images to characterize malarial retinopathy, which may help in
+the assessment of patients with cerebral malaria.
+METHODS: A fundus image dataset from 14 patients (200 fundus images, with an
+average of 14 images per patient) previously diagnosed with malarial retinopathy 
+was examined. We developed a pattern recognition-based algorithm, which extracted
+features from image watershed regions called splats (tobogganing). A reference
+standard was obtained by manual segmentation of hemorrhages, which assigned a
+label to each splat. The splat features with the associated splat label were used
+to train a linear k-nearest neighbor classifier that learnt the color properties 
+of hemorrhages and identified the splats belonging to hemorrhages in a test
+dataset. In a crossover design experiment, data from 12 patients were used for
+training and data from two patients were used for testing, with 14 different
+permutations; and the derived sensitivity and specificity values were averaged.
+RESULTS: The experiment resulted in hemorrhage detection sensitivities in terms
+of splats as 80.83%, and in terms of lesions as 84.84%. The splat-based
+specificity was 96.67%, whereas for the lesion-based analysis, an average of
+three false positives was obtained per image. The area under the receiver
+operating characteristic curve was reported as 0.9148 for splat-based, and as
+0.9030 for lesion-based analysis.
+CONCLUSIONS: The method provides an automated means of detecting retinal
+hemorrhages associated with malarial retinopathy. The results matched well with
+the reference standard. With further development, this technique may provide
+automated assistance for screening and quantification of malarial retinopathy.
+
+DOI: 10.1167/iovs.12-10191 
+PMCID: PMC3460387
+PMID: 22915035  [Indexed for MEDLINE]
+
+
+1. Amino Acids. 2012 Apr;42(4):1443-54. doi: 10.1007/s00726-011-0888-0. Epub 2011
+Mar 29.
+
+Mito-GSAAC: mitochondria prediction using genetic ensemble classifier and split
+amino acid composition.
+
+Afridi TH(1), Khan A, Lee YS.
+
+Author information: 
+(1)Department of Computer and Information Sciences, Pakistan Institute of
+Engineering and Applied Sciences, Nilore, Islamabad, Pakistan.
+
+Mitochondria are all-important organelles of eukaryotic cells since they are
+involved in processes associated with cellular mortality and human diseases.
+Therefore, trustworthy techniques are highly required for the identification of
+new mitochondrial proteins. We propose Mito-GSAAC system for prediction of
+mitochondrial proteins. The aim of this work is to investigate an effective
+feature extraction strategy and to develop an ensemble approach that can better
+exploit the advantages of this feature extraction strategy for mitochondria
+classification. We investigate four kinds of protein representations for
+prediction of mitochondrial proteins: amino acid composition, dipeptide
+composition, pseudo amino acid composition, and split amino acid composition
+(SAAC). Individual classifiers such as support vector machine (SVM), k-nearest
+neighbor, multilayer perceptron, random forest, AdaBoost, and bagging are first
+trained. An ensemble classifier is then built using genetic programming (GP) for 
+evolving a complex but effective decision space from the individual decision
+spaces of the trained classifiers. The highest prediction performance for
+Jackknife test is 92.62% using GP-based ensemble classifier on SAAC features,
+which is the highest accuracy, reported so far on the Mitochondria dataset being 
+used. While on the Malaria Parasite Mitochondria dataset, the highest accuracy is
+obtained by SVM using SAAC and it is further enhanced to 93.21% using GP-based
+ensemble. It is observed that SAAC has better discrimination power for
+mitochondria prediction over the rest of the feature extraction strategies. Thus,
+the improved prediction performance is largely due to the better capability of
+SAAC for discriminating between mitochondria and non-mitochondria proteins at the
+N and C terminus and the effective combination capability of GP. Mito-GSAAC can
+be accessed at http://111.68.99.218/Mito-GSAAC . It is expected that the novel
+approach and the accompanied predictor will have a major impact to Molecular Cell
+Biology, Proteomics, Bioinformatics, System Biology, and Drug Development.
+
+DOI: 10.1007/s00726-011-0888-0 
+PMID: 21445589  [Indexed for MEDLINE]
+
+
+1. Bioinformatics. 2011 May 15;27(10):1413-21. doi: 10.1093/bioinformatics/btr143.
+Epub 2011 Mar 17.
+
+Improving the efficiency of multidimensional scaling in the analysis of
+high-dimensional data using singular value decomposition.
+
+Bécavin C(1), Tchitchek N, Mintsa-Eya C, Lesne A, Benecke A.
+
+Author information: 
+(1)Institut des Hautes Études Scientifiques, Bures sur Yvette, France.
+
+MOTIVATION: Multidimensional scaling (MDS) is a well-known multivariate
+statistical analysis method used for dimensionality reduction and visualization
+of similarities and dissimilarities in multidimensional data. The advantage of
+MDS with respect to singular value decomposition (SVD) based methods such as
+principal component analysis is its superior fidelity in representing the
+distance between different instances specially for high-dimensional geometric
+objects. Here, we investigate the importance of the choice of initial conditions 
+for MDS, and show that SVD is the best choice to initiate MDS. Furthermore, we
+demonstrate that the use of the first principal components of SVD to initiate the
+MDS algorithm is more efficient than an iteration through all the principal
+components. Adding stochasticity to the molecular dynamics simulations typically 
+used for MDS of large datasets, contrary to previous suggestions, likewise does
+not increase accuracy. Finally, we introduce a k nearest neighbor method to
+analyze the local structure of the geometric objects and use it to control the
+quality of the dimensionality reduction.
+RESULTS: We demonstrate here the, to our knowledge, most efficient and accurate
+initialization strategy for MDS algorithms, reducing considerably computational
+load. SVD-based initialization renders MDS methodology much more useful in the
+analysis of high-dimensional data such as functional genomics datasets.
+
+DOI: 10.1093/bioinformatics/btr143 
+PMID: 21421551  [Indexed for MEDLINE]
+
+
+1. Amino Acids. 2010 Mar;38(3):859-67. doi: 10.1007/s00726-009-0292-1. Epub 2009 Apr
+22.
+
+Using K-minimum increment of diversity to predict secretory proteins of malaria
+parasite based on groupings of amino acids.
+
+Zuo YC(1), Li QZ.
+
+Author information: 
+(1)Laboratory of Theoretical Biophysics, School of Physical Science and
+Technology, Inner Mongolia University, 010021 Hohhot, China.
+
+Due to the complexity of Plasmodium falciparumis genome, predicting secretory
+proteins of P. falciparum is more difficult than other species. In this study,
+based on the measure of diversity definition, a new K-nearest neighbor method,
+K-minimum increment of diversity (K-MID), is introduced to predict secretory
+proteins. The prediction performance of the K-MID by using amino acids
+composition as the only input vector achieves 88.89% accuracy with 0.78 Mathew's 
+correlation coefficient (MCC). Further, the several reduced amino acids alphabets
+are applied to predict secretory proteins and the results show that the
+prediction results are improved to 90.67% accuracy with 0.83 MCC by using the 169
+dipeptide compositions of the reduced amino acids alphabets obtained from Protein
+Blocks method.
+
+DOI: 10.1007/s00726-009-0292-1 
+PMID: 19387791  [Indexed for MEDLINE]
+

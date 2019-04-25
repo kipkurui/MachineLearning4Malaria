@@ -1,0 +1,1208 @@
+
+1. Inform Health Soc Care. 2019 Mar 27:1-13. doi: 10.1080/17538157.2019.1582056.
+[Epub ahead of print]
+
+Assessing the relative importance of social determinants of health in malaria and
+anemia classiﬁcation based on machine learning techniques.
+
+Sow B(1), Mukhtar H(2), Ahmad HF(3), Suguri H(1).
+
+Author information: 
+(1)a Graduate School of Project Design , Miyagi University , Sendai City, Miyagi 
+Prefecture , Japan.
+(2)b Department of Computing, School of Electrical Engineering and Computer
+Science , National University of Sciences and Technology (NUST) , Islamabad ,
+Pakistan.
+(3)c Department of Computer Science, College of Computer Sciences and Information
+Technology , King Faisal University , Alahsa , Saudi Arabia.
+
+Disparate types of data including biological and environmental have been used in 
+supervised learning to predict a specific disease outcome. However, social
+determinants of health, which have been explored very little, promise to be
+signiﬁcant predictors of public health problems such as malaria and anemia among 
+children. We considered studying their contribution power in malaria and anemia
+predictions based on Variable Importance in Projection (VIP). This innovative
+method has potential advantages as it analyzes the impact of independent
+variables on disease prediction. In addition, we applied ﬁve machine learning
+algorithms to classify both diseases, using social determinants of health data,
+and compared their results. Of them all, artiﬁcial neural networks gave the best 
+results of 94.74% and 84.17% accuracy for malaria and anemia prediction,
+respectively. These results are consistent and reﬂect the signiﬁcance of
+non-medical factors in disease prediction.
+
+DOI: 10.1080/17538157.2019.1582056 
+PMID: 30917718 
+
+
+1. Malar J. 2018 Sep 25;17(1):339. doi: 10.1186/s12936-018-2493-0.
+
+Automated microscopy for routine malaria diagnosis: a field comparison on
+Giemsa-stained blood films in Peru.
+
+Torres K(1), Bachman CM(2), Delahunt CB(3), Alarcon Baldeon J(1), Alava F(1),
+Gamboa Vilela D(1), Proux S(4), Mehanian C(3), McGuire SK(3), Thompson CM(3),
+Ostbye T(3), Hu L(3), Jaiswal MS(3), Hunt VM(3), Bell D(3).
+
+Author information: 
+(1)Universidad Peruana Cayetano Heredia, Laboratorio de Malaria, Laboratiorios de
+Investigacion y Dessarrollo, Facultad de Ciencias y Filosofia, Av. Honorio
+Delgado 430 SMP, Lima, Peru.
+(2)Intellectual Ventures, 3150 139 AVE SE, Bellevue, WA, 98005, USA.
+christineb@intven.com.
+(3)Intellectual Ventures, 3150 139 AVE SE, Bellevue, WA, 98005, USA.
+(4)Shoklo Malaria Research Unit, Mahidol-Oxford Tropical Medicine Research Unit, 
+Faculty of Tropical Medicine, Mahidol University, Mae Sot, Thailand.
+
+BACKGROUND: Microscopic examination of Giemsa-stained blood films remains a major
+form of diagnosis in malaria case management, and is a reference standard for
+research. However, as with other visualization-based diagnoses, accuracy depends 
+on individual technician performance, making standardization difficult and
+reliability poor. Automated image recognition based on machine-learning,
+utilizing convolutional neural networks, offers potential to overcome these
+drawbacks. A prototype digital microscope device employing an algorithm based on 
+machine-learning, the Autoscope, was assessed for its potential in malaria
+microscopy. Autoscope was tested in the Iquitos region of Peru in 2016 at two
+peripheral health facilities, with routine microscopy and PCR as reference
+standards. The main outcome measures include sensitivity and specificity of
+diagnosis of malaria from Giemsa-stained blood films, using PCR as reference.
+METHODS: A cross-sectional, observational trial was conducted at two peripheral
+primary health facilities in Peru. 700 participants were enrolled with the
+criteria: (1) age between 5 and 75 years, (2) history of fever in the last 3 days
+or elevated temperature on admission, (3) informed consent. The main outcome
+measures included sensitivity and specificity of diagnosis of malaria from
+Giemsa-stained blood films, using PCR as reference.
+RESULTS: At the San Juan clinic, sensitivity of Autoscope for diagnosing malaria 
+was 72% (95% CI 64-80%), and specificity was 85% (95% CI 79-90%). Microscopy
+performance was similar to Autoscope, with sensitivity 68% (95% CI 59-76%) and
+specificity 100% (95% CI 98-100%). At San Juan, 85% of prepared slides had a
+minimum of 600 WBCs imaged, thus meeting Autoscope's design assumptions. At the
+second clinic, Santa Clara, the sensitivity of Autoscope was 52% (95% CI 44-60%) 
+and specificity was 70% (95% CI 64-76%). Microscopy performance at Santa Clara
+was 42% (95% CI 34-51) and specificity was 97% (95% CI 94-99). Only 39% of slides
+from Santa Clara met Autoscope's design assumptions regarding WBCs imaged.
+CONCLUSIONS: Autoscope's diagnostic performance was on par with routine
+microscopy when slides had adequate blood volume to meet its design assumptions, 
+as represented by results from the San Juan clinic. Autoscope's diagnostic
+performance was poorer than routine microscopy on slides from the Santa Clara
+clinic, which generated slides with lower blood volumes. Results of the study
+reflect both the potential for artificial intelligence to perform tasks currently
+conducted by highly-trained experts, and the challenges of replicating the
+adaptiveness of human thought processes.
+
+DOI: 10.1186/s12936-018-2493-0 
+PMCID: PMC6157053
+PMID: 30253764  [Indexed for MEDLINE]
+
+
+1. J Med Imaging (Bellingham). 2018 Jul;5(3):034501. doi: 10.1117/1.JMI.5.3.034501. 
+Epub 2018 Jul 18.
+
+Understanding the learned behavior of customized convolutional neural networks
+toward malaria parasite detection in thin blood smear images.
+
+Rajaraman S(1), Silamut K(2), Hossain MA(3), Ersoy I(4), Maude RJ(2)(5), Jaeger
+S(1), Thoma GR(1), Antani SK(1).
+
+Author information: 
+(1)Lister Hill National Center for Biomedical Communications, National Library of
+Medicine, Bethesda, Maryland, United States.
+(2)Mahidol University, Mahidol Oxford Tropical Medicine Research Unit, Bangkok,
+Thailand.
+(3)Chittagong Medical Hospital, Department of Medicine, Chittagong, Bangladesh.
+(4)University of Missouri, MU Informatics Institute, Department of Pathology and 
+Anatomical Science, Columbia, Missouri, United States.
+(5)University of Oxford, Centre for Tropical Medicine and Global Health, Nuffield
+Department of Medicine, Oxford, United Kingdom.
+
+Convolutional neural networks (CNNs) have become the architecture of choice for
+visual recognition tasks. However, these models are perceived as black boxes
+since there is a lack of understanding of the learned behavior from the
+underlying task of interest. This lack of transparency is a serious drawback,
+particularly in applications involving medical screening and diagnosis since
+poorly understood model behavior could adversely impact subsequent clinical
+decision-making. Recently, researchers have begun working on this issue and
+several methods have been proposed to visualize and understand the behavior of
+these models. We highlight the advantages offered through visualizing and
+understanding the weights, saliencies, class activation maps, and region of
+interest localizations in customized CNNs applied to the challenge of classifying
+parasitized and uninfected cells to aid in malaria screening. We provide an
+explanation for the models' classification decisions. We characterize, evaluate, 
+and statistically validate the performance of different customized CNNs keeping
+every training subject's data separate from the validation set.
+
+DOI: 10.1117/1.JMI.5.3.034501 
+PMCID: PMC6050500 [Available on 2019-07-18]
+PMID: 30035153 
+
+
+1. J Med Syst. 2018 May 2;42(6):110. doi: 10.1007/s10916-018-0962-1.
+
+Development of a Robust Algorithm for Detection of Nuclei and Classification of
+White Blood Cells in Peripheral Blood Smear Images.
+
+Hegde RB(1), Prasad K(2), Hebbar H(1), Singh BMK(3).
+
+Author information: 
+(1)School of Information Sciences, MAHE, Manipal, 576104, India.
+(2)School of Information Sciences, MAHE, Manipal, 576104, India.
+keerthana.prasad@manipal.edu.
+(3)Department of Pathology, Kasturba Medical College, MAHE, Manipal, Karnataka,
+574106, India.
+
+Peripheral Blood Smear analysis plays a vital role in diagnosis of many diseases 
+such as leukemia, anemia, malaria, lymphoma and infections. Unusual variations in
+color, shape and size of blood cells indicate abnormal condition. We used a total
+of 117 images from Leishman stained peripheral blood smears acquired at a
+magnification of 100X. In this paper we present a robust image processing
+algorithm for detection of nuclei and classification of white blood cells based
+on features of the nuclei. We used novel image enhancement method to manage
+illumination variations and TissueQuant method to manage color variations for the
+detection of nuclei. Dice similarity coefficient of 0.95 was obtained for nucleus
+detection. We also compared the proposed method with a state-of-the-art method
+and the proposed method was found to be better. Shape and texture features of the
+detected nuclei were used for classifying white blood cells. We considered
+classification of WBCs using two approaches such as 5-class and cell-by-cell
+approaches using neural network and hybrid-classifier respectively. We compared
+the results of both the approaches for classification of white blood cells.
+Cell-by-cell approach offered 1.4% higher sensitivity in comparison with the
+5-class approach. We obtained an accuracy of 100% for lymphocyte and basophil
+detection. Hence, we conclude that lymphocytes and basophils can be accurately
+detected even when the analysis is limited to the features of nuclei whereas,
+accurate detection of other types of WBCs will require analysis of the cytoplasm 
+too.
+
+DOI: 10.1007/s10916-018-0962-1 
+PMID: 29721616  [Indexed for MEDLINE]
+
+
+1. PeerJ. 2018 Apr 16;6:e4568. doi: 10.7717/peerj.4568. eCollection 2018.
+
+Pre-trained convolutional neural networks as feature extractors toward improved
+malaria parasite detection in thin blood smear images.
+
+Rajaraman S(1), Antani SK(1), Poostchi M(1), Silamut K(2), Hossain MA(3), Maude
+RJ(2)(4)(5), Jaeger S(1), Thoma GR(1).
+
+Author information: 
+(1)Lister Hill National Center for Biomedical Communications, National Library of
+Medicine, Bethesda, MD, United States of America.
+(2)Mahidol-Oxford Tropical Medicine Research Unit, Mahidol University, Bangkok,
+Thailand.
+(3)Department of Medicine, Chittagong Medical Hospital, Chittagong, Bangladesh.
+(4)Centre for Tropical Medicine and Global Health, Nuffield Department of
+Medicine, University of Oxford, Oxford, United Kingdom.
+(5)Harvard TH Chan School of Public Health, Harvard University, Boston, MA,
+United States of America.
+
+Malaria is a blood disease caused by the Plasmodium parasites transmitted through
+the bite of female Anopheles mosquito. Microscopists commonly examine thick and
+thin blood smears to diagnose disease and compute parasitemia. However, their
+accuracy depends on smear quality and expertise in classifying and counting
+parasitized and uninfected cells. Such an examination could be arduous for
+large-scale diagnoses resulting in poor quality. State-of-the-art image-analysis 
+based computer-aided diagnosis (CADx) methods using machine learning (ML)
+techniques, applied to microscopic images of the smears using hand-engineered
+features demand expertise in analyzing morphological, textural, and positional
+variations of the region of interest (ROI). In contrast, Convolutional Neural
+Networks (CNN), a class of deep learning (DL) models promise highly scalable and 
+superior results with end-to-end feature extraction and classification. Automated
+malaria screening using DL techniques could, therefore, serve as an effective
+diagnostic aid. In this study, we evaluate the performance of pre-trained CNN
+based DL models as feature extractors toward classifying parasitized and
+uninfected cells to aid in improved disease screening. We experimentally
+determine the optimal model layers for feature extraction from the underlying
+data. Statistical validation of the results demonstrates the use of pre-trained
+CNNs as a promising tool for feature extraction for this purpose.
+
+DOI: 10.7717/peerj.4568 
+PMCID: PMC5907772
+PMID: 29682411 
+
+Conflict of interest statement: The authors declare there are no competing
+interests.
+
+
+1. ACS Cent Sci. 2018 Jan 24;4(1):120-131. doi: 10.1021/acscentsci.7b00512. Epub
+2017 Dec 28.
+
+Generating Focused Molecule Libraries for Drug Discovery with Recurrent Neural
+Networks.
+
+Segler MHS(1), Kogej T(2), Tyrchan C(3), Waller MP(4).
+
+Author information: 
+(1)Institute of Organic Chemistry & Center for Multiscale Theory and Computation,
+Westfälische Wilhelms-Universität Münster, 48149 Münster, Germany.
+(2)Hit Discovery, Discovery Sciences, AstraZeneca R&D, Gothenburg, Sweden.
+(3)Department of Medicinal Chemistry, IMED RIA, AstraZeneca R&D, Gothenburg,
+Sweden.
+(4)Department of Physics & International Centre for Quantum and Molecular
+Structures, Shanghai University, Shanghai, China.
+
+In de novo drug design, computational strategies are used to generate novel
+molecules with good affinity to the desired biological target. In this work, we
+show that recurrent neural networks can be trained as generative models for
+molecular structures, similar to statistical language models in natural language 
+processing. We demonstrate that the properties of the generated molecules
+correlate very well with the properties of the molecules used to train the model.
+In order to enrich libraries with molecules active toward a given biological
+target, we propose to fine-tune the model with small sets of molecules, which are
+known to be active against that target. Against Staphylococcus aureus, the model 
+reproduced 14% of 6051 hold-out test molecules that medicinal chemists designed, 
+whereas against Plasmodium falciparum (Malaria), it reproduced 28% of 1240 test
+molecules. When coupled with a scoring function, our model can perform the
+complete de novo drug design cycle to generate large sets of novel molecules for 
+drug discovery.
+
+DOI: 10.1021/acscentsci.7b00512 
+PMCID: PMC5785775
+PMID: 29392184 
+
+Conflict of interest statement: The authors declare no competing financial
+interest.
+
+
+1. Artif Intell Med. 2018 Jan;84:127-138. doi: 10.1016/j.artmed.2017.12.002. Epub
+2017 Dec 11.
+
+Spatiotemporal Bayesian networks for malaria prediction.
+
+Haddawy P(1), Hasan AHMI(2), Kasantikul R(2), Lawpoolsri S(3), Sa-Angchai P(3),
+Kaewkungwal J(3), Singhasivanon P(3).
+
+Author information: 
+(1)Faculty of ICT, Mahidol University, 999 Phuttamonthon 4 Rd, Salaya,
+Nakhonpathom 73170 Thailand. Electronic address: peter.had@mahidol.ac.th.
+(2)Faculty of ICT, Mahidol University, 999 Phuttamonthon 4 Rd, Salaya,
+Nakhonpathom 73170 Thailand.
+(3)Faculty of Tropical Medicine, Mahidol University, 420/6 Ratchawithi Rd,
+Bangkok 10400 Thailand.
+
+Targeted intervention and resource allocation are essential for effective malaria
+control, particularly in remote areas, with predictive models providing important
+information for decision making. While a diversity of modeling technique have
+been used to create predictive models of malaria, no work has made use of
+Bayesian networks. Bayes nets are attractive due to their ability to represent
+uncertainty, model time lagged and nonlinear relations, and provide explanations.
+This paper explores the use of Bayesian networks to model malaria, demonstrating 
+the approach by creating village level models with weekly temporal resolution for
+Tha Song Yang district in northern Thailand. The networks are learned using data 
+on cases and environmental covariates. Three types of networks are explored:
+networks for numeric prediction, networks for outbreak prediction, and networks
+that incorporate spatial autocorrelation. Evaluation of the numeric prediction
+network shows that the Bayes net has prediction accuracy in terms of mean
+absolute error of about 1.4 cases for 1 week prediction and 1.7 cases for 6 week 
+prediction. The network for outbreak prediction has an ROC AUC above 0.9 for all 
+prediction horizons. Comparison of prediction accuracy of both Bayes nets against
+several traditional modeling approaches shows the Bayes nets to outperform the
+other models for longer time horizon prediction of high incidence transmission.
+To model spread of malaria over space, we elaborate the models with links between
+the village networks. This results in some very large models which would be far
+too laborious to build by hand. So we represent the models as collections of
+probability logic rules and automatically generate the networks. Evaluation of
+the models shows that the autocorrelation links significantly improve prediction 
+accuracy for some villages in regions of high incidence. We conclude that
+spatiotemporal Bayesian networks are a highly promising modeling alternative for 
+prediction of malaria and other vector-borne diseases.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.artmed.2017.12.002 
+PMID: 29241658  [Indexed for MEDLINE]
+
+
+1. Mol Pharm. 2017 Dec 4;14(12):4462-4475. doi: 10.1021/acs.molpharmaceut.7b00578.
+Epub 2017 Nov 13.
+
+Comparison of Deep Learning With Multiple Machine Learning Methods and Metrics
+Using Diverse Drug Discovery Data Sets.
+
+Korotcov A(1), Tkachenko V(1), Russo DP(2)(3), Ekins S(2).
+
+Author information: 
+(1)Science Data Software, LLC , 14914 Bradwill Court, Rockville, Maryland 20850, 
+United States.
+(2)Collaborations Pharmaceuticals, Inc. , 840 Main Campus Drive, Lab 3510,
+Raleigh, North Carolina 27606, United States.
+(3)The Rutgers Center for Computational and Integrative Biology , Camden, New
+Jersey 08102, United States.
+
+Machine learning methods have been applied to many data sets in pharmaceutical
+research for several decades. The relative ease and availability of fingerprint
+type molecular descriptors paired with Bayesian methods resulted in the
+widespread use of this approach for a diverse array of end points relevant to
+drug discovery. Deep learning is the latest machine learning algorithm attracting
+attention for many of pharmaceutical applications from docking to virtual
+screening. Deep learning is based on an artificial neural network with multiple
+hidden layers and has found considerable traction for many artificial
+intelligence applications. We have previously suggested the need for a comparison
+of different machine learning methods with deep learning across an array of
+varying data sets that is applicable to pharmaceutical research. End points
+relevant to pharmaceutical research include absorption, distribution, metabolism,
+excretion, and toxicity (ADME/Tox) properties, as well as activity against
+pathogens and drug discovery data sets. In this study, we have used data sets for
+solubility, probe-likeness, hERG, KCNQ1, bubonic plague, Chagas, tuberculosis,
+and malaria to compare different machine learning methods using FCFP6
+fingerprints. These data sets represent whole cell screens, individual proteins, 
+physicochemical properties as well as a data set with a complex end point. Our
+aim was to assess whether deep learning offered any improvement in testing when
+assessed using an array of metrics including AUC, F1 score, Cohen's kappa,
+Matthews correlation coefficient and others. Based on ranked normalized scores
+for the metrics or data sets Deep Neural Networks (DNN) ranked higher than SVM,
+which in turn was ranked higher than all the other machine learning methods.
+Visualizing these properties for training and test sets using radar type plots
+indicates when models are inferior or perhaps over trained. These results also
+suggest the need for assessing deep learning further using multiple metrics with 
+much larger scale comparisons, prospective testing as well as assessment of
+different fingerprints and DNN architectures beyond those used.
+
+DOI: 10.1021/acs.molpharmaceut.7b00578 
+PMCID: PMC5741413
+PMID: 29096442  [Indexed for MEDLINE]
+
+
+1. Neural Netw. 2018 Jan;97:1-10. doi: 10.1016/j.neunet.2017.09.002. Epub 2017 Sep
+21.
+
+Quantum associative memory with linear and non-linear algorithms for the
+diagnosis of some tropical diseases.
+
+Tchapet Njafa JP(1), Nana Engo SG(2).
+
+Author information: 
+(1)Laboratory of Photonics, Department of Physics, University of Ngaoundere, PO. 
+BOX 454 Ngaoundere, Cameroon. Electronic address: jptchapet@univ-ndere.cm.
+(2)Laboratory of Photonics, Department of Physics, University of Ngaoundere, PO. 
+BOX 454 Ngaoundere, Cameroon.
+
+This paper presents the QAMDiagnos, a model of Quantum Associative Memory (QAM)
+that can be a helpful tool for medical staff without experience or laboratory
+facilities, for the diagnosis of four tropical diseases (malaria, typhoid fever, 
+yellow fever and dengue) which have several similar signs and symptoms. The
+memory can distinguish a single infection from a polyinfection. Our model is a
+combination of the improved versions of the original linear quantum retrieving
+algorithm proposed by Ventura and the non-linear quantum search algorithm of
+Abrams and Lloyd. From the given simulation results, it appears that the
+efficiency of recognition is good when particular signs and symptoms of a disease
+are inserted given that the linear algorithm is the main algorithm. The
+non-linear algorithm helps confirm or correct the diagnosis or give some advice
+to the medical staff for the treatment. So, our QAMDiagnos that has a friendly
+graphical user interface for desktop and smart-phone is a sensitive and a
+low-cost diagnostic tool that enables rapid and accurate diagnosis of four
+tropical diseases.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neunet.2017.09.002 
+PMID: 29031082  [Indexed for MEDLINE]
+
+
+1. Curr Comput Aided Drug Des. 2016;12(1):52-61.
+
+Artificial Neural Network Analysis of Pharmacokinetic and Toxicity Properties of 
+Lead Molecules for Dengue Fever, Tuberculosis and Malaria.
+
+Nilar SH, Lakshminarayana SB(1), Ma NL, Keller TH, Blasco F, Smith PW.
+
+Author information: 
+(1)Novartis Institute for Tropical Diseases, 10 Biopolis Road, #05-01 Chromos,
+138670, Singapore. suresh.b_lakshminarayana@novartis.com.
+
+Poor pharmacokinetic and toxicity profiles are major reasons for the low rate of 
+advancing lead drug candidates into efficacy studies. The In-silico prediction of
+primary pharmacokinetic and toxicity properties in the drug discovery and
+development process can be used as guidance in the design of candidates.
+In-silico parameters can also be used to choose suitable compounds for in-vivo
+testing thereby reducing the number of animals used in experiments. At the
+Novartis Institute for Tropical Diseases, a data set has been curated from
+in-house measurements in the disease areas of Dengue, Tuberculosis and Malaria.
+Volume of distribution, half-life, total in-vivo clearance, in-vitro human plasma
+protein binding and in-vivo oral bioavailability have been measured for molecules
+in the lead optimization stage in each of these three disease areas. Data for the
+inhibition of the hERG channel using the radio ligand binding dofetilide assay
+was determined for a set of 300 molecules in these therapeutic areas. Based on
+this data, Artificial Neural Networks were used to construct In-silico models for
+each of the properties listed above that can be used to prioritize candidates for
+lead optimization and to assist in selecting promising molecules for in-vivo
+pharmacokinetic studies.
+
+
+PMID: 26777113  [Indexed for MEDLINE]
+
+
+1. Comb Chem High Throughput Screen. 2015;18(8):819-29.
+
+Artificial Neural Network Methods Applied to Drug Discovery for Neglected
+Diseases.
+
+Scotti L(1), Ishiki H, Mendonça Júnior FJ, da Silva MS, Scotti MT.
+
+Author information: 
+(1)Health Sciences Center, Federal University of Paraiba, Campus I, 58051-970,
+João Pessoa, PB, Brazil. luciana.scotti@gmail.com.
+
+Among the chemometric tools used in rational drug design, we find artificial
+neural network methods (ANNs), a statistical learning algorithm similar to the
+human brain, to be quite powerful. Some ANN applications use biological and
+molecular data of the training series that are inserted to ensure the machine
+learning, and to generate robust and predictive models. In drug discovery,
+researchers use this methodology, looking to find new chemotherapeutic agents for
+various diseases. The neglected diseases are a group of tropical parasitic
+diseases that primarily affect poor countries in Africa, Asia, and South America.
+Current drugs against these diseases cause side effects, are ineffective during
+the chronic stages of the disease, and are often not available to the needy
+population, have relative high toxicity, and face developing resistance. Faced
+with so many problems, new chemotherapeutic agents to treat these infections are 
+much needed. The present review reports on neural network research, which studies
+new ligands against Chagas' disease, sleeping sickness, malaria, tuberculosis,
+and leishmaniasis; a few of the neglected diseases.
+
+
+PMID: 26234510  [Indexed for MEDLINE]
+
+
+1. J Clin Microbiol. 2015 Jan;53(1):167-71. doi: 10.1128/JCM.01783-14. Epub 2014 Nov
+5.
+
+Detection of intracellular parasites by use of the CellaVision DM96 analyzer
+during routine screening of peripheral blood smears.
+
+Racsa LD(1), Gander RM(2), Southern PM(2), McElvania TeKippe E(1), Doern C(1),
+Luu HS(3).
+
+Author information: 
+(1)Department of Pathology, Children's Medical Center, Dallas, Texas, USA
+Parkland Health and Hospital System, Dallas, Texas, USA University of Texas
+Southwestern Medical Center, Dallas, Texas, USA.
+(2)Parkland Health and Hospital System, Dallas, Texas, USA University of Texas
+Southwestern Medical Center, Dallas, Texas, USA.
+(3)Department of Pathology, Children's Medical Center, Dallas, Texas, USA
+Parkland Health and Hospital System, Dallas, Texas, USA University of Texas
+Southwestern Medical Center, Dallas, Texas, USA Hung.Luu@childrens.com.
+
+Conventional microscopy is the gold standard for malaria diagnosis. The
+CellaVision DM96 is a digital hematology analyzer that utilizes neural networks
+to locate, digitize, and preclassify leukocytes and characterize red blood cell
+morphology. This study compared the detection rates of Plasmodium and Babesia
+species on peripheral blood smears utilizing the CellaVision DM96 with the rates 
+for a routine red blood cell morphology scan. A total of 281 slides were
+analyzed, consisting of 130 slides positive for Plasmodium or Babesia species and
+151 negative controls. Slides were blinded, randomized, and analyzed by
+CellaVision and microscopy for red cell morphology scans. The technologists were 
+blinded to prior identification results. The parasite detection rate was 73%
+(95/130) for CellaVision and 81% (105/130) for microscopy for positive samples.
+The interobserver agreement between CellaVision and microscopy was fair, as
+Cohen's kappa coefficient equaled 0.36. Pathologist review of CellaVision images 
+identified an additional 15 slides with parasites, bringing the total number of
+detectable positive slides to 110 of 130 (85%). Plasmodium ovale had the lowest
+rate of detection at 56% (5 of 9); Plasmodium malariae and Babesia spp. had the
+highest rate of detection at 100% (3/3 and 6/6, respectively). The detection rate
+by CellaVision was 100% (23/23) when the parasitemia was ≥2.5%. The detection
+rate for <0.1% parasitemia was 63% (15/24). Technologists appropriately
+classified all negative specimens. The percentage of positive specimens
+detectable by CellaVision (73%) approaches results for microscopy on routine scan
+of peripheral blood smears for red blood cell morphology.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JCM.01783-14 
+PMCID: PMC4290916
+PMID: 25378575  [Indexed for MEDLINE]
+
+
+1. Comput Biol Med. 2013 Nov;43(11):1724-31. doi: 10.1016/j.compbiomed.2013.08.020. 
+Epub 2013 Sep 3.
+
+A two-layered classifier based on the radial basis function for the screening of 
+thalassaemia.
+
+Masala GL(1), Golosio B, Cutzu R, Pola R.
+
+Author information: 
+(1)University of Sassari, via Piandanna 4, 07100, Sassari, Italy. Electronic
+address: gilmasala@uniss.it.
+
+The thalassaemias are blood disorders with hereditary transmission. Their
+distribution is global, with particular incidence in areas affected by malaria.
+Their diagnosis is mainly based on haematologic and genetic analyses. The aim of 
+this study was to differentiate between persons with the thalassaemia trait and
+normal subjects by inspecting characteristics of haemochromocytometric data. The 
+paper proposes an original method that is useful in screening activity for
+thalassaemia classification. A complete working system with a friendly graphical 
+user interface is presented. A unique feature of the presented work is the
+adoption of a two-layered classification system based on Radial basis function,
+which improves the performance of the system.
+
+© 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiomed.2013.08.020 
+PMID: 24209918  [Indexed for MEDLINE]
+
+
+1. Conf Proc IEEE Eng Med Biol Soc. 2013;2013:5390-3. doi:
+10.1109/EMBC.2013.6610767.
+
+Application of artificial neural networks on mosquito Olfactory Receptor Neurons 
+for an olfactory biosensor.
+
+Bachtiar LR, Unsworth CP, Newcomb RD.
+
+Various odorants such as carbon dioxide (CO2) and 1-octen-3-ol, underlie the
+host-seeking behaviors of the major malaria vector Anopheles Gambiae. Highlighted
+by the olfactory processing strength of the mosquito, such a powerful olfactory
+sense could serve as the sensors of an artificial olfactory biosensor. In this
+work, we use the firing rates of the A. Gambiae mosquito Olfactory Receptor
+Neurons (ORNs), to train an Artificial Neural Network (ANN) for the
+classification of volatile odorants into their known chemical classes and assess 
+their suitability for an olfactory biosensor. With the implementation of
+bootstrapping, a more representative result was obtained wherein we demonstrate
+the training of a hybrid ANN consisting of an array of Multi-Layer Perceptrons
+(MLPs) with optimal number of hidden neurons. The ANN system was able to
+correctly class 90.1% of the previously unseen odorants, thus demonstrating very 
+strong evidence for the use of A. Gambiae olfactory receptors coupled with an ANN
+as an olfactory biosensor.
+
+DOI: 10.1109/EMBC.2013.6610767 
+PMID: 24110954  [Indexed for MEDLINE]
+
+
+1. Curr Comput Aided Drug Des. 2013 Mar;9(1):95-107.
+
+QSAR modeling for the antimalarial activity of 1,4-naphthoquinonyl derivatives as
+potential antimalarial agents.
+
+Luan F(1), Xu X, Cordeiro MN, Liu H, Zhang X.
+
+Author information: 
+(1)Department of Applied Chemistry, Yantai University, Yantai, P. R. China.
+fluan@sina.com
+
+Malaria has been known as one of the major causes of morbidity and mortality on a
+large scale in tropical countries until now. In the past decades, many scientific
+groups have focused their attention on looking for ideal drugs to this disease.
+So far, this research area is still a hot topic. In the present study, the
+antimalarial activity of 1, 4- naphthoquinonyl derivatives was modeled by linear 
+and nonlinear statistical methods, that is to say, by forward stepwise
+multilinear regression (MLR) and radial basis function neural networks (RBFNN).
+The derived QSAR models have been statistically validated both internally - by
+means of the Leave One Out (LOO) and Leave Many Out (LMO) crossvalidation, and
+Y-scrambling techniques, as well as externally (by means of an external test
+set). The statistical parameters provided by the MLR model were R(2) =0.7876,
+LOOq(2) =0.7068, RMS =0.3377, R0 2 =0.7876, k =1.0000 for the training set,and
+R(2) =0.7648, q(2) ext =0.7597, RMS=0.2556, R0 2=0.7598, k=1.0417 for the
+external test set. The RBFNN model gave the following statistical results,
+namely: R(2)=0.8338, LOOq(2)=0.5869, RMS=0.2781, R0 2 = 0.8335, k=1.0000 for the 
+training set, and R(2) =0.7586, q(2) ext =0.7189, RMS=0.2788, R0 2=0.7129,
+k=1.0284 for the external test set. Overall, these results suggest that the QSAR 
+MLR-based model is a simple, reliable, credible and fast tool for the prediction 
+and virtual screening of 1, 4-naphoquinone derivatives with high antimalarial
+activity. In addition, the energies of the highest occupied molecular orbital
+were found to have high correlation with the activity.
+
+
+PMID: 23157413  [Indexed for MEDLINE]
+
+
+1. Rev Soc Bras Med Trop. 2010 Sep-Oct;43(5):567-70.
+
+[Use of an artificial neural network to predict the incidence of malaria in the
+city of Cantá, state of Roraima].
+
+[Article in Portuguese]
+
+Cunha GB(1), Luitgards-Moura JF, Naves EL, Andrade AO, Pereira AA, Milagre ST.
+
+Author information: 
+(1)Curso de Ciência da Computação, Universidade Federal de Roraima, Boa Vista,
+RR. guilherme.ufrr@gmail.com
+
+INTRODUCTION: Malaria is endemic in the Brazilian Amazon region, with different
+risks for each region. The City of Cantá, State of Roraima, presented one of the 
+largest annual parasite indices in Brazil for the entire study period, with a
+value always greater than 50. The present study aimed to use an artificial neural
+network to predict the incidence of malaria in this city in order to assist
+health coordinators in planning and managing resources.
+METHODS: Data were collected on the website of the Ministry of Health,
+SIVEP--Malaria between 2003 and 2009. An artificial neural network was structured
+with three neurons in the input layer, two intermediate layers and an output
+layer with one neuron. A sigmoid activation function was used. In training, the
+backpropagation method was used, with a learning rate of 0.05 and momentum of
+0.01. The stopping criterion was to reach 20,000 cycles or a target of 0.001. The
+data from 2003 to 2008 were used for training and validation. The results were
+compared with those from a logistic regression model.
+RESULTS: The results for all periods provided showed that the artificial neural
+network had a smaller mean square error and absolute error compared with the
+regression model for the year 2009.
+CONCLUSIONS: The artificial neural network proved to be adequate for a malaria
+forecasting system in the city studied, determining smaller predictive values
+with absolute errors compared to the logistic regression model and the actual
+values.
+
+
+PMID: 21085871  [Indexed for MEDLINE]
+
+
+1. Malar J. 2010 Aug 19;9:236. doi: 10.1186/1475-2875-9-236.
+
+Chaperone expression profiles correlate with distinct physiological states of
+Plasmodium falciparum in malaria patients.
+
+Pallavi R(1), Acharya P, Chandran S, Daily JP, Tatu U.
+
+Author information: 
+(1)Department of Biochemistry, Indian Institute of Science, Bangalore, 560012
+Karnataka, India.
+
+BACKGROUND: Molecular chaperones have been shown to be important in the growth of
+the malaria parasite Plasmodium falciparum and inhibition of chaperone function
+by pharmacological agents has been shown to abrogate parasite growth. A recent
+study has demonstrated that clinical isolates of the parasite have distinct
+physiological states, one of which resembles environmental stress response
+showing up-regulation of specific molecular chaperones.
+METHODS: Chaperone networks operational in the distinct physiological clusters in
+clinical malaria parasites were constructed using cytoscape by utilizing their
+clinical expression profiles.
+RESULTS: Molecular chaperones show distinct profiles in the previously defined
+physiologically distinct states. Further, expression profiles of the chaperones
+from different cellular compartments correlate with specific patient clusters.
+While cluster 1 parasites, representing a starvation response, show up-regulation
+of organellar chaperones, cluster 2 parasites, which resemble active growth based
+on glycolysis, show up-regulation of cytoplasmic chaperones. Interestingly,
+cytoplasmic Hsp90 and its co-chaperones, previously implicated as drug targets in
+malaria, cluster in the same group. Detailed analysis of chaperone expression in 
+the patient cluster 2 reveals up-regulation of the entire Hsp90-dependent
+pro-survival circuitries. In addition, cluster 2 also shows up-regulation of
+Plasmodium export element (PEXEL)-containing Hsp40s thought to have regulatory
+and host remodeling roles in the infected erythrocyte.
+CONCLUSION: In all, this study demonstrates an intimate involvement of
+parasite-encoded chaperones, PfHsp90 in particular, in defining pathogenesis of
+malaria.
+
+DOI: 10.1186/1475-2875-9-236 
+PMCID: PMC2933700
+PMID: 20719001  [Indexed for MEDLINE]
+
+
+1. Malar J. 2010 May 13;9:125. doi: 10.1186/1475-2875-9-125.
+
+Towards malaria risk prediction in Afghanistan using remote sensing.
+
+Adimi F(1), Soebiyanto RP, Safi N, Kiang R.
+
+Author information: 
+(1)Global Change Data Center, NASA Goddard Space Flight Center, Greenbelt,
+Maryland 20771, USA.
+
+BACKGROUND: Malaria is a significant public health concern in Afghanistan.
+Currently, approximately 60% of the population, or nearly 14 million people, live
+in a malaria-endemic area. Afghanistan's diverse landscape and terrain
+contributes to the heterogeneous malaria prevalence across the country.
+Understanding the role of environmental variables on malaria transmission can
+further the effort for malaria control programme.
+METHODS: Provincial malaria epidemiological data (2004-2007) collected by the
+health posts in 23 provinces were used in conjunction with space-borne
+observations from NASA satellites. Specifically, the environmental variables,
+including precipitation, temperature and vegetation index measured by the
+Tropical Rainfall Measuring Mission and the Moderate Resolution Imaging
+Spectoradiometer, were used. Regression techniques were employed to model malaria
+cases as a function of environmental predictors. The resulting model was used for
+predicting malaria risks in Afghanistan. The entire time series except the last 6
+months is used for training, and the last 6-month data is used for prediction and
+validation.
+RESULTS: Vegetation index, in general, is the strongest predictor, reflecting the
+fact that irrigation is the main factor that promotes malaria transmission in
+Afghanistan. Surface temperature is the second strongest predictor. Precipitation
+is not shown as a significant predictor, as it may not directly lead to higher
+larval population. Autoregressiveness of the malaria epidemiological data is
+apparent from the analysis. The malaria time series are modelled well, with
+provincial average R2 of 0.845. Although the R2 for prediction has larger
+variation, the total 6-month cases prediction is only 8.9% higher than the actual
+cases.
+CONCLUSIONS: The provincial monthly malaria cases can be modelled and predicted
+using satellite-measured environmental parameters with reasonable accuracy. The
+Third Strategic Approach of the WHO EMRO Malaria Control and Elimination Plan is 
+aimed to develop a cost-effective surveillance system that includes forecasting, 
+early warning and detection. The predictive and early warning capabilities shown 
+in this paper support this strategy.
+
+DOI: 10.1186/1475-2875-9-125 
+PMCID: PMC2878304
+PMID: 20465824  [Indexed for MEDLINE]
+
+
+1. Malar J. 2010 May 6;9:117. doi: 10.1186/1475-2875-9-117.
+
+Towards a precise test for malaria diagnosis in the Brazilian Amazon: comparison 
+among field microscopy, a rapid diagnostic test, nested PCR, and a computational 
+expert system based on artificial neural networks.
+
+Andrade BB(1), Reis-Filho A, Barros AM, Souza-Neto SM, Nogueira LL, Fukutani KF, 
+Camargo EP, Camargo LM, Barral A, Duarte A, Barral-Netto M.
+
+Author information: 
+(1)Centro de Pesquisas Gonçalo Moniz, OCRUZ, Bahia, Brazil.
+
+BACKGROUND: Accurate malaria diagnosis is mandatory for the treatment and
+management of severe cases. Moreover, individuals with asymptomatic malaria are
+not usually screened by health care facilities, which further complicates disease
+control efforts. The present study compared the performances of a malaria rapid
+diagnosis test (RDT), the thick blood smear method and nested PCR for the
+diagnosis of symptomatic malaria in the Brazilian Amazon. In addition, an
+innovative computational approach was tested for the diagnosis of asymptomatic
+malaria.
+METHODS: The study was divided in two parts. For the first part, passive case
+detection was performed in 311 individuals with malaria-related symptoms from a
+recently urbanized community in the Brazilian Amazon. A cross-sectional
+investigation compared the diagnostic performance of the RDT Optimal-IT, nested
+PCR and light microscopy. The second part of the study involved active case
+detection of asymptomatic malaria in 380 individuals from riverine communities in
+Rondônia, Brazil. The performances of microscopy, nested PCR and an expert
+computational system based on artificial neural networks (MalDANN) using
+epidemiological data were compared.
+RESULTS: Nested PCR was shown to be the gold standard for diagnosis of both
+symptomatic and asymptomatic malaria because it detected the major number of
+cases and presented the maximum specificity. Surprisingly, the RDT was superior
+to microscopy in the diagnosis of cases with low parasitaemia. Nevertheless, RDT 
+could not discriminate the Plasmodium species in 12 cases of mixed infections
+(Plasmodium vivax + Plasmodium falciparum). Moreover, the microscopy presented
+low performance in the detection of asymptomatic cases (61.25% of correct
+diagnoses). The MalDANN system using epidemiological data was worse that the
+light microscopy (56% of correct diagnoses). However, when information regarding 
+plasma levels of interleukin-10 and interferon-gamma were inputted, the MalDANN
+performance sensibly increased (80% correct diagnoses).
+CONCLUSIONS: An RDT for malaria diagnosis may find a promising use in the
+Brazilian Amazon integrating a rational diagnostic approach. Despite the low
+performance of the MalDANN test using solely epidemiological data, an approach
+based on neural networks may be feasible in cases where simpler methods for
+discriminating individuals below and above threshold cytokine levels are
+available.
+
+DOI: 10.1186/1475-2875-9-117 
+PMCID: PMC2883547
+PMID: 20459613  [Indexed for MEDLINE]
+
+
+1. Geospat Health. 2009 May;3(2):177-87.
+
+Present habitat suitability for Anopheles atroparvus (Diptera, Culicidae) and its
+coincidence with former malaria areas in mainland Portugal.
+
+Capinha C(1), Gomes E, Reis E, Rocha J, Sousa CA, do Rosário VE, Almeida AP.
+
+Author information: 
+(1)Centro de Estudos Geográficos, Universidade de Lisboa, Alameda da
+Universidade, 1600-214 Lisboa, Portugal. cesarcapinha@hotmail.com
+
+Malaria was a major health problem in the first half of the 20th Century in
+mainland Portugal. Nowadays, although the disease is no longer endemic, there is 
+still the risk of future endemic infections due to the continuous occurrence of
+imported cases and the possibility of transmission in the country by Anopheles
+atroparvus Van Thiel, 1927. Since vector abundance constitute one of the foremost
+factors in malaria transmission, we have created several habitat suitability
+models to describe this vector species' current distribution. Three different
+correlative models; namely (i) a multilayer perceptron artificial neural network 
+(MLP-ANN); (ii) binary logistic regression (BLR); and (iii) Mahalanobis distance 
+were used to combine the species records with a set of five environmental
+predictors. Kappa coefficient values from k-fold cross-validation records showed 
+that binary logistic regression produced the best predictions, while the other
+two models also produced acceptable results. Therefore, in order to reduce
+uncertainty, the three suitability models were combined. The resulting model
+identified high suitability for An. atroparvus in the majority of the country
+with exception of the northern and central coastal areas. Malaria distribution
+during the last endemic period in the country was also compared with the combined
+suitability model, and a high degree of spatial agreement was obtained (kappa =
+0.62). It was concluded that habitat suitability for malaria vectors can
+constitute valuable information on the assessment of several spatial attributes
+of the disease. In addition, the results suggest that the spatial distribution of
+An. atroparvus in the country remains very similar to the one known about seven
+decades ago.
+
+DOI: 10.4081/gh.2009.219 
+PMID: 19440961  [Indexed for MEDLINE]
+
+
+1. Anal Chem. 2009 Apr 1;81(7):2516-24. doi: 10.1021/ac802291a.
+
+Discriminating the intraerythrocytic lifecycle stages of the malaria parasite
+using synchrotron FT-IR microspectroscopy and an artificial neural network.
+
+Webster GT(1), de Villiers KA, Egan TJ, Deed S, Tilley L, Tobin MJ, Bambery KR,
+McNaughton D, Wood BR.
+
+Author information: 
+(1)Centre for Biospectroscopy and School of Chemistry, Monash University,
+Clayton, Victoria 3800, Australia.
+
+Synchrotron Fourier transform infrared (FT-IR) spectra of fixed single
+erythrocytes infected with Plasmodium falciparum at different stages of the
+intraerythrocytic cycle are presented for the first time. Bands assigned to the
+hemozoin moiety at 1712, 1664, and 1209 cm(-1) are observed in FT-IR difference
+spectra between uninfected erythrocytes and infected trophozoites. These bands
+are also found to be important contributors in separating the trophozoite spectra
+from the uninfected cell spectra in principal components analysis. All stages of 
+the intraerythrocytic lifecycle of the malarial parasite, including the ring and 
+schizont stage, can be differentiated by visual inspection of the C-H stretching 
+region (3100-2800 cm(-1)) and by using principal components analysis. Bands at
+2922, 2852, and 1738 cm(-1) assigned to the nu(asym)(CH(2) acyl chain lipids),
+nu(sym)(CH(2) acyl chain lipids), and the ester carbonyl band, respectively,
+increase as the parasite matures from its early ring stage to the trophozoite and
+finally to the schizont stage. Training of an artificial neural network showed
+that excellent automated spectroscopic discrimination between P.
+falciparum-infected cells and the control cells is possible. FT-IR difference
+spectra indicate a change in the production of unsaturated fatty acids as the
+parasite matures. The ring stage spectrum shows bands associated with cis
+unsaturated fatty acids. The schizont stage spectrum displays no evidence of cis 
+bands and suggests an increase in saturated fatty acids. These results
+demonstrate that different phases of the P. falciparum intraerthyrocytic life
+cycle are characterized by different lipid compositions giving rise to distinct
+spectral profiles in the C-H stretching region. This insight paves the way for an
+automated infrared-based technology capable of diagnosing malaria at all
+intraerythrocytic stages of the parasite's life cycle.
+
+DOI: 10.1021/ac802291a 
+PMID: 19278236  [Indexed for MEDLINE]
+
+
+1. Geospat Health. 2006 Nov;1(1):71-84.
+
+Meteorological, environmental remote sensing and neural network analysis of the
+epidemiology of malaria transmission in Thailand.
+
+Kiang R(1), Adimi F, Soika V, Nigro J, Singhasivanon P, Sirichaisinthop J,
+Leemingsawat S, Apiwathnasorn C, Looareesuwan S.
+
+Author information: 
+(1)NASA Goddard Space Flight Center, Greenbelt, Maryland 20771, USA.
+richard.kiang@nasa.gov
+
+In many malarious regions malaria transmission roughly coincides with rainy
+seasons, which provide for more abundant larval habitats. In addition to
+precipitation, other meteorological and environmental factors may also influence 
+malaria transmission. These factors can be remotely sensed using earth observing 
+environmental satellites and estimated with seasonal climate forecasts. The use
+of remote sensing usage as an early warning tool for malaria epidemics have been 
+broadly studied in recent years, especially for Africa, where the majority of the
+world's malaria occurs. Although the Greater Mekong Subregion (GMS), which
+includes Thailand and the surrounding countries, is an epicenter of multidrug
+resistant falciparum malaria, the meteorological and environmental factors
+affecting malaria transmissions in the GMS have not been examined in detail. In
+this study, the parasitological data used consisted of the monthly malaria
+epidemiology data at the provincial level compiled by the Thai Ministry of Public
+Health. Precipitation, temperature, relative humidity, and vegetation index
+obtained from both climate time series and satellite measurements were used as
+independent variables to model malaria. We used neural network methods, an
+artificial-intelligence technique, to model the dependency of malaria
+transmission on these variables. The average training accuracy of the neural
+network analysis for three provinces (Kanchanaburi, Mae Hong Son, and Tak) which 
+are among the provinces most endemic for malaria, is 72.8% and the average
+testing accuracy is 62.9% based on the 1994-1999 data. A more complex neural
+network architecture resulted in higher training accuracy but also lower testing 
+accuracy. Taking into account of the uncertainty regarding reported malaria
+cases, we divided the malaria cases into bands (classes) to compute training
+accuracy. Using the same neural network architecture on the 19 most endemic
+provinces for years 1994 to 2000, the mean training accuracy weighted by
+provincial malaria cases was 73%. Prediction of malaria cases for 2001 using
+neural networks trained for 1994-2000 gave a weighted accuracy of 53%. Because
+there was a significant decrease (31%) in the number of malaria cases in the 19
+provinces from 2000 to 2001, the networks overestimated malaria transmissions.
+The decrease in transmission was not due to climatic or environmental changes.
+Thailand is a country with long borders. Migrant populations from the neighboring
+countries enlarge the human malaria reservoir because these populations have more
+limited access to health care. This issue also confounds the complexity of
+modeling malaria based on meteorological and environmental variables alone. In
+spite of the relatively low resolution of the data and the impact of migrant
+populations, we have uncovered a reasonably clear dependency of malaria on
+meteorological and environmental remote sensing variables. When other contextual 
+determinants do not vary significantly, using neural network analysis along with 
+remote sensing variables to predict malaria endemicity should be feasible.
+
+DOI: 10.4081/gh.2006.282 
+PMID: 18686233  [Indexed for MEDLINE]
+
+
+1. Indian J Exp Biol. 2007 Jan;45(1):111-20.
+
+Microrheologic dysfunctions in blood during malaria.
+
+Jayavanth S(1), Park BC.
+
+Author information: 
+(1)Division of Mechanical and Aerospace System Engineering, Chonbuk National
+University, Jeonju 561-756, South Korea. sjayavanth@gmail.com
+
+Among the Plasmodium variants that cause human malaria, vivax malaria is
+considered to be non-malignant. Recent research has indicated that severe vivax
+infection can turnout to be as pathological as falciparum. This review evidences 
+microrheologic pathology in vivax malaria, similar to that as seen in malignant
+falciparum. The parasite invasion, internalization and growth in the RBC lead to 
+membrane rigidification and progressive loss of deformability, rosetting and
+cytoadherence, enhanced aggregation, clumpy, non-deforming, sticky aggregates and
+chronic sedimentation profiles. A model that reflects the net effect of these
+changes is of clinical value to establish disease severity in specific malaria.
+In this respect an artificial neural network (ANN) model, implemented in malaria 
+severity analysis, is discussed. Results of this model suggest that a good degree
+of severity classification (60 to 100%) can be achieved even with small sample
+size (malaria samples n = 12, normal = 10). With larger sample size, ANN may be
+very apt as microrheological model for severity analysis.
+
+
+PMID: 17249335  [Indexed for MEDLINE]
+
+
+1. Med Biol Eng Comput. 2006 May;44(5):427-36. Epub 2006 Apr 8.
+
+Automated image processing method for the diagnosis and classification of malaria
+on thin blood smears.
+
+Ross NE(1), Pritchard CJ, Rubin DM, Dusé AG.
+
+Author information: 
+(1)Department of Engineering, Cambridge University, Trumpington Street, Cambridge
+CB2 1PZ, UK. ner25@cam.ac.uk
+
+Malaria is a serious global health problem, and rapid, accurate diagnosis is
+required to control the disease. An image processing algorithm to automate the
+diagnosis of malaria on thin blood smears is developed. The image classification 
+system is designed to positively identify malaria parasites present in thin blood
+smears, and differentiate the species of malaria. Images are acquired using a
+charge-coupled device camera connected to a light microscope. Morphological and
+novel threshold selection techniques are used to identify erythrocytes (red blood
+cells) and possible parasites present on microscopic slides. Image features based
+on colour, texture and the geometry of the cells and parasites are generated, as 
+well as features that make use of a priori knowledge of the classification
+problem and mimic features used by human technicians. A two-stage tree classifier
+using backpropogation feedforward neural networks distinguishes between true and 
+false positives, and then diagnoses the species (Plasmodium falciparum, P. vivax,
+P. ovale or P. malariae) of the infection. Malaria samples obtained from the
+Department of Clinical Microbiology and Infectious Diseases at the University of 
+the Witwatersrand Medical School are used for training and testing of the system.
+Infected erythrocytes are positively identified with a sensitivity of 85% and a
+positive predictive value (PPV) of 81%, which makes the method highly sensitive
+at diagnosing a complete sample provided many views are analysed. Species were
+correctly determined for 11 out of 15 samples.
+
+DOI: 10.1007/s11517-006-0044-2 
+PMID: 16937184  [Indexed for MEDLINE]
+
+
+1. Stud Health Technol Inform. 2004;107(Pt 1):74-8.
+
+Modeling and analyzing biomedical processes using workflow/Petri Net models and
+tools.
+
+Peleg M(1), Tu S, Manindroo A, Altman RB.
+
+Author information: 
+(1)Department of Management Information Services, University of Haifa, Haifa,
+Israel.
+
+Computer simulation enables system developers to execute a model of an actual or 
+theoretical system on a computer and analyze the execution output. We have been
+exploring the use of Petri Net (PN) tools to study the behavior of systems that
+are represented using three kinds of biomedical models: a biological workflow
+model used to represent biological processes, and two different
+computer-interpretable models of health care processes that are derived from
+clinical guidelines. We developed and implemented software that maps the three
+models into a single underlying process model (workflow), which is then converted
+into PNs in formats that are readable by several PN simulation and analysis
+tools. These analysis tools enabled us to simulate and study the behavior of two 
+biomedical systems: a Malaria parasite invading a host cell, and patients
+undergoing management of chronic cough.
+
+
+PMID: 15360778  [Indexed for MEDLINE]
+
+
+1. Clin Hemorheol Microcirc. 2003;29(3-4):457-68.
+
+Artificial neural network analysis of malaria severity through aggregation and
+deformability parameters of erythrocytes.
+
+Jayavanth S(1), Singh M.
+
+Author information: 
+(1)Biomedical Engineering Division Indian Institute of Technology, Madras 600
+036, India.
+
+The erythrocyte aggregation and deformability of blood samples obtained from
+normal subjects and malaria patients are determined by microscopic imaging and
+laser aggregometry techniques, and optical hemorheometer, respectively. By these 
+techniques several parameters are determined but four parameters, aggregate
+sedimentation velocity (ASV), effective number of cells (ENC), process completion
+time (PCT) and mean filtration time (MFT), show significant variation in malaria 
+patients compared to that of healthy subjects. For malaria severity analysis
+artificial neural network (ANN), based on feedforward-error back-propagation
+algorithm in a supervisory training mode is proposed. This network is first
+trained for different number of epochs ranging from 20 to 50 by set of patterns
+and at 30 epochs training session the minimum mean square error (MSE) between
+desired and actual output is obtained. By applying the same procedure the test
+patterns belonging to normal, non-severe, severe, and highly severe malaria (NSM,
+SM and HSM) are identified. The results show that malaria with high severity is
+classified accurately (100%). The success of classification for non-severe and
+mildly-severe malaria ranges from 60% to 80%.
+
+
+PMID: 14724374  [Indexed for MEDLINE]
+
+
+1. Mol Biochem Parasitol. 2003 Dec;132(2):59-66.
+
+Properties and prediction of mitochondrial transit peptides from Plasmodium
+falciparum.
+
+Bender A(1), van Dooren GG, Ralph SA, McFadden GI, Schneider G.
+
+Author information: 
+(1)Johann Wolfgang Goethe-Universität Frankfurt, Institut für Organische Chemie
+und Chemische Biologie, Marie-Curie-Strasse 11, D-60439, Frankfurt, Germany.
+
+A neural network approach for the prediction of mitochondrial transit peptides
+(mTPs) from the malaria-causing parasite Plasmodium falciparum is presented.
+Nuclear-encoded mitochondrial protein precursors of P. falciparum were analyzed
+by statistical methods, principal component analysis and supervised neural
+networks, and were compared to those of other eukaryotes. A distinct amino acid
+usage pattern has been found in protein encoding regions of P. falciparum:
+glycine, alanine, tryptophan and arginine are under-represented, whereas
+isoleucine, tyrosine, asparagine and lysine are over-represented compared to the 
+SwissProt average. Similar patterns were observed in mTPs of P. falciparum. Using
+principal component analysis (PCA), mTPs from P. falciparum were shown to differ 
+considerably from those of other organisms. A neural network system (PlasMit) for
+prediction of mTPs in P. falciparum sequences was developed, based on the
+relative amino acid frequency in the first 24 N-terminal amino acids, yielding a 
+Matthews correlation coefficient of 0.74 (90% correct prediction) in a 20-fold
+cross-validation study. This system predicted 1177 (22%) mitochondrial genes,
+based on 5334 annotated genes in the P. falciparum genome. A second network with 
+the same topology was trained to give more conservative estimate. This more
+stringent network yielded a Matthews correlation coefficient of 0.51 (84% correct
+prediction) in a 10-fold cross-validation study. It predicted 381 (7.1%)
+mitochondrial genes, based on 5334 annotated genes in the P. falciparum genome.
+
+
+PMID: 14599665  [Indexed for MEDLINE]
+
+
+1. Zhonghua Liu Xing Bing Xue Za Zhi. 2003 Sep;24(9):831-4.
+
+[Study on meteorological factors-based neural network model of malaria].
+
+[Article in Chinese]
+
+Gao CY(1), Xiong HY, Yi D, Chai GJ, Yang XW, Liu L.
+
+Author information: 
+(1)Airforce Center for Diseases Control, Sanitation and Anti-epidemic Team,
+Logistics Department, Airforce, Beijing 100076, China.
+
+OBJECTIVE: In order to provide reliable data for strategies development on
+prevention, a meteorological factors-based predicating model for malaria forecast
+was studied.
+METHODS: Data on malaria occurrence and climate changes from 1994 to 1999 in
+counties in Yunnan province was collected and analyzed with software packages of 
+FoxPro 6.0 and Excel 5.0. The forecasting model for malaria occurrence was
+established, using the Neural Network Toolbox of Matlab 6.1 software package. In 
+the studies of forecasting model, data of malaria and meteorological factors from
+1994 to 1999 in Honghe state in Yunnan province was chosen. The meteorological
+factors included average monthly pressure, air temperature, relative humidity,
+monthly maximum air temperature, minimum air temperature, rainfall, rainday,
+evaporation and sunshine hours in the study. The established forecasting model
+was also tested and verified.
+RESULTS: The BP network model was established according to data of diseases and
+meteorological factors from Honghe state in Yunnan province. After training the
+neural network for 100 times, the error of performance decreased from 3.23608 to 
+0.035862. Verified by fact data of malaria, the efficiency of malaria forecasting
+was 84.85%.
+CONCLUSION: Neural network model was effective for forecasting malaria. It showed
+advantages as: strong ability for analysis, lower claim for data, convenient and 
+easy to apply etc. Neural network model might be used as a new method for malaria
+forecasting.
+
+
+PMID: 14521780  [Indexed for MEDLINE]
+
+
+1. Science. 2003 Jan 31;299(5607):705-8.
+
+Dissecting apicoplast targeting in the malaria parasite Plasmodium falciparum.
+
+Foth BJ(1), Ralph SA, Tonkin CJ, Struck NS, Fraunholz M, Roos DS, Cowman AF,
+McFadden GI.
+
+Author information: 
+(1)Plant Cell Biology Research Centre, School of Botany, University of Melbourne,
+Parkville, VIC 3010, Australia.
+
+Transit peptides mediate protein targeting into plastids and are only poorly
+understood. We extracted amino acid features from transit peptides that target
+proteins to the relict plastid (apicoplast) of malaria parasites. Based on these 
+amino acid characteristics, we identified 466 putative apicoplast proteins in the
+Plasmodium falciparum genome. Altering the specific charge characteristics in a
+model transit peptide by site-directed mutagenesis severely disrupted organellar 
+targeting in vivo. Similarly, putative Hsp70 (DnaK) binding sites present in the 
+transit peptide proved to be important for correct targeting.
+
+DOI: 10.1126/science.1078599 
+PMID: 12560551  [Indexed for MEDLINE]
+
+
+1. Gene. 2001 Dec 12;280(1-2):19-26.
+
+Deciphering apicoplast targeting signals--feature extraction from nuclear-encoded
+precursors of Plasmodium falciparum apicoplast proteins.
+
+Zuegge J(1), Ralph S, Schmuker M, McFadden GI, Schneider G.
+
+Author information: 
+(1)F. Hoffmann-La Roche Ltd., Pharmaceuticals Division, CH-4070 Basel,
+Switzerland.
+
+The malaria causing protozoan Plasmodium falciparum contains a vestigal,
+non-photosynthetic plastid, the apicoplast. Numerous proteins encoded by nuclear 
+genes are targeted to the apicoplast courtesy of N-terminal extensions. With the 
+impending sequence completion of an entire genome of the malaria parasite, it is 
+important to have software tools in place for prediction of subcellular locations
+for all proteins. Apicoplast targeting signals are bipartite; containing a signal
+peptide and a transit peptide. Nuclear-encoded apicoplast protein precursors were
+analyzed for characteristic features by statistical methods, principal component 
+analysis, self-organizing maps, and supervised neural networks. The transit
+peptide contains a net positive charge and is rich in asparagine, lysine, and
+isoleucine residues. A novel prediction system (PATS, predict apicoplast-targeted
+sequences) was developed based on various sequence features, yielding a Matthews 
+correlation coefficient of 0.91 (97% correct predictions) in a 40-fold
+cross-validation study. This system predicted 22% apicoplast proteins of the 205 
+potential proteins on P. falciparum chromosome 2, and 21% of 243 chromosome 3
+proteins. A combination of the PATS results with a signal peptide prediction
+yields 15% potentially nuclear-encoded apicoplast proteins on chromosomes 2 and
+3. The prediction tool will advance P. falciparum genome analysis, and it might
+help to identify apicoplast proteins as drug targets for the development of novel
+anti-malaria agents.
+
+
+PMID: 11738814  [Indexed for MEDLINE]
+
+
+1. J Mol Graph Model. 2001;19(5):405-11, 467.
+
+Efficient discovery of immune response targets by cyclical refinement of QSAR
+models of peptide binding.
+
+Brusic V(1), Bucci K, Schönbach C, Petrovsky N, Zeleznikow J, Kazura JW.
+
+Author information: 
+(1)BIC-KRDL, Kent Ridge Digital Labs, 21 Heng Mui Keng Terrace, Singapore 119613.
+vladimir@krdl.org.sg
+
+Peptides that induce and recall T-cell responses are called T-cell epitopes.
+T-cell epitopes may be useful in a subunit vaccine against malaria. Computer
+models that simulate peptide binding to MHC are useful for selecting candidate
+T-cell epitopes since they minimize the number of experiments required for their 
+identification. We applied a combination of computational and immunological
+strategies to select candidate T-cell epitopes. A total of 86 experimental
+binding assays were performed in three rounds of identification of HLA-A11
+binding peptides from the six preerythrocytic malaria antigens. Thirty-six
+peptides were experimentally confirmed as binders. We show that the cyclical
+refinement of the ANN models results in a significant improvement of the
+efficiency of identifying potential T-cell epitopes.
+
+
+PMID: 11552688  [Indexed for MEDLINE]
+
