@@ -1,4 +1,0 @@
-Id	PubDate	FullJournalName	date	year	month
-30253764	2018 Sep 25	Malaria journal	2018-09-25	2018	9
-30035153	2018 Jul	Journal of medical imaging (Bellingham, Wash.)	2018-07-01	2018	7
-29682411	2018	PeerJ	2018-01-01	2018	1
