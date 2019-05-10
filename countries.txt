@@ -1,0 +1,73 @@
+Country	Continent	PMIC
+Australia	Australia	30963873
+Japan	Asia	30917719
+United_Kingdom	Europe	30840747
+India	Asia	30706824
+United_States	North America	30637186
+United_States	North America	30621145
+Pakistan	Asia	30575214
+United_States	North America	30504894
+Burkina_Faso	Africa	30376867
+United_Kingdom	Europe	30333749
+Peru	South America	30253765
+United_States	North America	30240430
+Australia	Australia	30212466
+United_Kingdom	Europe	30120592
+Ghana	Africa	30005685
+Poland	Europe	29985404
+Burkina_Faso	Africa	29954425
+Switzerland	Europe	29760096
+France	Europe	29749714
+Bangladesh	Asia	29682412
+United_States	North America	29642893
+Australia	Australia	29588453
+Austria	Australia	28928949
+Switzerland	Europe	29407989
+Thailand	Asia	29360431
+Ecuador	South America	29336159
+India	Asia	29297621
+Botswana	Africa	29277259
+Georgia	Asia	29221546
+Australia	Australia	29107643
+Jersey	Europe	29096443
+India	Asia	29075940
+United_Kingdom	Europe	29065114
+Cameroon	Africa	29031083
+Israel	Asia	28879176
+Georgia	Asia	28542224
+United_States	North America	28319832
+India	Asia	28260518
+Switzerland	Europe	28257199
+India	Asia	27974543
+Mozambique	Africa	27837009
+United_States	North America	27636720
+India	Asia	27490967
+Belgium	Europe	27367661
+India	Asia	27185932
+India	Asia	27095536
+United_States	North America	26994407
+United_States	North America	26813984
+Canada	North America	26834995
+China	Asia	26310493
+Brazil	South America	26234511
+United_States	North America	25920669
+India	Asia	25869319
+Mexico	North America	25861376
+Australia	Australia	25810442
+India	Asia	25694076
+South_Africa	Africa	25573119
+Australia	Australia	25023129
+India	Asia	24604166
+United_States	North America	24095683
+Niger	Africa	23568464
+India	Asia	23419173
+India	Asia	23218915
+Canada	North America	23180506
+United_States	North America	22369209
+United_States	North America	22114665
+France	Europe	21931646
+Israel	Asia	21258062
+United_States	North America	20880889
+India	Asia	19908124
+United_States	North America	19057852
+India	Asia	18416839
