@@ -1,0 +1,1021 @@
+Switzerland	30999915
+Missing	30994089
+Australia	30979370
+Georgia	30973949
+Mali	30969162
+Niger	30954073
+France	30951905
+Australia	30947730
+Mozambique	30940127
+Belgium	30931155
+Ghana	30891071
+Belgium	30880921
+Ghana	30871551
+Cameroon	30867636
+Burundi	30866924
+Kenya	30860013
+Zambia	30845998
+Kenya	30843638
+China	30802426
+France	30795764
+Australia	30793683
+Canada	30789314
+Missing	30786905
+Guinea	30786891
+France	30786883
+Burkina Faso	30777070
+Canada	30736456
+Ghana	30726218
+India	30682097
+India	30658602
+Germany	30642347
+Switzerland	30629580
+Ethiopia	30602987
+Ethiopia	30598821
+China	30587238
+Congo	30579868
+Niger	30574247
+Denmark	30562390
+Rwanda	30558586
+Switzerland	30541456
+Niger	30522524
+Ethiopia	30538862
+United States	30534413
+Malawi	30526747
+South Africa	30518399
+Switzerland	30518365
+United States	30459359
+Congo	30457091
+Saudi Arabia	30455961
+United Kingdom	30430342
+Uganda	30424775
+Malawi	30419002
+Botswana	30390654
+Ethiopia	30390652
+Ethiopia	30382868
+Japan	30367615
+Canada	30356290
+Missing	30350769
+China	30350499
+India	30347183
+Ghana	30344800
+Niger	30344128
+Missing	30340640
+Uganda	30326909
+Malaysia	30314438
+China	30307559
+France	30305107
+Sierra Leone	30265330
+Cameroon	30249261
+Brazil	30239631
+Australia	30231938
+Uganda	30222732
+Niger	30212496
+Switzerland	30192770
+Niger	30153834
+Indonesia	30143047
+Ethiopia	30097037
+Belgium	30076361
+Niger	30071875
+Cameroon	30064433
+Niger	30050600
+Ethiopia	30050360
+Ethiopia	29988695
+China	29973194
+Belgium	29954356
+Kenya	29943722
+Congo	29942414
+Germany	29940968
+Australia	29929529
+Niger	29914488
+Guinea	29898719
+Niger	29887894
+South Africa	29885612
+Uganda	29884160
+Switzerland	29879939
+Switzerland	29866113
+France	29859089
+Australia	29783973
+Mexico	29776368
+Spain	29776367
+India	29736274
+Denmark	29720163
+Niger	29720136
+United Kingdom	29692310
+Malawi	29678150
+Ethiopia	29642899
+Uganda	29623255
+Sweden	29618382
+Japan	29617393
+Colombia	29615693
+Ghana	29608248
+Malawi	29566695
+Niger	29556162
+Belgium	29554901
+Brazil	29551393
+China	29508599
+Malawi	29506570
+Malaysia	29456374
+Ethiopia	29450195
+Australia	29436349
+France	29402293
+Rwanda	29402245
+Kenya	29389541
+Ethiopia	29372060
+Missing	29363457
+France	29357869
+Zambia	29351795
+Namibia	29330677
+Missing	29310609
+Uganda	29304803
+Canada	29287179
+Ethiopia	29276622
+Niger	29258448
+Kenya	29241618
+Benin	29234551
+Ethiopia	29217951
+India	29211830
+Ghana	29202097
+Germany	29164092
+Malawi	29163934
+Ethiopia	29162062
+Canada	29157243
+Cameroon	29155825
+Japan	29151802
+Australia	29138004
+India	29137944
+Myanmar	29132373
+Angola	29115966
+Switzerland	29108003
+Bangladesh	29085254
+Belgium	29077052
+Ethiopia	29075500
+China	29059184
+Peru	29037202
+Brazil	29033373
+Georgia	29020386
+Missing	29017588
+Uganda	29016322
+Belgium	29016317
+Benin	28991911
+Georgia	28990920
+Ethiopia	28985734
+Canada	28985421
+Ethiopia	28969636
+Malawi	28969632
+South Africa	28968846
+Cameroon	28962616
+United States	28914186
+Kenya	28903758
+Canada	28903727
+Brazil	28902263
+Spain	28893263
+Missing	28877733
+Ethiopia	28870241
+Georgia	28850631
+Belgium	28829731
+Namibia	28820883
+Haiti	28818627
+Ghana	28797296
+Kenya	28787328
+Belgium	28778210
+United States	28764717
+Australia	28758162
+Sudan	28753649
+Germany	28727775
+Ethiopia	28716009
+Côte d'Ivoire	28705498
+Benin	28671987
+Ethiopia	28668084
+Australia	28637467
+Australia	28633672
+Canada	28615262
+Canada	28615260
+United States	28610579
+United States	28571583
+Norway	28558701
+Ecuador	28552183
+China	28526083
+Sweden	28510633
+Georgia	28500813
+Burkina Faso	28454537
+Australia	28449641
+Ethiopia	28446847
+Niger	28439418
+United Kingdom	28431115
+Uganda	28427415
+Kenya	28427357
+Portugal	28426116
+India	28416929
+Missing	28406952
+Malawi	28399179
+Ethiopia	28390423
+Malawi	28388914
+Georgia	28369268
+Cameroon	28347311
+Australia	28329019
+Cameroon	28302147
+Cameroon	28302093
+Togo	28301539
+Mozambique	28274257
+Australia	28241813
+Canada	28239760
+United Kingdom	28222094
+Canada	28220714
+Namibia	28187770
+Brazil	28173862
+Cambodia	28143417
+South Africa	28126001
+Malawi	28114942
+Spain	28103889
+Australia	28095801
+Switzerland	28068989
+United States	28049481
+Ghana	28049471
+Germany	28049466
+Missing	28011610
+Austria	28003151
+France	27980789
+Congo	27965185
+South Africa	27965145
+Kenya	27942016
+Brazil	27941968
+Switzerland	27941110
+Haiti	27894851
+Sweden	27882866
+Denmark	27881136
+Italy	27858887
+Missing	27857610
+Canada	27852705
+Brazil	27852258
+Denmark	27799650
+Australia	27561363
+Belgium	27756395
+Japan	27756391
+Pakistan	27746826
+Ethiopia	27681544
+Ghana	27642435
+Belgium	27638946
+United States	27636719
+Kenya	27622496
+Switzerland	27604807
+Niger	27604777
+United Kingdom	27603309
+Canada	27600604
+Niger	27578303
+Switzerland	27548286
+Australia	27543078
+Spain	27542940
+Kenya	27515696
+China	27502491
+Belgium	27495904
+Ethiopia	27495044
+Angola	27491865
+Germany	27474932
+China	27448599
+Sweden	27448394
+Ethiopia	27445510
+Brazil	27435973
+Myanmar	27430560
+China	27430322
+Switzerland	27417676
+United States	27411062
+Rwanda	27406091
+Australia	27385484
+Germany	27378367
+Congo	27358838
+United Kingdom	27352303
+Ethiopia	27342570
+United Kingdom	27336164
+South Africa	27314369
+Australia	27306221
+Afghanistan	27304051
+Missing	27303570
+Japan	27283211
+Georgia	27273644
+Brazil	27255376
+Niger	27217909
+Costa Rica	27169470
+Kenya	27154310
+Kenya	27147109
+Canada	27146298
+Canada	27145034
+United States	27145248
+Ethiopia	27142303
+Ethiopia	27137913
+Netherlands	27121196
+Zimbabwe	27114294
+Zimbabwe	27114289
+China	27109419
+Kenya	27098976
+Italy	27098596
+Denmark	27091046
+Kenya	27079380
+United Kingdom	27072128
+Mozambique	27068575
+Australia	27056132
+Jamaica	27036722
+China	27029360
+Ethiopia	27004580
+Niger	27004578
+Netherlands	27001145
+Uganda	26996396
+Canada	26963914
+Anguilla	26958008
+United Kingdom	26956373
+India	26949296
+South Africa	26947310
+Cambodia	26931488
+Missing	26874788
+Switzerland	26871882
+United States	26845546
+Ethiopia	26830027
+Kenya	26799167
+Missing	29546143
+Ethiopia	26739654
+Canada	26738805
+Georgia	26731524
+Netherlands	26702815
+Kenya	26696416
+Switzerland	26696263
+Mexico	26693816
+Kenya	26686045
+Ethiopia	26671012
+Cameroon	26626275
+Italy	26626013
+United States	26619943
+Missing	26618305
+Ethiopia	26613716
+Germany	26608029
+Belgium	26599634
+Malawi	26577571
+Thailand	26559606
+United States	26537373
+Kenya	26507650
+Brazil	26500831
+Kenya	26476849
+Indonesia	26459307
+China	26448013
+Canada	26446166
+Netherlands	26445341
+Kenya	26444670
+Australia	26430747
+India	26429418
+Rwanda	26425794
+Zambia	26423819
+Saudi Arabia	26418655
+Germany	26418004
+Zambia	26416106
+Sweden	26415959
+Canada	26409483
+Kenya	26407275
+Kenya	26405498
+Ghana	26391129
+Switzerland	26383545
+Switzerland	26377199
+Zambia	26376980
+Belgium	26356311
+Australia	26343146
+United Kingdom	26343145
+Missing	26338385
+Egypt	26334824
+Canada	26313752
+Zambia	26311240
+United States	26278589
+Kenya	26275151
+Malawi	26272067
+Ethiopia	26269708
+United Kingdom	26248362
+Zambia	26246383
+Uganda	26218274
+Uganda	26207181
+Sri Lanka	26187622
+Malawi	26186686
+Missing	26186547
+Benin	26178656
+Mozambique	26178574
+Gabon	26173958
+Kenya	26171962
+26155670
+South Africa	26152223
+India	26139773
+Uganda	26124786
+26101076
+Ethiopia	26063399
+Kenya	26063324
+Georgia	26062097
+Missing	26054511
+Missing	26049737
+Denmark	26045328
+Sweden	26042370
+Ethiopia	26040464
+China	26038691
+Uganda	25992620
+Switzerland	25990715
+Gambia	25985404
+China	25976412
+Central African Republic	25966028
+United Kingdom	25965586
+France	25963402
+China	25962514
+Sweden	25957881
+Niger	25949972
+Uganda	25935720
+France	25935236
+Ghana	25934315
+Zambia	25930101
+Uganda	25928880
+United States	25926989
+25916414
+Belgium	25903826
+Cameroon	25893500
+Kenya	25890202
+United States	25889767
+Burkina Faso	25889306
+France	25889049
+Ghana	25888254
+Belgium	25880664
+Switzerland	25880096
+Ghana	25841025
+United Kingdom	25837978
+25802434
+Australia	25764173
+Belgium	25723502
+Missing	25716380
+Austria	25674040
+China	25673799
+Missing	25672353
+India	25645738
+Netherlands	25604040
+Panama	25603818
+Thailand	25567111
+Japan	25557741
+India	25531373
+Uganda	25529292
+India	25523795
+United States	25515850
+Missing	25489193
+Uganda	25470777
+United States	25431086
+Senegal	25418476
+Ghana	25414840
+United States	25413231
+25408152
+United States	25373784
+25358894
+United States	25350546
+Cameroon	25339637
+Belgium	25338083
+Japan	25324687
+Niger	25320590
+Kenya	25318705
+Uganda	25306431
+Uganda	25304187
+Spain	25276574
+Missing	25246718
+Zambia	25245164
+Ethiopia	25233893
+India	25233836
+Australia	25190579
+Missing	25182432
+India	25177640
+Ethiopia	25170029
+Brazil	25166263
+Niger	25164538
+Australia	25149186
+Uganda	25133548
+Greece	25129447
+Niger	25126864
+India	25107355
+Benin	25106643
+Burkina Faso	25076108
+Canada	25075623
+Gambia	25072616
+Switzerland	25061936
+United States	25036291
+Central African Republic	25009996
+United Kingdom	25008574
+Georgia	25002302
+Spain	24991915
+Ethiopia	24926687
+United States	24903736
+Norway	24885180
+Bangladesh	24858193
+Ghana	24778895
+Missing	24761799
+24748325
+United Kingdom	24748201
+Switzerland	24737881
+United Kingdom	24732258
+Ghana	24728349
+Austria	24721998
+Benin	24713375
+Cyprus	24679068
+Kenya	24674301
+Switzerland	24666562
+United Kingdom	24651078
+Ghana	24644526
+Thailand	24641533
+United Kingdom	24632676
+United Kingdom	24595186
+Ethiopia	24591802
+Belgium	24587264
+Switzerland	24568206
+United States	24555713
+United Kingdom	24535679
+Madagascar	24520325
+Missing	24517452
+Niger	24490102
+Denmark	24489732
+Ethiopia	24479770
+Burkina Faso	24463333
+Missing	24423279
+Cameroon	24420781
+Brazil	24373342
+Ethiopia	27355032
+26867270
+26862629
+United Kingdom	24343886
+Missing	24325267
+Missing	24279303
+Sudan	24245949
+Sweden	24244581
+United Kingdom	24237749
+Brazil	24237621
+Anguilla	24235927
+Missing	24225406
+France	24225377
+Georgia	24215465
+United States	24206777
+Denmark	24200236
+Missing	24198882
+Ghana	24167457
+China	24166044
+India	24133327
+Missing	24053679
+Peru	24053144
+Kenya	24041795
+Switzerland	24035311
+Ghana	24030274
+Ghana	24030115
+Ethiopia	24016301
+China	24007753
+Ghana	24007344
+Niger	24001135
+Ethiopia	23999346
+Ethiopia	23977253
+United States	23977099
+Bangladesh	23936345
+Ethiopia	23914971
+Brazil	23906614
+United States	23872929
+United States	23870515
+United States	23855893
+United Kingdom	23840729
+United States	23836566
+Missing	23829311
+France	23809071
+United Kingdom	23798997
+Canada	23766660
+Missing	23741481
+Uganda	23705591
+Australia	23656210
+United Kingdom	23651490
+United States	23645841
+United States	23634654
+Kenya	23614351
+Netherlands	23577673
+United States	23574987
+Ethiopia	23566168
+France	23555035
+United States	23545128
+Kenya	23521898
+Niger	23503560
+United Kingdom	23497139
+Thailand	23431812
+United States	23425576
+Ghana	23375964
+23358640
+France	23351608
+Portugal	23347097
+Denmark	23326508
+Japan	23324389
+Kenya	23297732
+United Kingdom	23279225
+Denmark	27335851
+Canada	26591670
+United States	23270614
+Thailand	23270377
+Australia	23269660
+China	23237576
+Ghana	23219288
+France	23190709
+Georgia	23167586
+Missing	23137196
+Cameroon	23133712
+United Kingdom	23117621
+Germany	23110615
+Switzerland	23107021
+Canada	23073891
+Missing	23057857
+Denmark	23049979
+Kenya	23045477
+United States	23043671
+France	23043538
+Senegal	23029433
+Ghana	23029094
+China	23012954
+United States	22995852
+United States	22943788
+Kenya	22937071
+Uganda	22927489
+Kenya	22914561
+Canada	22909232
+Switzerland	22908877
+Georgia	22802736
+Portugal	22760138
+Thailand	22752514
+Portugal	22748122
+Norway	22734580
+Kenya	22726955
+France	22706291
+India	22692434
+Germany	22689390
+United States	22666414
+China	22590865
+United States	22585235
+United States	22579125
+Congo	22576181
+Kenya	22574948
+Côte d'Ivoire	22571469
+Mexico	22570109
+Belgium	22546009
+Missing	22545573
+Netherlands	22506087
+Missing	22490146
+China	22444032
+Australia	22412067
+Germany	22406279
+China	22379817
+China	22379815
+Canada	22343839
+China	22330320
+Uganda	22323100
+United States	22319629
+France	22314533
+Niger	22312572
+Niger	22309768
+Guinea	22302856
+Thailand	22299397
+United States	22297189
+United States	22236395
+Ethiopia	22225997
+Thailand	22169409
+India	22166073
+Missing	22147304
+Denmark	22144430
+Ethiopia	22141751
+India	22120856
+Spain	22118531
+United States	22100446
+Missing	22087321
+United Kingdom	22078175
+Canada	22054069
+Kenya	22039892
+United States	22022481
+Denmark	21989409
+Kenya	21969001
+Switzerland	26592051
+France	21943224
+Niger	21943107
+Georgia	21921220
+Missing	21920034
+Japan	21915678
+United States	21909249
+Colombia	21881764
+Rwanda	21889859
+India	21889618
+Ethiopia	21883727
+Brazil	21857927
+Senegal	21856232
+United Kingdom	21849081
+France	21831319
+Kenya	21819616
+Kenya	21818580
+Malaysia	21801497
+United States	21801395
+United States	21749228
+Niger	21719933
+Missing	21715730
+Missing	21703016
+Ethiopia	21699741
+Niger	21696622
+Kenya	21682875
+United States	21652576
+United States	21630256
+Brazil	21625634
+Malaysia	21619624
+Bangladesh	21533048
+United Kingdom	21507217
+Kenya	21505300
+United States	21496331
+Kenya	21482551
+France	21453493
+Missing	25566608
+Kenya	21375768
+Missing	21320243
+Mali	21304923
+Canada	21257247
+United States	21208928
+Norway	24409645
+Kenya	21179571
+Japan	21176242
+United States	21155833
+Switzerland	21144184
+Kenya	21106789
+United Kingdom	21092176
+Missing	21085871
+United States	21085711
+Netherlands	21072229
+Ethiopia	21070644
+United States	21067615
+United States	21050496
+United States	21036841
+France	20955565
+Australia	20889880
+Kenya	24409638
+Myanmar	20832366
+France	20821179
+United States	20799995
+United Kingdom	20796288
+Kenya	20691120
+Georgia	20657782
+Israel	20636598
+Missing	20602778
+United States	20596779
+Bangladesh	20537127
+Australia	20525209
+United States	20520797
+United States	20519334
+Netherlands	20497587
+Malawi	20487506
+Ghana	20456550
+Cameroon	20433718
+India	20428736
+United States	20408849
+Missing	20334682
+United Kingdom	20205713
+United Kingdom	20181896
+Zimbabwe	20175980
+Brazil	20133990
+France	20128921
+Thailand	20105074
+United Kingdom	20065053
+India	20017909
+Canada	20003529
+Germany	20003189
+United Kingdom	19961563
+United States	19930654
+United States	19917712
+Gabon	19911989
+Denmark	19909523
+Kenya	19884328
+Kenya	19845968
+Spain	19814788
+South Africa	19732924
+United States	19724043
+Canada	19689091
+Rwanda	19664286
+United States	19591577
+Missing	19582979
+China	19565846
+Uganda	19564904
+Cameroon	19539589
+India	19527528
+Sudan	19500425
+France	19497103
+Spain	19463171
+Switzerland	19440962
+Portugal	19440961
+Missing	19418670
+United States	19389038
+Mozambique	19383126
+Brazil	19370159
+United States	19356246
+India	19284533
+Brazil	19270298
+United States	19216781
+United States	19190215
+France	19177169
+Ghana	19123926
+Gabon	19086817
+Kenya	19064524
+Kenya	18972133
+Ethiopia	18958607
+Ethiopia	18937746
+Brazil	18840755
+United Kingdom	18828901
+Sudan	18718621
+United States	18702267
+Mali	18686246
+Missing	18680959
+France	18667929
+Ghana	18631316
+France	18611279
+United Kingdom	18560562
+Missing	18478773
+Kenya	18466201
+Kenya	18304267
+Spain	18302771
+France	18302749
+United Kingdom	18263734
+United States	18256427
+Missing	18234102
+Sweden	18215251
+Uganda	18184669
+France	18174865
+United States	18068171
+United States	18043317
+United States	18029495
+United Kingdom	18000823
+Sweden	17988171
+Kenya	17950960
+United States	17915520
+India	17896621
+South Africa	17892584
+United States	17690391
+Portugal	17665841
+Malawi	17651488
+Sweden	17620000
+Denmark	17597460
+Mexico	17589774
+Kenya	17559638
+France	17553228
+United States	17550620
+Kenya	17531102
+Norway	17519011
+Kenya	17445255
+Malawi	17425775
+Brazil	17343728
+United States	17300188
+Australia	17297026
+Sweden	17280666
+Colombia	17175998
+United Kingdom	17125496
+Kenya	17076908
+Niger	17071423
+United States	17033960
+Sri Lanka	16967817
+United States	16903878
+South Africa	16901337
+United States	16867194
+Sweden	16862473
+Ghana	16827703
+France	16797467
+United States	16772004
+Niger	16749361
+United Kingdom	16723143
+United States	16716232
+Germany	16704783
+Missing	16629703
+United States	16572713
+Kenya	16525094
+Spain	16460558
+Niger	16448735
+Kenya	16436216
+United Kingdom	16423307
+Ghana	16388497
+Central African Republic	16313935
+Kenya	16277654
+United States	16271153
+United States	16259531
+Netherlands	16256049
+Sri Lanka	16161702
+United States	16120698
+Australia	16088837
+United States	16025548
+Thailand	15916077
+Kenya	15871128
+Germany	15838789
+Cameroon	15829131
+Missing	15784869
+Denmark	15776381
+Germany	15772316
+United Kingdom	15694504
+France	15688298
+Switzerland	15649333
+Thailand	15642956
+Missing	15541178
+France	15535621
+Guinea	15303813
+Missing	15282030
+Thailand	15272744
+United States	15259472
+France	15256523
+United Kingdom	15228485
+Georgia	15166534
+France	15158191
+United Kingdom	15138076
+United Kingdom	15125805
+Missing	15064158
+Burkina Faso	14996361
+Thailand	14971691
+Missing	14582287
+United Kingdom	12917269
+Thailand	12830403
+Missing	12736989
+United States	12714553
+Denmark	12625129
+United States	12606182
+Kenya	12552440
+Missing	12471337
+France	12406193
+Kenya	12389946
+Madagascar	12389936
+Kenya	12296972
+Ghana	12199444
+Japan	12195390
+United Kingdom	12144293
+France	12139225
+United States	12125874
+France	12088575
+France	11989534
+Georgia	11986269
+United States	11976993
+Malawi	27528917
+Ghana	11921565
+United States	11807721
+Uganda	11791991
+Netherlands	11752881
+France	11716129
+Germany	11716126
+United Kingdom	11583443
+Portugal	11484805
+Georgia	11468099
+India	11467140
+United States	11393823
+Guinea	11280051
+Mozambique	11245348
+France	11230823
+Portugal	11219163
+Kenya	11169275
+Germany	11127243
+Finland	11101024
+Malawi	11037774
+Guinea	10934555
+South Africa	10817136
+Canada	10813470
+Zambia	10810019
+Zambia	10810020
+France	10678934
+United Kingdom	10661651
+Saudi Arabia	10515845
+Spain	10497986
+Senegal	10466970
+Thailand	10403336
+France	10401193
+Gambia	9880280
+Gambia	9861403
+United Kingdom	9861370
+United Kingdom	9692151
+Germany	9623940
+United Kingdom	9598948
+United Kingdom	9536339
+France	9323709
+Niger	10176379
+Germany	9294542
+Germany	9294541
+Missing	9255203
+Gambia	9242312
+Kenya	9337012
+Missing	9355715
+Switzerland	9815460
+United Kingdom	9015495
+Germany	8910654
+Missing	8764419
+Canada	8758142
+Senegal	8686780
+Italy	8762402
+Georgia	8551881
+Denmark	9060051
+Missing	8706229
+Georgia	8702038
+Thailand	8594690
+Missing	8600555
+United Kingdom	8527547
+Guinea	7487224
+United Kingdom	7758543
+Kenya	7723795
+Guinea	7831089
+Missing	7855468
+Italy	7979637
+Guinea	7992331
+Sudan	7915678
+Germany	8140213
+France	8359966
+Canada	8313494
+Missing	1844089
+Missing	2098467
+China	2161639
+United States	28312354
+Thailand	3669124

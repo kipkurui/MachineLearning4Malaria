@@ -1,0 +1,31 @@
+Japan	30917718
+Peru	30253764
+Bangladesh	30035153
+India	29721616
+Bangladesh	29682411
+China	29392184
+Thailand	29241658
+Jersey	29096442
+Cameroon	29031082
+Singapore	26777113
+Brazil	26234510
+United States	25378575
+Italy	24209918
+24110954
+China	23157413
+Missing	21085871
+India	20719001
+United States	20465824
+Brazil	20459613
+Portugal	19440961
+Australia	19278236
+United States	18686233
+Missing	17249335
+United Kingdom	16937184
+Israel	15360778
+India	14724374
+Germany	14599665
+China	14521780
+Australia	12560551
+Switzerland	11738814
+Singapore	11552688

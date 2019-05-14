@@ -1,0 +1,219 @@
+Niger	30937082
+Japan	30901727
+Canada	30865052
+South Africa	30859792
+United States	30850239
+Uganda	30804461
+France	30781529
+Nepal	30775354
+Denmark	30767358
+India	30659538
+United States	30630763
+Australia	30611278
+Niger	30522524
+Switzerland	30282959
+Côte d'Ivoire	30234178
+France	30206336
+United Kingdom	30120591
+Uganda	30114201
+Canada	29992330
+Austria	29956431
+Canada	29606018
+Brazil	29540186
+France	29522089
+Cameroon	29505584
+Netherlands	29482559
+Belgium	29439870
+Canada	29370261
+Zambia	29165226
+Kenya	29149315
+Australia	29028827
+Italy	28985689
+Senegal	28981665
+Ghana	28968911
+Germany	28851533
+Australia	28841864
+Brazil	28813452
+Belgium	28801554
+Gambia	28770094
+Australia	28768839
+Belgium	28744443
+China	28679420
+Switzerland	28612053
+Finland	28543426
+Burkina Faso	28446198
+Ghana	28399920
+Brazil	28274886
+Mexico	28049475
+Germany	28049466
+India	28035111
+Kenya	27941597
+Australia	27930652
+Missing	27884199
+India	27834328
+South Africa	27829489
+Belgium	27809852
+Spain	27580403
+Switzerland	27538889
+Japan	27445125
+China	27430217
+South Africa	27314369
+Lao People's Democratic Republic	27118212
+United States	27086170
+Missing	27036728
+Jamaica	27036722
+Benin	27001144
+26870787
+Germany	26867774
+Switzerland	26729363
+Cameroon	26612502
+Bangladesh	26494775
+France	26471813
+Brazil	26419523
+Canada	26414943
+Missing	26330866
+United Kingdom	26315661
+Sudan	26295004
+United States	26114867
+Uganda	26075005
+Cameroon	25962781
+Australia	25948111
+Sudan	25943348
+Portugal	25889960
+Germany	25881267
+Brazil	25636874
+India	25595688
+Brazil	25543687
+Uganda	25529292
+Belgium	25498847
+Austria	25476467
+France	25450214
+Kenya	25385855
+United Kingdom	25372043
+China	25343249
+Brazil	25244636
+Kenya	25224247
+Switzerland	25166952
+Ghana	25138388
+Australia	25123055
+Denmark	24993593
+Italy	24889386
+Spain	24848768
+Australia	24693973
+Kenya	24633915
+Canada	24598692
+Missing	24581350
+Switzerland	24366463
+Malawi	24363547
+United Kingdom	24348235
+United States	24330329
+Brazil	24322291
+United States	24188069
+Belgium	24044424
+India	24010931
+United States	24009663
+Finland	23894428
+United Kingdom	23790353
+United States	23575873
+Sweden	23506555
+Cameroon	23497273
+China	23484254
+United States	23459230
+Japan	23454224
+Denmark	23326508
+Greece	23142310
+France	23088844
+Canada	23073891
+Switzerland	22823945
+India	22670592
+United Kingdom	22589226
+Australia	22513123
+United States	22433445
+Kenya	22316236
+Georgia	22089380
+India	21931871
+Kenya	21859849
+Brazil	21857927
+United States	21818270
+United States	21749228
+Switzerland	21702903
+Australia	21445333
+Ethiopia	21366906
+Switzerland	21332989
+Norway	20929684
+Turkey	20888613
+Sweden	20811640
+United States	20696056
+Missing	20492446
+United States	20169157
+Bahrain	20036751
+Niger	19852850
+Missing	19656635
+United States	19497754
+United States	19402076
+India	19266093
+United Kingdom	19243243
+United States	19190215
+India	19153766
+Colombia	19141853
+Belgium	19131887
+Mozambique	18950486
+Belgium	18801158
+United States	18449828
+India	18329140
+United Kingdom	18291005
+Kenya	18240512
+Sweden	18215251
+Germany	18205915
+United States	18159256
+United States	18029495
+Colombia	17931486
+France	17883461
+United States	17697088
+United Kingdom	17519019
+Denmark	17395223
+France	17341298
+South Africa	17192596
+Denmark	17187653
+United States	17137513
+France	16890498
+Austria	16700906
+Denmark	16630383
+Zimbabwe	16603144
+Colombia	16454594
+Yemen	16379191
+United States	16120698
+Denmark	15776381
+Missing	15698783
+Malawi	15652606
+South Africa	15598257
+South Africa	15598256
+United States	14667243
+Thailand	14511557
+Denmark	12792358
+United States	12791057
+Missing	12567719
+Denmark	12468618
+France	12406193
+Ireland	12055820
+United States	11722965
+Denmark	11382661
+Denmark	11382660
+United Kingdom	10897355
+Missing	10733729
+Australia	10463675
+Denmark	9861377
+Missing	9625909
+Australia	9491824
+United States	9149666
+United Kingdom	9032413
+China	9031418
+Austria	8576287
+Missing	7793289
+Missing	7696687
+Missing	7943544
+Thailand	1520760
+Brazil	1844982
+Missing	1984482
+3303480
+6198795

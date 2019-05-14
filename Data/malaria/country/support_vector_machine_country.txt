@@ -1,0 +1,21 @@
+Pakistan	30575213
+Belgium	29998591
+Missing	29676064
+Jersey	29096442
+Cameroon	28962616
+Mozambique	27837008
+China	26911561
+China	26484844
+Spain	26469764
+United States	26084541
+Mexico	25861375
+Missing	25543686
+Finland	25144549
+Australia	24878724
+China	23653283
+India	23218914
+Belgium	21962353
+India	21843142
+Pakistan	21445589
+India	19908123
+India	17879344
