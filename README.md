@@ -3,7 +3,7 @@
 
 ### Background
 
-This repo contains data analysis to support our medium article on the Diffusion of data science technologies to malaria research. We find that it takes too long for data science tools to diffuse to the diseases of the poor. 
+This repo contains data analysis to support our medium article on the Diffusion of data science technologies to malaria research. We find that it takes too long for data science tools to diffuse to the diseases of the poor. Read our [medium article](https://medium.com/@siwomolbio/machinelearning4malaria-e171ca85e7f5) to found out more. 
 
 ### Structure
 - **Data_fetching_and_Analysis.ipynb** is the main data analysis notebook
