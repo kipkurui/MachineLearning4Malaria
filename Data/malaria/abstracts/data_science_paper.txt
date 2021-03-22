@@ -1,0 +1,1684 @@
+
+1. PLoS Negl Trop Dis. 2021 Feb 18;15(2):e0009138. doi:
+10.1371/journal.pntd.0009138. eCollection 2021 Feb.
+
+Malaria and helminth co-infections in children living in endemic countries: A
+systematic review with meta-analysis.
+
+Afolabi MO(1), Ale BM(2), Dabira ED(3), Agbla SC(4), Bustinduy AL(5), Ndiaye
+JLA(6)(7), Greenwood B(1).
+
+Author information: 
+(1)Department of Disease Control, London School of Hygiene & Tropical Medicine,
+London, United Kingdom.
+(2)Holo Healthcare Limited, Nairobi, Kenya.
+(3)Disease Control and Elimination Theme, Medical Research Council Unit The
+Gambia at London School of Hygiene & Tropical Medicine, Fajara, The Gambia.
+(4)Department of Health Data Science, University of Liverpool, Liverpool, United 
+Kingdom.
+(5)Department of Clinical Research, London School of Hygiene & Tropical Medicine,
+London, United Kingdom.
+(6)Department of Parasitology, University of Thies, Thies, Senegal.
+(7)Département de Parasitologie-Mycologie, Université Cheikh Anta Diop, Dakar,
+Senegal.
+
+BACKGROUND: Current knowledge on the burden of, and interactions between malaria 
+and helminth co-infections, as well as the impact of the dual infections on
+anaemia, remains inconclusive. We have conducted a systematic review with
+meta-analysis to update current knowledge as a first step towards developing and 
+deploying coordinated approaches to the control and, ultimately, elimination of
+malaria-helminth co-infections among children living in endemic countries.
+METHODOLOGY/PRINCIPAL FINDINGS: We searched Medline, Embase, Global Health and
+Web of Science from each database inception until 16 March 2020, for
+peer-reviewed articles reporting malaria-helminth co-infections in children
+living in endemic countries. No language restriction was applied. Following
+removal of duplicates, two reviewers independently screened the studies for
+eligibility. We used the summary odds ratio (OR) and 95% confidence intervals
+(CI) as a measure of association (random-effects model). We also performed
+Chi-square heterogeneity test based on Cochrane's Q and evaluated the severity of
+heterogeneity using I2 statistics. The included studies were examined for
+publication bias using a funnel plot and statistical significance was assessed
+using Egger's test (bias if p<0.1). Fifty-five of the 3,507 citations screened
+were eligible, 28 of which had sufficient data for meta-analysis. The 28 studies 
+enrolled 22, 114 children in 13 countries across sub-Saharan Africa, Southeast
+Asia and South America. Overall, the pooled estimates showed a prevalence of
+Plasmodium-helminth co-infections of 17.7% (95% CI 12.7-23.2%). Summary estimates
+from 14 studies showed a lower odds of P. falciparum infection in children
+co-infected with Schistosoma spp (OR: 0.65; 95%CI: 0.37-1.16). Similar lower odds
+of P. falciparum infection were observed from the summary estimates of 24 studies
+in children co-infected with soil transmitted helminths (STH) (OR: 0.42; 95%CI:
+0.28-0.64). When adjusted for age, gender, socio-economic status, nutritional
+status and geographic location of the children, the risk of P. falciparum
+infection in children co-infected with STH was higher compared with children who 
+did not have STH infection (OR = 1.3; 95% CI 1.03-1.65). A subset of 16 studies
+showed that the odds of anaemia were higher in children co-infected with
+Plasmodium and STH than in children with Plasmodium infection alone (OR = 1.20;
+95% CI: 0.59-2.45), and were almost equal in children co-infected with
+Plasmodium-Schistosoma spp or Plasmodium infection alone (OR = 0.97, 95% CI:
+0.30-3.14).
+CONCLUSIONS/SIGNIFICANCE: The current review suggests that prevalence of
+malaria-helminth co-infection is high in children living in endemic countries.
+The nature of the interactions between malaria and helminth infection and the
+impact of the co-infection on anaemia remain inconclusive and may be modulated by
+the immune responses of the affected children.
+
+DOI: 10.1371/journal.pntd.0009138 
+PMCID: PMC7924789
+PMID: 33600494 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+1. Ecol Lett. 2021 Apr;24(4):829-846. doi: 10.1111/ele.13675. Epub 2021 Jan 27.
+
+The influence of vector-borne disease on human history: socio-ecological
+mechanisms.
+
+Athni TS(1), Shocket MS(1)(2), Couper LI(1), Nova N(1), Caldwell IR(3), Caldwell 
+JM(1)(4), Childress JN(5), Childs ML(6), De Leo GA(7)(8), Kirk DG(1)(9),
+MacDonald AJ(10)(11), Olivarius K(12), Pickel DG(13), Roberts SO(14), Winokur
+OC(15), Young HS(5), Cheng J(1), Grant EA(1), Kurzner PM(1), Kyaw S(1), Lin
+BJ(1), Lopez RC(1), Massihpour DS(1), Olsen EC(1), Roache M(1), Ruiz A(1),
+Schultz EA(1), Shafat M(1), Spencer RL(1), Bharti N(16), Mordecai EA(1).
+
+Author information: 
+(1)Department of Biology, Stanford University, Stanford, CA, USA.
+(2)Department of Ecology and Evolutionary Biology, University of California, Los 
+Angeles, CA, USA.
+(3)ARC Centre of Excellence for Coral Reef Studies, James Cook University,
+Townsville, Queensland, Australia.
+(4)Department of Biology, University of Hawaii at Manoa, Honolulu, HI, USA.
+(5)Department of Ecology, Evolution, and Marine Biology, University of California
+Santa Barbara, Santa Barbara, CA, USA.
+(6)Emmett Interdisciplinary Program in Environment and Resources, Stanford
+University, Stanford, CA, USA.
+(7)Hopkins Marine Station, Stanford University, Pacific Grove, CA, USA.
+(8)Woods Institute for the Environment, Stanford University, Stanford, CA, USA.
+(9)Department of Zoology, University of British Columbia, Vancouver, BC, Canada.
+(10)Bren School of Environmental Science and Management, University of
+California, Santa Barbara, CA, USA.
+(11)Earth Research Institute, University of California, Santa Barbara, CA, USA.
+(12)Department of History, Stanford University, Stanford, CA, USA.
+(13)Department of Classics, Stanford University, Stanford, CA, USA.
+(14)Department of Psychology, Stanford University, Stanford, CA, USA.
+(15)Department of Pathology, Microbiology, and Immunology, School of Veterinary
+Medicine, University of California, Davis, CA, USA.
+(16)Department of Biology, Center for Infectious Disease Dynamics, Penn State
+University, University Park, PA, USA.
+
+Vector-borne diseases (VBDs) are embedded within complex socio-ecological
+systems. While research has traditionally focused on the direct effects of VBDs
+on human morbidity and mortality, it is increasingly clear that their impacts are
+much more pervasive. VBDs are dynamically linked to feedbacks between
+environmental conditions, vector ecology, disease burden, and societal responses 
+that drive transmission. As a result, VBDs have had profound influence on human
+history. Mechanisms include: (1) killing or debilitating large numbers of people,
+with demographic and population-level impacts; (2) differentially affecting
+populations based on prior history of disease exposure, immunity, and resistance;
+(3) being weaponised to promote or justify hierarchies of power, colonialism,
+racism, classism and sexism; (4) catalysing changes in ideas, institutions,
+infrastructure, technologies and social practices in efforts to control disease
+outbreaks; and (5) changing human relationships with the land and environment. We
+use historical and archaeological evidence interpreted through an ecological lens
+to illustrate how VBDs have shaped society and culture, focusing on case studies 
+from four pertinent VBDs: plague, malaria, yellow fever and trypanosomiasis. By
+comparing across diseases, time periods and geographies, we highlight the
+enormous scope and variety of mechanisms by which VBDs have influenced human
+history.
+
+© 2021 John Wiley & Sons Ltd.
+
+DOI: 10.1111/ele.13675 
+PMCID: PMC7969392 [Available on 2021-04-01]
+PMID: 33501751  [Indexed for MEDLINE]
+
+
+1. Int J Infect Dis. 2021 Feb;103:194-200. doi: 10.1016/j.ijid.2020.11.177. Epub
+2020 Nov 26.
+
+Significant symptoms and nonsymptom-related factors for malaria diagnosis in
+endemic regions of Indonesia.
+
+Bria YP(1), Yeh CH(2), Bedingfield S(3).
+
+Author information: 
+(1)Department of Data Science and Artificial Intelligence, Faculty of Information
+Technology, Monash University, Clayton, Victoria 3800, Australia. Electronic
+address: yulianti.bria@monash.edu.
+(2)Department of Data Science and Artificial Intelligence, Faculty of Information
+Technology, Monash University, Clayton, Victoria 3800, Australia. Electronic
+address: chunghsing.yeh@monash.edu.
+(3)Department of Data Science and Artificial Intelligence, Faculty of Information
+Technology, Monash University, Clayton, Victoria 3800, Australia. Electronic
+address: sue.bedingfield@monash.edu.
+
+OBJECTIVES: This study aims to identify significant symptoms and
+nonsymptom-related factors for malaria diagnosis in endemic regions of Indonesia.
+METHODS: Medical records are collected from patients suffering from malaria and
+other febrile diseases from public hospitals in endemic regions of Indonesia.
+Interviews with eight Indonesian medical doctors are conducted. Feature selection
+and machine learning techniques are used to develop malaria classifiers for
+identifying significant symptoms and nonsymptom-related factors.
+RESULTS: Seven significant symptoms (duration of fever, headache, nausea and
+vomiting, heartburn, severe symptom, dizziness, and joint pain) and patients'
+history of malaria as a nonsymptom-related factor contribute most to malaria
+diagnosis. As a symptom, fever duration is more significant than temperature or
+fever for distinguishing malaria from other febrile diseases. Shivering, fever,
+and sweating (known to indicate malaria presence in Indonesia) are shown to be
+less significant than other symptoms in endemic regions.
+CONCLUSIONS: Three most suitable malaria classifiers have been developed to
+identify the significant features that can be used to predict malaria as distinct
+from other febrile diseases. With extensive experiments on the classifiers, the
+significant features identified can help medical doctors in the clinical
+diagnosis of malaria and raise public awareness of significant malaria symptoms
+at early stages.
+
+Copyright © 2020 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.ijid.2020.11.177 
+PMID: 33249286 
+
+
+1. J Biophotonics. 2020 Nov;13(11):e202000123. doi: 10.1002/jbio.202000123. Epub
+2020 Sep 10.
+
+Guided filter based image enhancement for focal error compensation in low cost
+automated histopathology microscopic system.
+
+Awasthi N(1)(2)(3), Katare P(4), Gorthi SS(4), Yalavarthy PK(1).
+
+Author information: 
+(1)Department of Computational and Data Sciences, Indian Institute of Science,
+Bangalore, India.
+(2)Cardiovascular Research Centre, Massachusetts General Hospital, Boston,
+Massachusetts, USA.
+(3)Harvard University, Cambridge, Massachusetts, USA.
+(4)Department of Instrumentation and Applied Physics, Indian Institute of
+Science, Bangalore, India.
+
+Low-cost automated histopathology microscopy systems usually suffer from optical 
+imperfections, producing images that are slightly Out of Focus (OoF). In this
+work, a guided filter (GF) based image preprocessing is proposed for compensating
+focal errors and its efficacy is demonstrated on images of healthy and malaria
+infected red blood cells (h-RBCs and i-RBCs), and PAP smears. Since contrast
+enhancement has been widely used as an image preprocessing step for the analysis 
+of histopathology images, a systematic comparison is made with six such
+prominently used methods, namely Contrast Limited Adaptive Histogram Equalization
+(CLAHE), RIQMC-based optimal histogram matching (ROHIM), modified L0,
+Morphological Varying(MV)-Bitonic filter, unsharp mask filter and joint bilateral
+filter. The images enhanced using GF approach lead to better segmentation
+accuracy (upto 50% improvement over native images) and visual quality compared to
+other approaches, without any change in the color tones. Thus, the proposed GF
+approach is a viable solution for rectifying the OoF microscopy images without
+the loss of the valuable diagnostic information presented by the color tone.
+
+© 2020 Wiley‐VCH GmbH.
+
+DOI: 10.1002/jbio.202000123 
+PMID: 33245636 
+
+
+1. BMC Infect Dis. 2020 Nov 11;20(1):825. doi: 10.1186/s12879-020-05453-1.
+
+Malaria Screener: a smartphone application for automated malaria screening.
+
+Yu H(1), Yang F(1), Rajaraman S(1), Ersoy I(2), Moallem G(1)(3), Poostchi M(1),
+Palaniappan K(4), Antani S(1), Maude RJ(5)(6)(7), Jaeger S(8).
+
+Author information: 
+(1)Lister Hill National Center for Biomedical Communications, National Library of
+Medicine, National Institutes of Health, Bethesda, MD, 20894, USA.
+(2)Institute for Data Science and Informatics, University of Missouri-Columbia,
+Columbia, MO, 65211, USA.
+(3)Electrical and Computer Engineering Department, Texas Tech University,
+Lubbock, TX, 79409, USA.
+(4)Electrical Engineering and Computer Science Department, University of
+Missouri-Columbia, Columbia, MO, 65211, USA.
+(5)Mahidol Oxford Tropical Medicine Research Unit, Mahidol University, Bangkok,
+10400, Thailand.
+(6)Centre for Tropical Medicine and Global Health, Nuffield Department of
+Medicine, University of Oxford, Oxford, UK.
+(7)Harvard TH Chan School of Public Health, Harvard University, Boston, USA.
+(8)Lister Hill National Center for Biomedical Communications, National Library of
+Medicine, National Institutes of Health, Bethesda, MD, 20894, USA.
+stefan.jaeger@nih.gov.
+
+BACKGROUND: Light microscopy is often used for malaria diagnosis in the field.
+However, it is time-consuming and quality of the results depends heavily on the
+skill of microscopists. Automating malaria light microscopy is a promising
+solution, but it still remains a challenge and an active area of research.
+Current tools are often expensive and involve sophisticated hardware components, 
+which makes it hard to deploy them in resource-limited areas.
+RESULTS: We designed an Android mobile application called Malaria Screener, which
+makes smartphones an affordable yet effective solution for automated malaria
+light microscopy. The mobile app utilizes high-resolution cameras and computing
+power of modern smartphones to screen both thin and thick blood smear images for 
+P. falciparum parasites. Malaria Screener combines image acquisition, smear image
+analysis, and result visualization in its slide screening process, and is
+equipped with a database to provide easy access to the acquired data.
+CONCLUSION: Malaria Screener makes the screening process faster, more consistent,
+and less dependent on human expertise. The app is modular, allowing other
+research groups to integrate their methods and models for image processing and
+machine learning, while acquiring and analyzing their data.
+
+DOI: 10.1186/s12879-020-05453-1 
+PMCID: PMC7656677
+PMID: 33176716  [Indexed for MEDLINE]
+
+
+1. PLoS One. 2020 Oct 23;15(10):e0241033. doi: 10.1371/journal.pone.0241033.
+eCollection 2020.
+
+Estimating the optimal interval between rounds of indoor residual spraying of
+insecticide using malaria incidence data from cohort studies.
+
+Mugenyi L(1)(2), Nankabirwa JI(1)(3), Arinaitwe E(3), Rek J(3), Hens N(4)(5),
+Kamya M(1)(3), Dorsey G(6).
+
+Author information: 
+(1)College of Health Sciences, Makerere University, Kampala, Uganda.
+(2)The Aids Support Organization, Kampala, Uganda.
+(3)Infectious Diseases Research Collaboration, Kampala, Uganda.
+(4)I-Biostat, Data Science Institute, Hasselt University, Hasselt, Belgium.
+(5)Centre for Health Economics Research and Modelling Infectious Diseases,
+Vaccine and Infectious Disease Institute, University of Antwerp, Antwerp,
+Belgium.
+(6)Department of Medicine, University of California, San Francisco, California,
+United States of America.
+
+BACKGROUND: Indoor residual spraying (IRS) reduces vector densities and malaria
+transmission, however, the most effective spraying intervals for IRS have not
+been well established. We estimated the optimal timing interval for IRS using a
+statistical approach.
+METHODS: Six rounds of IRS were implemented in Tororo District, a historically
+high malaria transmission setting in Uganda, during the study period (3 rounds
+with bendiocarb active ingredient (Ficam®): December 2014 to December 2015, and 3
+rounds with pirimiphos methyl active ingredient (Actellic 300®CS): June 2016 to
+July 2018). A generalized additive model was used to estimate the optimal timing 
+interval for IRS based on the predicted malaria incidence. The model was fitted
+to clinical incidence data from a cohort of children aged 0.5-10 years from
+selected households observed throughout the study period.
+RESULTS: 494 children, 67% aged less than 5 years at enrolment were analysed.
+Six-months period incidence of malaria decreased from 2.96 per person-years at
+the baseline to 1.74 following the first round of IRS and then to 0.02 after 6
+rounds of IRS. The optimal time interval for IRS differed between bendiocarb and 
+pirimiphos methyl and by IRS round. To retain an optimum impact, bendiocarb would
+require respraying 17 (95% CI: 14.2-21.0) weeks after application whereas
+pirimiphos methyl could remain impactful for 40 (95% CI: 37.0-42.8) weeks,
+although in the final year this estimates 36 (95% CI: 32.7-37.7) weeks. However, 
+we could not estimate from the data the optimal time after the second and third
+rounds of bendiocarb and after the second round of pirimiphos methyl. Neither the
+amount of rainfall nor the EIR nor the distribution of nets were found to be
+statistically significant for determining the time period between spray rounds.
+CONCLUSION: In our setting, the effect of the two IRS products was distinct.
+Statistically, pirimiphos methyl provided a longer window of protection than
+bendiocarb, although impact varied between different spray rounds and years which
+was not explained by rainfall or EIR or distribution of nets in our statistical
+approach. Understanding the effectiveness of IRS and how long it lasts can help
+for planning campaigns, but one should consider the financial cost and
+insecticide resistance. Monitoring the timing of spray campaigns using clinical
+incidence could be repeated in future programs to help determine the average
+period of protectivity of these products.
+
+DOI: 10.1371/journal.pone.0241033 
+PMCID: PMC7584202
+PMID: 33095812  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+1. Malar J. 2020 Oct 20;19(1):374. doi: 10.1186/s12936-020-03446-8.
+
+Global estimation of anti-malarial drug effectiveness for the treatment of
+uncomplicated Plasmodium falciparum malaria 1991-2019.
+
+Rathmes G(1), Rumisha SF(2)(3), Lucas TCD(1), Twohig KA(1), Python A(1)(4),
+Nguyen M(1), Nandi AK(1), Keddie SH(1), Collins EL(1), Rozier JA(1), Gibson
+HS(1), Chestnutt EG(1), Battle KE(1), Humphreys GS(5)(6)(7), Amratia P(1),
+Arambepola R(1), Bertozzi-Villa A(1)(8), Hancock P(1), Millar JJ(1), Symons
+TL(1), Bhatt S(9), Cameron E(1)(10)(11), Guerin PJ(5)(6)(7), Gething PW(10)(11), 
+Weiss DJ(1)(10)(11).
+
+Author information: 
+(1)Malaria Atlas Project, Big Data Institute, Nuffield Department of Medicine,
+University of Oxford, Oxford, UK.
+(2)Malaria Atlas Project, Big Data Institute, Nuffield Department of Medicine,
+University of Oxford, Oxford, UK. susan.rumisha@bdi.ox.ac.uk.
+(3)Telethon Kids Institute, Perth, Australia. susan.rumisha@bdi.ox.ac.uk.
+(4)Center for Data Science, Zhejiang University, Hangzhou, 310058, China.
+(5)WorldWide Anti-Malarial Resistance Network (WWARN), Oxford, UK.
+(6)Infectious Diseases Data Observatory (IDDO), Oxford, UK.
+(7)Centre for Tropical Medicine and Global Health, Nuffield Department of
+Clinical Medicine, University of Oxford, Oxford, UK.
+(8)Institute for Disease Modeling, Bellevue, WA, USA.
+(9)Imperial College London, London, UK.
+(10)Telethon Kids Institute, Perth, Australia.
+(11)Curtin University, Perth, Australia.
+
+BACKGROUND: Anti-malarial drugs play a critical role in reducing malaria
+morbidity and mortality, but their role is mediated by their effectiveness.
+Effectiveness is defined as the probability that an anti-malarial drug will
+successfully treat an individual infected with malaria parasites under routine
+health care delivery system. Anti-malarial drug effectiveness (AmE) is influenced
+by drug resistance, drug quality, health system quality, and patient adherence to
+drug use; its influence on malaria burden varies through space and time.
+METHODS: This study uses data from 232 efficacy trials comprised of 86,776
+infected individuals to estimate the artemisinin-based and non-artemisinin-based 
+AmE for treating falciparum malaria between 1991 and 2019. Bayesian
+spatiotemporal models were fitted and used to predict effectiveness at the
+pixel-level (5 km × 5 km). The median and interquartile ranges (IQR) of AmE are
+presented for all malaria-endemic countries.
+RESULTS: The global effectiveness of artemisinin-based drugs was 67.4% (IQR:
+33.3-75.8), 70.1% (43.6-76.0) and 71.8% (46.9-76.4) for the 1991-2000, 2006-2010,
+and 2016-2019 periods, respectively. Countries in central Africa, a few in South 
+America, and in the Asian region faced the challenge of lower effectiveness of
+artemisinin-based anti-malarials. However, improvements were seen after 2016,
+leaving only a few hotspots in Southeast Asia where resistance to artemisinin and
+partner drugs is currently problematic and in the central Africa where
+socio-demographic challenges limit effectiveness. The use of artemisinin-based
+combination therapy (ACT) with a competent partner drug and having multiple ACT
+as first-line treatment choice sustained high levels of effectiveness. High
+levels of access to healthcare, human resource capacity, education, and proximity
+to cities were associated with increased effectiveness. Effectiveness of
+non-artemisinin-based drugs was much lower than that of artemisinin-based with no
+improvement over time: 52.3% (17.9-74.9) for 1991-2000 and 55.5% (27.1-73.4) for 
+2011-2015. Overall, AmE for artemisinin-based and non-artemisinin-based drugs
+were, respectively, 29.6 and 36% below clinical efficacy as measured in
+anti-malarial drug trials.
+CONCLUSIONS: This study provides evidence that health system performance, drug
+quality and patient adherence influence the effectiveness of anti-malarials used 
+in treating uncomplicated falciparum malaria. These results provide guidance to
+countries' treatment practises and are critical inputs for malaria prevalence and
+incidence models used to estimate national level malaria burden.
+
+DOI: 10.1186/s12936-020-03446-8 
+PMCID: PMC7573874
+PMID: 33081784 
+
+
+1. Vaccine. 2020 Nov 10;38(48):7569-7577. doi: 10.1016/j.vaccine.2020.09.071. Epub
+2020 Oct 16.
+
+Understanding vaccine-elicited protective immunity against pre-erythrocytic stage
+malaria in endemic regions.
+
+Mo AXY(1), Pesce J(2), Augustine AD(2), Bodmer JL(3), Breen J(2), Leitner W(2),
+Hall BF(2).
+
+Author information: 
+(1)National Institute of Allergy and Infectious Diseases, National Institute of
+Health, Department of Health and Human Service, Rockville, MD 20892, MSC 9825,
+USA. Electronic address: moa@niaid.nih.gov.
+(2)National Institute of Allergy and Infectious Diseases, National Institute of
+Health, Department of Health and Human Service, Rockville, MD 20892, MSC 9825,
+USA.
+(3)Bill & Melinda Gates Foundation, Seattle, WA 98109, USA.
+
+Recent malaria vaccine trials in endemic areas have yielded disparate results
+compared to studies conducted in non-endemic areas. A workshop was organized to
+discuss the differential pre-erythrocytic stage malaria vaccine (Pre-E-Vac)
+efficacies and underlying protective immunity under various conditions. It was
+concluded that many factors, including vaccine technology platforms, host
+genetics or physiologic conditions, and parasite and mosquito vector variations, 
+may all contribute to Pre-E-Vac efficacy. Cross-disciplinary approaches are
+needed to decipher the multi-dimensional variables that contribute to the
+observed vaccine hypo-responsiveness. The malaria vaccine community has an
+opportunity to leverage recent advances in immunology, systems vaccinology, and
+high dimensionality data science methodologies to generate new clinical datasets 
+with unprecedented levels of functional resolution as well as capitalize on
+existing datasets for comprehensive and aggregate analyses. These approaches
+would help to unlock our understanding of Pre-E-Vac immunology and to translate
+new candidates from the laboratory to the field more predictably.
+
+Copyright © 2020.
+
+DOI: 10.1016/j.vaccine.2020.09.071 
+PMID: 33071001  [Indexed for MEDLINE]
+
+
+1. PLoS One. 2020 Sep 10;15(9):e0238504. doi: 10.1371/journal.pone.0238504.
+eCollection 2020.
+
+Bayesian spatio-temporal modeling of malaria risk in Rwanda.
+
+Semakula M(1)(2), Niragire FI(3), Faes C(1).
+
+Author information: 
+(1)I-BioStat, Hasselt University, Hasselt, Belgium.
+(2)College of Business and Economics, Center of excellence in Data science,
+Bio-statistics, University of Rwanda, Kigali, Rwanda.
+(3)Department of Applied Statistics, College of Business and Economics,
+University of Rwanda, Kigali, Rwanda.
+
+Every year, 435,000 people worldwide die from Malaria, mainly in Africa and Asia.
+However, malaria is a curable and preventable disease. Most countries are
+developing malaria elimination plans to meet sustainable development goal three, 
+target 3.3, which includes ending the epidemic of malaria by 2030. Rwanda,
+through the malaria strategic plan 2012-2018 set a target to reduce malaria
+incidence by 42% from 2012 to 2018. Assessing the health policy and taking a
+decision using the incidence rate approach is becoming more challenging. We are
+proposing suitable statistical methods that handle spatial structure and
+uncertainty on the relative risk that is relevant to National Malaria Control
+Program. We used a spatio-temporal model to estimate the excess probability for
+decision making at a small area on evaluating reduction of incidence. SIR and BYM
+models were developed using routine data from Health facilities for the period
+from 2012 to 2018 in Rwanda. The fitted model was used to generate relative risk 
+(RR) estimates comparing the risk with the malaria risk in 2012, and to assess
+the probability of attaining the set target goal per area. The results showed an 
+overall increase in malaria in 2013 to 2018 as compared to 2012. Ofall sectors in
+Rwanda, 47.36% failed to meet targeted reduction in incidence from 2012 to 2018. 
+Our approach of using excess probability method to evaluate attainment of target 
+or identifying threshold is a relevant statistical method, which will enable the 
+Rwandan Government to sustain malaria control and monitor the effectiveness of
+targeted interventions.
+
+DOI: 10.1371/journal.pone.0238504 
+PMCID: PMC7482939
+PMID: 32911503  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+1. Int J Environ Res Public Health. 2020 Aug 31;17(17). pii: E6339. doi:
+10.3390/ijerph17176339.
+
+Predicting Malaria Transmission Dynamics in Dangassa, Mali: A Novel Approach
+Using Functional Generalized Additive Models.
+
+Ateba FF(1)(2)(3), Febrero-Bande M(4), Sagara I(1)(5), Sogoba N(1), Touré M(1),
+Sanogo D(1), Diarra A(1), Magdalene Ngitah A(3), Winch PJ(6), Shaffer JG(7),
+Krogstad DJ(7), Marker HC(6), Gaudart J(8), Doumbia S(1)(5).
+
+Author information: 
+(1)Malaria Research and Training Center, Faculty of Medicine, Pharmacy and
+Dentistry, University of Sciences, Techniques and Technologies of Bamako, Bamako 
+BP 1805, Mali.
+(2)Department of Mathematics, University of Quebec at Montreal (UQAM), Montréal, 
+QC H2X 3Y7, Canada.
+(3)Faculty of Health Sciences, University of Buea, Buea BP 63, Cameroon.
+(4)Department of Statistics, Mathematical Analysis and Optimization, University
+of Santiago de Compostela, Santiago de Compostela, 15782 Galicia, Spain.
+(5)Department of Public Health Education and Research, Faculty of Medicine and
+Odonto-Stomatology, University of Sciences, Techniques and Technologies of
+Bamako, Bamako 1805, Mali.
+(6)Department of International Health, Johns Hopkins Bloomberg School of Public
+Health, Baltimore, MD 21205, USA.
+(7)Department of Global Biostatistics and Data Science, School of Public Health
+and Tropical Medicine, Tulane University, 1440 Canal Street New Orleans, New
+Orleans, Louisiana, LA 70112, USA.
+(8)Aix Marseille University, APHM, INSERM, IRD, SESSTIM, Hop Timone, BioSTIC,
+Biostatistics & ICT, 13005 Marseille, France.
+
+Mali aims to reach the pre-elimination stage of malaria by the next decade. This 
+study used functional regression models to predict the incidence of malaria as a 
+function of past meteorological patterns to better prevent and to act proactively
+against impending malaria outbreaks. All data were collected over a five-year
+period (2012-2017) from 1400 persons who sought treatment at Dangassa's community
+health center. Rainfall, temperature, humidity, and wind speed variables were
+collected. Functional Generalized Spectral Additive Model (FGSAM), Functional
+Generalized Linear Model (FGLM), and Functional Generalized Kernel Additive Model
+(FGKAM) were used to predict malaria incidence as a function of the pattern of
+meteorological indicators over a continuum of the 18 weeks preceding the week of 
+interest. Their respective outcomes were compared in terms of predictive
+abilities. The results showed that (1) the highest malaria incidence rate
+occurred in the village 10 to 12 weeks after we observed a pattern of air
+humidity levels >65%, combined with two or more consecutive rain episodes and a
+mean wind speed <1.8 m/s; (2) among the three models, the FGLM obtained the best 
+results in terms of prediction; and (3) FGSAM was shown to be a good compromise
+between FGLM and FGKAM in terms of flexibility and simplicity. The models showed 
+that some meteorological conditions may provide a basis for detection of future
+outbreaks of malaria. The models developed in this paper are useful for
+implementing preventive strategies using past meteorological and past malaria
+incidence.
+
+DOI: 10.3390/ijerph17176339 
+PMCID: PMC7504016
+PMID: 32878174  [Indexed for MEDLINE]
+
+
+1. PeerJ. 2020 Aug 4;8:e9674. doi: 10.7717/peerj.9674. eCollection 2020.
+
+Convolutional neural networks to automate the screening of malaria in
+low-resource countries.
+
+Zhao OS(1), Kolluri N(2), Anand A(1), Chu N(2), Bhavaraju R(1), Ojha A(2), Tiku
+S(1), Nguyen D(1), Chen R(1), Morales A(1), Valliappan D(1), Patel JP(3), Nguyen 
+K(3).
+
+Author information: 
+(1)Department of Biomedical Engineering, The University of Texas at Austin,
+Austin, TX, United States of America.
+(2)Department of Electrical & Computer Engineering, The University of Texas at
+Austin, Austin, TX, United States of America.
+(3)Department of Psychology, The University of Texas at Austin, Austin, TX,
+United States of America.
+
+Malaria is an infectious disease caused by Plasmodium parasites, transmitted
+through mosquito bites. Symptoms include fever, headache, and vomiting, and in
+severe cases, seizures and coma. The World Health Organization reports that there
+were 228 million cases and 405,000 deaths in 2018, with Africa representing 93%
+of total cases and 94% of total deaths. Rapid diagnosis and subsequent treatment 
+are the most effective means to mitigate the progression into serious symptoms.
+However, many fatal cases have been attributed to poor access to healthcare
+resources for malaria screenings. In these low-resource settings, the use of
+light microscopy on a thin blood smear with Giemsa stain is used to examine the
+severity of infection, requiring tedious and manual counting by a trained
+technician. To address the malaria endemic in Africa and its coexisting
+socioeconomic constraints, we propose an automated, mobile phone-based screening 
+process that takes advantage of already existing resources. Through the use of
+convolutional neural networks (CNNs), we utilize a SSD multibox object detection 
+architecture that rapidly processes thin blood smears acquired via light
+microscopy to isolate images of individual red blood cells with 90.4% average
+precision. Then we implement a FSRCNN model that upscales 32 × 32 low-resolution 
+images to 128 × 128 high-resolution images with a PSNR of 30.2, compared to a
+baseline PSNR of 24.2 through traditional bicubic interpolation. Lastly, we
+utilize a modified VGG16 CNN that classifies red blood cells as either infected
+or uninfected with an accuracy of 96.5% in a balanced class dataset. These
+sequential models create a streamlined screening platform, giving the healthcare 
+provider the number of malaria-infected red blood cells in a given sample. Our
+deep learning platform is efficient enough to operate exclusively on low-tier
+smartphone hardware, eliminating the need for high-speed internet connection.
+
+©2020 Zhao et al.
+
+DOI: 10.7717/peerj.9674 
+PMCID: PMC7413078
+PMID: 32832279 
+
+Conflict of interest statement: The authors declare there are no competing
+interests.
+
+
+1. J Immunol. 2020 Sep 15;205(6):1608-1619. doi: 10.4049/jimmunol.2000450. Epub 2020
+Aug 17.
+
+Exhausted CD4+ T Cells during Malaria Exhibit Reduced mTORc1 Activity Correlated 
+with Loss of T-bet Expression.
+
+Villegas-Mendez A(1), Khandelwal G(2), McGowan LM(1)(3), Dookie RS(1), Haley
+MJ(1), George C(4), Sims D(4), Lord GM(1), Sinclair LV(5), Jenner RG(2), Couper
+KN(6).
+
+Author information: 
+(1)The Lydia Becker Institute of Immunology and Inflammation, Faculty of Biology,
+Medicine and Health, University of Manchester, Manchester M13 9PT, United
+Kingdom.
+(2)University College London Cancer Institute, University College London, London 
+WC1E 6DD, United Kingdom.
+(3)Department of Physiology, Pharmacology and Neuroscience, Faculty of Life
+Sciences, University of Bristol, Bristol BS8 1TD, United Kingdom.
+(4)Oxford Biomedical Data Science Training Programme, Medical Research Council
+Wetherall Institute of Molecular Medicine Centre for Computational Biology,
+Medical Research Council Wetherall Institute of Molecular Medicine, University of
+Oxford, John Radcliffe Hospital, Oxford OX3 9DS, United Kingdom; and.
+(5)Division of Cell Signaling and Immunology, School of Life Sciences, University
+of Dundee, Dundee DD1 5EH, United Kingdom.
+(6)The Lydia Becker Institute of Immunology and Inflammation, Faculty of Biology,
+Medicine and Health, University of Manchester, Manchester M13 9PT, United
+Kingdom; kevin.couper@manchester.ac.uk.
+
+CD4+ T cell functional inhibition (exhaustion) is a hallmark of malaria and
+correlates with impaired parasite control and infection chronicity. However, the 
+mechanisms of CD4+ T cell exhaustion are still poorly understood. In this study, 
+we show that Ag-experienced (Ag-exp) CD4+ T cell exhaustion during Plasmodium
+yoelii nonlethal infection occurs alongside the reduction in mammalian target of 
+rapamycin (mTOR) activity and restriction in CD4+ T cell glycolytic capacity. We 
+demonstrate that the loss of glycolytic metabolism and mTOR activity within the
+exhausted Ag-expCD4+ T cell population during infection coincides with reduction 
+in T-bet expression. T-bet was found to directly bind to and control the
+transcription of various mTOR and metabolism-related genes within effector CD4+ T
+cells. Consistent with this, Ag-expTh1 cells exhibited significantly higher and
+sustained mTOR activity than effector T-bet- (non-Th1) Ag-expT cells throughout
+the course of malaria. We identified mTOR to be redundant for sustaining T-bet
+expression in activated Th1 cells, whereas mTOR was necessary but not sufficient 
+for maintaining IFN-γ production by Th1 cells. Immunotherapy targeting PD-1,
+CTLA-4, and IL-27 blocked CD4+ T cell exhaustion during malaria infection and was
+associated with elevated T-bet expression and a concomitant increased CD4+ T cell
+glycolytic metabolism. Collectively, our data suggest that mTOR activity is
+linked to T-bet in Ag-expCD4+ T cells but that reduction in mTOR activity may not
+directly underpin Ag-expTh1 cell loss and exhaustion during malaria infection.
+These data have implications for therapeutic reactivation of exhausted CD4+ T
+cells during malaria infection and other chronic conditions.
+
+Copyright © 2020 The Authors.
+
+DOI: 10.4049/jimmunol.2000450 
+PMCID: PMC7477746
+PMID: 32817333 
+
+
+1. Int J Environ Res Public Health. 2020 Jun 30;17(13). pii: E4698. doi:
+10.3390/ijerph17134698.
+
+Spatio-Temporal Dynamic of Malaria Incidence: A Comparison of Two Ecological
+Zones in Mali.
+
+Ateba FF(1)(2), Sagara I(1)(3), Sogoba N(1), Touré M(1), Konaté D(1), Diawara
+SI(1), Diakité SAS(1), Diarra A(1), Coulibaly MD(1), Dolo M(1), Dolo A(1), Sacko 
+A(3), Thiam SM(1), Sissako A(4), Sangaré L(4), Diakité M(1), Koita OA(4), Cissoko
+M(1)(5), Traore SF(1), Winch PJ(6), Febrero-Bande M(7), Shaffer JG(8), Krogtad
+DJ(8), Marker HC(6), Doumbia S(1)(3), Gaudart J(1)(5).
+
+Author information: 
+(1)Malaria Research and Training Center, Faculty of Medicine, Pharmacy and
+Dentistry, University of Sciences, Techniques and Technologies of Bamako, Bamako,
+Mali.
+(2)Department of Mathematics, University of Quebec at Montreal (UQAM), Montréal, 
+QC H2X 3Y7, Canada.
+(3)Department of Public Health Education and Research, Faculty of Medicine and
+Odonto-Stomatology, University of Sciences, Techniques and Technologies of
+Bamako, Bamako, Mali.
+(4)Laboratory of Applied Molecular Biology (LBMA), Science and Technologies
+Faculty (FST), University of Sciences, Techniques and Technologies of Bamako,
+Bamako, Mali.
+(5)Aix Marseille Université, APHM, INSERM, IRD, SESSTIM, Hop Timone, BioSTIC,
+Biostatistic & ICT, 13005 Marseille, France.
+(6)Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21205, USA.
+(7)Department of Statistics, Mathematical Analysis and Optimization, University
+of Santiago de Compostela, 15782 Santiago de Compostela, Spain.
+(8)Department of Global Biostatistics and Data Science, School of Public Health
+and Tropical Medicine, Tulane University, New Orleans, Louisiana, United States
+of America, 1440 Canal Street, New Orleans, LA 70112, USA.
+
+Malaria transmission largely depends on environmental, climatic, and hydrological
+conditions. In Mali, malaria epidemiological patterns are nested within three
+ecological zones. This study aimed at assessing the relationship between those
+conditions and the incidence of malaria in Dangassa and Koila, Mali. Malaria data
+was collected through passive case detection at community health facilities of
+each study site from June 2015 to January 2017. Climate and environmental data
+were obtained over the same time period from the Goddard Earth Sciences
+(Giovanni) platform and hydrological data from Mali hydraulic services. A
+generalized additive model was used to determine the lagged time between each
+principal component analysis derived component and the incidence of malaria
+cases, and also used to analyze the relationship between malaria and the lagged
+components in a multivariate approach. Malaria transmission patterns were bimodal
+at both sites, but peak and lull periods were longer lasting for Koila study
+site. Temperatures were associated with malaria incidence in both sites. In
+Dangassa, the wind speed (p = 0.005) and river heights (p = 0.010) contributed to
+increasing malaria incidence, in contrast to Koila, where it was humidity (p <
+0.001) and vegetation (p = 0.004). The relationships between environmental
+factors and malaria incidence differed between the two settings, implying
+different malaria dynamics and adjustments in the conception and plan of
+interventions.
+
+DOI: 10.3390/ijerph17134698 
+PMCID: PMC7370019
+PMID: 32629876  [Indexed for MEDLINE]
+
+
+1. PLoS Comput Biol. 2020 May 11;16(5):e1007893. doi: 10.1371/journal.pcbi.1007893. 
+eCollection 2020 May.
+
+Calibration of individual-based models to epidemiological data: A systematic
+review.
+
+Hazelbag CM(1), Dushoff J(1)(2), Dominic EM(1), Mthombothi ZE(1), Delva
+W(1)(3)(4)(5)(6)(7).
+
+Author information: 
+(1)South African DSI-NRF Centre of Excellence in Epidemiological Modelling and
+Analysis (SACEMA), Stellenbosch University, Stellenbosch, South Africa.
+(2)Department of Biology, Department of Mathematics and Statistics, Institute for
+Infectious Disease Research, McMaster University, Hamilton, Ontario, Canada.
+(3)School for Data Science and Computational Thinking, Stellenbosch University,
+Stellenbosch, South Africa.
+(4)Center for Statistics, I-BioStat, Hasselt University, Diepenbeek, Belgium.
+(5)Department of Global Health, Faculty of Medicine and Health, Stellenbosch
+University, Stellenbosch, South Africa.
+(6)International Centre for Reproductive Health, Ghent University, Ghent,
+Belgium.
+(7)Rega Institute for Medical Research, KU Leuven, Leuven, Belgium.
+
+Individual-based models (IBMs) informing public health policy should be
+calibrated to data and provide estimates of uncertainty. Two main components of
+model-calibration methods are the parameter-search strategy and the
+goodness-of-fit (GOF) measure; many options exist for each of these. This review 
+provides an overview of calibration methods used in IBMs modelling infectious
+disease spread. We identified articles on PubMed employing simulation-based
+methods to calibrate IBMs informing public health policy in HIV, tuberculosis,
+and malaria epidemiology published between 1 January 2013 and 31 December 2018.
+Articles were included if models stored individual-specific information, and
+calibration involved comparing model output to population-level targets. We
+extracted information on parameter-search strategies, GOF measures, and model
+validation. The PubMed search identified 653 candidate articles, of which 84 met 
+the review criteria. Of the included articles, 40 (48%) combined a quantitative
+GOF measure with an algorithmic parameter-search strategy-either an optimisation 
+algorithm (14/40) or a sampling algorithm (26/40). These 40 articles varied
+widely in their choices of parameter-search strategies and GOF measures. For the 
+remaining 44 (52%) articles, the parameter-search strategy could either not be
+identified (32/44) or was described as an informal, non-reproducible method
+(12/44). Of these 44 articles, the majority (25/44) were unclear about the GOF
+measure used; of the rest, only five quantitatively evaluated GOF. Only a
+minority of the included articles, 14 (17%) provided a rationale for their choice
+of model-calibration method. Model validation was reported in 31 (37%) articles. 
+Reporting on calibration methods is far from optimal in epidemiological modelling
+studies of HIV, malaria and TB transmission dynamics. The adoption of better
+documented, algorithmic calibration methods could improve both reproducibility
+and the quality of inference in model-based epidemiology. There is a need for
+research comparing the performance of calibration methods to inform decisions
+about the parameter-search strategies and GOF measures.
+
+DOI: 10.1371/journal.pcbi.1007893 
+PMCID: PMC7241852
+PMID: 32392252  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+1. Int J Environ Res Public Health. 2020 Apr 28;17(9). pii: E3070. doi:
+10.3390/ijerph17093070.
+
+A Scoping Review of Spatial Analysis Approaches Using Health Survey Data in
+Sub-Saharan Africa.
+
+Manda S(1)(2)(3), Haushona N(1)(4), Bergquist R(5).
+
+Author information: 
+(1)Biostatistics Research Unit, South African Medical Research Council, Pretoria 
+0001, South Africa.
+(2)Department of Statistics, University of Pretoria, Pretoria 0002, South Africa.
+(3)School of Mathematics, Statistics and Computer Science, University of
+KwaZulu-Natal, Pietermaritzburg 3209, South Africa.
+(4)Division of Epidemiology and Biostatistics, University of Stellenbosch, Cape
+Town 8000, South Africa.
+(5)Ingerod, SE-454 94 Brastad, Sweden.
+
+Spatial analysis has become an increasingly used analytic approach to describe
+and analyze spatial characteristics of disease burden, but the depth and coverage
+of its usage for health surveys data in Sub-Saharan Africa are not well known.
+The objective of this scoping review was to conduct an evaluation of studies
+using spatial statistics approaches for national health survey data in the SSA
+region. An organized literature search for studies related to spatial statistics 
+and national health surveys was conducted through PMC, PubMed/Medline, Scopus,
+NLM Catalog, and Science Direct electronic databases. Of the 4,193 unique
+articles identified, 153 were included in the final review. Spatial smoothing and
+prediction methods were predominant (n = 108), followed by spatial description
+aggregation (n = 25), and spatial autocorrelation and clustering (n = 19).
+Bayesian statistics methods and lattice data modelling were predominant (n =
+108). Most studies focused on malaria and fever (n = 47) followed by health
+services coverage (n = 38). Only fifteen studies employed nonstandard spatial
+analyses (e.g., spatial model assessment, joint spatial modelling, accounting for
+survey design). We recommend that for future spatial analysis using health survey
+data in the SSA region, there must be an improve recognition and awareness of the
+potential dangers of a naïve application of spatial statistical methods. We also 
+recommend a wide range of applications using big health data and the future of
+data science for health systems to monitor and evaluate impacts that are not well
+understood at local levels.
+
+DOI: 10.3390/ijerph17093070 
+PMCID: PMC7246597
+PMID: 32354095  [Indexed for MEDLINE]
+
+
+1. Bioessays. 2020 Jun;42(6):e1900145. doi: 10.1002/bies.201900145. Epub 2020 Apr
+28.
+
+Palmitoylated Proteins in Plasmodium falciparum-Infected Erythrocytes:
+Investigation with Click Chemistry and Metabolic Labeling.
+
+Kilian N(1), Zhang Y(2), LaMonica L(2), Hooker G(3), Toomre D(2)(4), Mamoun
+CB(1), Ernst AM(2).
+
+Author information: 
+(1)Department of Internal Medicine, Section of Infectious Diseases, Yale
+University School of Medicine, 333 Cedar Street, New Haven, CT, 06520-8056, USA.
+(2)Department of Cell Biology, Yale University School of Medicine, 333 Cedar
+Street, New Haven, CT, 06520-8002, USA.
+(3)Department of Statistics and Data Science, Cornell University, Ithaca, NY,
+USA.
+(4)Nanobiology Institute, Yale University, 850 West Campus Drive, West Haven, CT,
+06516, USA.
+
+The examination of the complex cell biology of the human malaria parasite
+Plasmodium falciparum usually relies on the time-consuming generation of
+transgenic parasites. Here, metabolic labeling and click chemistry are employed
+as a fast transfection-independent method for the microscopic examination of
+protein S-palmitoylation, an important post-translational modification during the
+asexual intraerythrocytic replication of P. falciparum. Applying various
+microscopy approaches such as confocal, single-molecule switching, and electron
+microscopy, differences in the extent of labeling within the different asexual
+developmental stages of P. falciparum and the host erythrocytes over time are
+observed.
+
+© 2020 The Authors. BioEssays published by WILEY Periodicals, Inc.
+
+DOI: 10.1002/bies.201900145 
+PMID: 32342554 
+
+
+1. Implement Sci. 2020 Mar 4;15(1):13. doi: 10.1186/s13012-020-0968-1.
+
+The fidelity of implementation of recommended care for children with malaria by
+community health workers in Nigeria.
+
+Adeoti O(1)(2), Spiegelman D(3)(4)(5)(6)(7)(8)(9), Afonne C(10), Falade
+CO(10)(11), Jegede AS(10)(12), Oshiname FO(10)(13), Gomes M(14), Ajayi
+IO(10)(15).
+
+Author information: 
+(1)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 677
+Huntington Ave, Boston, Massachusetts, 02115, USA. adeotitomi@gmail.com.
+(2)Department of Biostatistics, Harvard T.H. Chan School of Public Health, 677
+Huntington Ave, Boston, Massachusetts, 02115, USA. adeotitomi@gmail.com.
+(3)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 677
+Huntington Ave, Boston, Massachusetts, 02115, USA.
+(4)Department of Biostatistics, Harvard T.H. Chan School of Public Health, 677
+Huntington Ave, Boston, Massachusetts, 02115, USA.
+(5)Department of Nutrition, Harvard T.H. Chan School of Public Health, 677
+Huntington Ave, Boston, Massachusetts, 02115, USA.
+(6)Department of Global Health and Population, Harvard T.H. Chan School of Public
+Health, 677 Huntington Ave, Boston, Massachusetts, 02115, USA.
+(7)Department of Statistics and Data Science, Yale University, New Haven, USA.
+(8)Center for Methods in Implementation and Prevention Science (CMIPS), Yale
+School of Public Health, New Haven, USA.
+(9)Center for Interdisciplinary Research on AIDS, Yale School of Public Health,
+New Haven, USA.
+(10)Epidemiology and Biostatistics Research Unit, Institute of Advanced Medical
+Research and Training (IMARAT), College of Medicine, University of Ibadan,
+Ibadan, Nigeria.
+(11)Department of Pharmacology and Therapeutics, College of Medicine, University 
+of Ibadan, Ibadan, Nigeria.
+(12)Department of Sociology, Faculty of the Social Sciences, University of
+Ibadan, Ibadan, Nigeria.
+(13)Department of Health Promotion and Education, Faculty of Public Health,
+College of Medicine, University of Ibadan, Ibadan, Nigeria.
+(14)UNICEF/UNDP/World Bank/WHO Special Programme for Research and Training in
+Tropical Diseases, World Health Organization, Geneva, Switzerland.
+(15)Department of Epidemiology and Medical Statistics, Faculty of Public Health, 
+College of Medicine, University of Ibadan, Ibadan, Nigeria.
+
+BACKGROUND: In the context of task shifting, a promoted approach to healthcare
+delivery in resource-poor settings, trained community health workers (CHWs) have 
+been shown to be effective in delivering quality care of malaria for febrile
+under-5 children. While their effectiveness has been documented, the fidelity of 
+implementation (FOI) has not been adequately studied. By understanding and
+measuring whether an intervention has been performed with fidelity, researchers
+and practitioners gain a better understanding of how and why an intervention
+works, and the extent to which outcomes can be improved. The objective of this
+study was to assess the FOI of a recommended protocol for malaria care by CHWs in
+a resource-poor setting in Nigeria.
+METHODS: Thirty-five female CHWs who participated in a 3-day training on home
+management of malaria among under-5 children were studied. They managed 1,646
+children over the implementation period and then underwent evaluation via a
+one-time hospital-based observation by the trainers. During the evaluation, a
+pre-tested standard checklist was used to compute performance scores for CHWs;
+doctors and nurses were selected to serve as the gold standard for comparison.
+Performance scores (PS) recorded during the evaluation were used to assess
+adherence and compliance with the recommended treatment protocol.
+RESULTS: Of the 4 skill domains assessed, adherence was greatest for compliance
+with malaria treatment recommendations (94%) and lowest for post-treatment
+initiation counseling of home-based caregivers (69%). The average overall
+adherence of 83% was comparable to adherence by gold standard comparators. Mean
+PS was not found to be significantly associated with CHW demographics. Scores for
+clinical evaluation among those whose occupation was not healthcare-related were 
+significantly lowered by 0.52 [95% CI (1.05-0.01), p = 0.05]. Compliance with the
+treatment protocol increased by 23% for every unit increase in total PS
+(p = 0.07) and doubled for every unit increase in scores for post-treatment
+initiation counseling of caregivers (p = 0.002).
+CONCLUSIONS: Studying intervention fidelity stands to identify the shortcomings
+of implementation and specific areas to target for improvement in future adoption
+or implementation. This study concludes that future trainings should emphasize
+clinical evaluation and post-treatment counseling of caregivers by CHWs to ensure
+the best outcome for children.
+
+DOI: 10.1186/s13012-020-0968-1 
+PMCID: PMC7057616
+PMID: 32131852  [Indexed for MEDLINE]
+
+
+1. Lancet. 2019 Nov 16;394(10211):1836-1878. doi: 10.1016/S0140-6736(19)32596-6.
+
+The 2019 report of The Lancet Countdown on health and climate change: ensuring
+that the health of a child born today is not defined by a changing climate.
+
+Watts N(1), Amann M(2), Arnell N(3), Ayeb-Karlsson S(4), Belesova K(5), Boykoff
+M(6), Byass P(7), Cai W(8), Campbell-Lendrum D(9), Capstick S(10), Chambers
+J(11), Dalin C(12), Daly M(13), Dasandi N(14), Davies M(15), Drummond P(12),
+Dubrow R(16), Ebi KL(17), Eckelman M(18), Ekins P(12), Escobar LE(19), Fernandez 
+Montoya L(20), Georgeson L(21), Graham H(22), Haggar P(10), Hamilton I(23),
+Hartinger S(24), Hess J(25), Kelman I(26), Kiesewetter G(2), Kjellstrom T(27),
+Kniveton D(28), Lemke B(29), Liu Y(30), Lott M(31), Lowe R(5), Sewe MO(32),
+Martinez-Urtaza J(33), Maslin M(21), McAllister L(34), McGushin A(26), Jankin
+Mikhaylov S(35), Milner J(36), Moradi-Lakeh M(37), Morrissey K(38), Murray K(39),
+Munzert S(35), Nilsson M(7), Neville T(9), Oreszczyn T(23), Owfi F(40), Pearman
+O(41), Pencheon D(42), Phung D(43), Pye S(23), Quinn R(44), Rabbaniha M(40),
+Robinson E(45), Rocklöv J(32), Semenza JC(46), Sherman J(47), Shumake-Guillemot
+J(48), Tabatabaei M(49), Taylor J(15), Trinanes J(50), Wilkinson P(36), Costello 
+A(51), Gong P(8), Montgomery H(52).
+
+Author information: 
+(1)Institute for Global Health, University College London, London, UK. Electronic
+address: nicholas.watts@ucl.ac.uk.
+(2)Air Quality and Greenhouse Gases Programme, International Institute for
+Applied Systems Analysis, Laxenburg, Austria.
+(3)Department of Meteorology, University of Reading, Reading, UK.
+(4)Brighton and Sussex Medical School, University of Sussex, Brighton, UK.
+(5)Centre on Climate Change and Planetary Health, London School of Hygiene &
+Tropical Medicine, London, UK.
+(6)Cooperative Institute for Research in Environmental Sciences and Environmental
+Studies, University of Colorado Boulder, Boulder, CO, USA.
+(7)Department of Epidemiology and Global Health, Umeå University, Umeå, Sweden.
+(8)Department of Earth System Science, Tsinghua University, Beijing, China.
+(9)Department of Public Health and the Environment, WHO, Geneva, Switzerland.
+(10)School of Psychology, Cardiff University, Cardiff, UK.
+(11)Institute for Environmental Sciences, University of Geneva, Geneva,
+Switzerland.
+(12)Institute for Sustainable Resources, University College London, London, UK.
+(13)Department of Environmental Studies, University of New England, Biddeford,
+ME, USA.
+(14)School of Government, University of Birmingham, Birmingham, UK.
+(15)Institute for Environmental Design and Engineering, University College
+London, London, UK.
+(16)Yale Climate Change and Health Initiative, Yale University, New Haven, CT,
+USA.
+(17)Department of Global Health, University of Washington, Washington, DC, USA.
+(18)Department of Civil and Environmental Engineering, Northeastern University,
+Boston, MA, USA.
+(19)Department of Fish and Wildlife Conservation, Virginia Polytechnic Institute 
+and State University, Blacksburg, VA, USA.
+(20)Global Malaria Programme, WHO, Geneva, Switzerland.
+(21)Department of Geography, University College London, London, UK.
+(22)Department of Health Sciences, University of York, York, UK.
+(23)Energy Institute, University College London, London, UK.
+(24)The Integrated Development, Health and Environment Unit, Universidad Peruana 
+Cayetano Heredia, Lima, Peru.
+(25)Centre for Health and the Global Environment, University of Washington,
+Washington, DC, USA.
+(26)Institute for Global Health, University College London, London, UK.
+(27)Health and Environment International Trust, Nelson, New Zealand.
+(28)School of Global Studies, University of Sussex, Brighton, UK.
+(29)Nelson Marlborough Institute of Technology, Nelson, New Zealand.
+(30)Rollins School of Public Health, Emory University, Atlanta, GA, USA.
+(31)Center on Global Energy Policy School of International and Public Affairs,
+Columbia University, New York City, NY, USA.
+(32)Department of Public Health and Clinical Medicine, Umeå University, Umeå,
+Sweden.
+(33)The Centre for Environment, Fisheries and Aquaculture Science, Dorset, UK.
+(34)History and Society Division, Babson College, Wellesley, MA, USA.
+(35)Data Science Lab, Hertie School, Berlin, Germany.
+(36)Department of Public Health, Environments, and Society, London School of
+Hygiene & Tropical Medicine, London, UK.
+(37)Preventive Medicine and Public Health Research Center, Iran University of
+Medical Sciences, Tehran, Iran.
+(38)European Centre for Environment and Human Health, University of Exeter,
+Exeter, UK.
+(39)Faculty of Medicine, School of Public Health, Imperial College London,
+London, UK.
+(40)Iranian Fisheries Science Research Institute, Agricultural Research,
+Education, and Extension Organisation, Tehran, Iran.
+(41)Center for Science and Technology Policy Research, University of Colorado
+Boulder, Boulder, CO, USA.
+(42)Medical School, University of Exeter, Exeter, UK.
+(43)School of Medicine, Griffith University, Brisbane, QLD, Australia.
+(44)School of Biological Sciences, University of Aberdeen, Aberdeen, UK.
+(45)School of Agriculture, Policy, and Development, University of Reading,
+Reading, UK.
+(46)Scientific Assessment Section, European Centre for Disease Prevention and
+Control, Solna, Sweden.
+(47)Department of Anesthesiology, Yale University, New Haven, CT, USA.
+(48)WHO-WMO Joint Climate and Health Office, Geneva, Switzerland.
+(49)Faculty of Plantation and Agrotechnology, Universiti Teknologi MARA, Shah
+Alam, Malaysia.
+(50)Physical Oceanography Division, Atlantic Oceanographic and Meteorological
+Laboratory, National Oceanic and Atmospheric Administration, Miami, FL, USA.
+(51)Office of the Vice Provost for Research, University College London, London,
+UK.
+(52)Institute for Human Health and Performance, University College London,
+London, UK.
+
+Comment in
+    Lancet. 2019 Nov 16;394(10211):1780.
+    Lancet. 2020 Jul 11;396(10244):91-92.
+    Lancet. 2020 Jul 11;396(10244):92.
+
+DOI: 10.1016/S0140-6736(19)32596-6 
+PMID: 31733928  [Indexed for MEDLINE]
+
+
+1. J Vector Borne Dis. 2019 Jan-Mar;56(1):70-77. doi: 10.4103/0972-9062.257779.
+
+Unravelling the trends of research on malaria in India through bibliometric
+analysis.
+
+Singh US(1), Mahanty S(2).
+
+Author information: 
+(1)MSc School of Earth and Environmental Sciences, University of Manchester,
+Manchester, United Kingdom.
+(2)Alliance Manchester Business School, University of Manchester, Manchester,
+United Kingdom.
+
+Background & objectives: With the development of technological know-how, in
+recent years, malaria research in India has advanced to a great extent and the
+corresponding research is being translated into the form of publications, which
+has started to pile in thousands over the years. The purpose of the present study
+was to perform a bibliometric analysis on malaria research in India from its
+inception.
+Methods: The Web of Science (WoS) platform developed by Clarivate Analytics was
+utilized to retrieve publications on malaria research in India. The publications 
+were retrieved in bibtex format and were further used for analysis in "R"
+Bibliometrix package. The analysis included number of publications in each year
+along with their keywords, title, authors, institutes, abstract, journal name and
+countries.
+Results: A total of 2334 publications on malaria in India were obtained from 1909
+to 2019 (March). The emerging trends on themes of malaria research in India were 
+unraveled with the help of keywords co-occurrence network analysis. The
+bibliometric analysis shed light on the evolution of journals and trends on
+choice of journals that the authors made over the years and the contribution of
+different countries in malaria research.
+Interpretation & conclusion: The bibliometric analysis performed over 110 yr not 
+only contributes towards understanding the trends based on research topics, but
+also on the importance of data science. Assuming the fact that the number of
+publications would increase from thousands to lakhs in future; going forward, it 
+has become imperative for the researchers and students to develop methods using
+computer-based algorithms and carry out literature review which allows for
+in-depth study of vast amount of literature.
+
+DOI: 10.4103/0972-9062.257779 
+PMID: 31070170  [Indexed for MEDLINE]
+
+Conflict of interest statement: None
+
+
+1. Front Genet. 2019 Apr 12;10:331. doi: 10.3389/fgene.2019.00331. eCollection 2019.
+
+Expanding Research Capacity in Sub-Saharan Africa Through Informatics,
+Bioinformatics, and Data Science Training Programs in Mali.
+
+Shaffer JG(1), Mather FJ(1), Wele M(2), Li J(1), Tangara CO(2), Kassogue Y(2),
+Srivastav SK(1), Thiero O(2), Diakite M(2), Sangare M(2), Dabitao D(2), Toure
+M(2), Djimde AA(2), Traore S(2), Diakite B(2), Coulibaly MB(2), Liu Y(1), Lacey
+M(3), Lefante JJ(1), Koita O(2), Schieffelin JS(4), Krogstad DJ(1), Doumbia
+SO(2).
+
+Author information: 
+(1)Department of Global Biostatistics and Data Science, Tulane University School 
+of Public Health and Tropical Medicine, New Orleans, LA, United States.
+(2)Faculty of Medicine and Odontostomatology, University of Sciences, Techniques 
+and Technologies of Bamako, Bamako, Mali.
+(3)Department of Mathematics, Tulane University, New Orleans, LA, United States.
+(4)Sections of Pediatric & Adult Infectious Diseases, School of Medicine, Tulane 
+University, New Orleans, LA, United States.
+
+Bioinformatics and data science research have boundless potential across Africa
+due to its high levels of genetic diversity and disproportionate burden of
+infectious diseases, including malaria, tuberculosis, HIV and AIDS, Ebola virus
+disease, and Lassa fever. This work lays out an incremental approach for reaching
+underserved countries in bioinformatics and data science research through a
+progression of capacity building, training, and research efforts. Two global
+health informatics training programs sponsored by the Fogarty International
+Center (FIC) were carried out at the University of Sciences, Techniques and
+Technologies of Bamako, Mali (USTTB) between 1999 and 2011. Together with
+capacity building efforts through the West Africa International Centers of
+Excellence in Malaria Research (ICEMR), this progress laid the groundwork for a
+bioinformatics and data science training program launched at USTTB as part of the
+Human Heredity and Health in Africa (H3Africa) initiative. Prior to the global
+health informatics training, its trainees published first or second authorship
+and third or higher authorship manuscripts at rates of 0.40 and 0.10 per year,
+respectively. Following the training, these rates increased to 0.70 and 1.23 per 
+year, respectively, which was a statistically significant increase (p < 0.001).
+The bioinformatics and data science training program at USTTB commenced in 2017
+focusing on student, faculty, and curriculum tiers of enhancement. The program's 
+sustainable measures included institutional support for core elements, university
+tuition and fees, resource sharing and coordination with local research projects 
+and companion training programs, increased student and faculty publication rates,
+and increased research proposal submissions. Challenges reliance of high-speed
+bandwidth availability on short-term funding, lack of a discounted software
+portal for basic software applications, protracted application processes for
+United States visas, lack of industry job positions, and low publication rates in
+the areas of bioinformatics and data science. Long-term, incremental processes
+are necessary for engaging historically underserved countries in bioinformatics
+and data science research. The multi-tiered enhancement approach laid out here
+provides a platform for generating bioinformatics and data science technicians,
+teachers, researchers, and program managers. Increased literature on
+bioinformatics and data science training approaches and progress is needed to
+provide a framework for establishing benchmarks on the topics.
+
+DOI: 10.3389/fgene.2019.00331 
+PMCID: PMC6473184
+PMID: 31031807 
+
+
+1. Lancet Infect Dis. 2018 Nov;18(11):1251-1259. doi: 10.1016/S1473-3099(18)30423-7.
+Epub 2018 Oct 5.
+
+Single-dose versus 7-day-dose metronidazole for the treatment of trichomoniasis
+in women: an open-label, randomised controlled trial.
+
+Kissinger P(1), Muzny CA(2), Mena LA(3), Lillis RA(4), Schwebke JR(2), Beauchamps
+L(5), Taylor SN(4), Schmidt N(6), Myers L(7), Augostini P(8), Secor WE(8), Bradic
+M(9), Carlton JM(9), Martin DH(10).
+
+Author information: 
+(1)Department of Epidemiology, Tulane University School of Public Health and
+Tropical Medicine, Tulane University, New Orleans, LA, USA. Electronic address:
+kissing@tulane.edu.
+(2)Division of Infectious Diseases, University of Alabama at Birmingham,
+Birmingham, AL, USA.
+(3)Division of Infectious Diseases, University of Mississippi Medical Center,
+University of Mississippi, Jackson, MS, USA; Department of Population Health
+Science, University of Mississippi Medical Center, University of Mississippi,
+Jackson, MS, USA.
+(4)Section of Infectious Diseases, Louisiana State University Health Sciences
+Center, New Orleans, LA, USA.
+(5)Division of Infectious Diseases, University of Mississippi Medical Center,
+University of Mississippi, Jackson, MS, USA.
+(6)Department of Epidemiology, Tulane University School of Public Health and
+Tropical Medicine, Tulane University, New Orleans, LA, USA.
+(7)Department of Global Biostatistics and Data Science, Tulane University School 
+of Public Health and Tropical Medicine, Tulane University, New Orleans, LA, USA.
+(8)Division of Parasitic Diseases and Malaria, Centers for Disease Control and
+Prevention, Atlanta, GA, USA.
+(9)Center for Genomics and Systems Biology, Department of Biology, New York
+University, New York, NY, USA.
+(10)Department of Epidemiology, Tulane University School of Public Health and
+Tropical Medicine, Tulane University, New Orleans, LA, USA; Section of Infectious
+Diseases, Louisiana State University Health Sciences Center, New Orleans, LA,
+USA.
+
+Comment in
+    Lancet Infect Dis. 2018 Nov;18(11):1168-1169.
+    Lancet Infect Dis. 2018 Dec;18(12):1307-1308.
+
+BACKGROUND: Among women, trichomoniasis is the most common non-viral sexually
+transmitted infection worldwide, and is associated with serious reproductive
+morbidity, poor birth outcomes, and amplified HIV transmission. Single-dose
+metronidazole is the first-line treatment for trichomoniasis. However, bacterial 
+vaginosis can alter treatment efficacy in HIV-infected women, and single-dose
+metronidazole treatment might not always clear infection. We compared single-dose
+metronidazole with a 7-day dose for the treatment of trichomoniasis among
+HIV-uninfected, non-pregnant women and tested whether efficacy was modified by
+bacterial vaginosis.
+METHODS: In this multicentre, open-label, randomised controlled trial,
+participants were recruited at three sexual health clinics in the USA. We
+included women positive for Trichomonas vaginalis infection according to clinical
+screening. Participants were randomly assigned (1:1) to receive either a single
+dose of 2 g of metronidazole (single-dose group) or 500 mg of metronidazole twice
+daily for 7 days (7-day-dose group). The randomisation was done by blocks of four
+or six for each site. Patients and investigators were aware of treatment
+assignment. The primary outcome was T vaginalis infection by intention to treat, 
+at test-of-cure 4 weeks after completion of treatment. The analysis of the
+primary outcome per nucleic acid amplification test or culture was also
+stratified by bacterial vaginosis status. This trial is registered with
+ClinicalTrials.gov, number NCT01018095, and with the US Food and Drug
+Administration, number IND118276, and is closed to accrual.
+FINDINGS: Participants were recruited from Oct 6, 2014, to April 26, 2017. Of the
+1028 patients assessed for eligibility, 623 women were randomly assigned to
+treatment groups (311 women in the single-dose group and 312 women in the
+7-day-dose group; intention-to-treat population). Although planned enrolment had 
+been 1664 women, the study was stopped early because of funding limitations.
+Patients in the 7-day-dose group were less likely to be T vaginalis positive at
+test-of-cure than those in the single-dose group (34 [11%] of 312 vs 58 [19%] of 
+311, relative risk 0·55, 95% CI 0·34-0·70; p<0·0001). Bacterial vaginosis status 
+had no significant effect on relative risk (p=0·17). Self-reported adherence was 
+96% in the 7-day-dose group and 99% in the single-dose group. Side-effects were
+similar by group; the most common side-effect was nausea (124 [23%]), followed by
+headache (38 [7%]) and vomiting (19 [4%]).
+INTERPRETATION: The 7-day-dose metronidazole should be the preferred treatment
+for trichomoniasis among women.
+FUNDING: National Institutes of Health.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1473-3099(18)30423-7 
+PMCID: PMC6279510
+PMID: 30297322  [Indexed for MEDLINE]
+
+
+1. PLoS Biol. 2018 Sep 13;16(9):e2005895. doi: 10.1371/journal.pbio.2005895.
+eCollection 2018 Sep.
+
+Integrative proteomics and bioinformatic prediction enable a high-confidence
+apicoplast proteome in malaria parasites.
+
+Boucher MJ(1)(2), Ghosh S(2), Zhang L(3), Lal A(4), Jang SW(5), Ju A(6), Zhang
+S(6), Wang X(6), Ralph SA(7), Zou J(8)(9), Elias JE(3), Yeh E(1)(2)(4)(9).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Stanford University School of
+Medicine, Stanford, California, United States of America.
+(2)Department of Biochemistry, Stanford University School of Medicine, Stanford, 
+California, United States of America.
+(3)Department of Chemical and Systems Biology, Stanford University School of
+Medicine, Stanford, California, United States of America.
+(4)Department of Pathology, Stanford University School of Medicine, Stanford,
+California, United States of America.
+(5)Department of Computer Science, Stanford University, Stanford, California,
+United States of America.
+(6)Department of Bioengineering, Stanford University, Stanford, California,
+United States of America.
+(7)Department of Biochemistry and Molecular Biology, Bio21 Molecular Science and 
+Biotechnology Institute, University of Melbourne, Parkville, Vic, Australia.
+(8)Department of Biomedical Data Science, Stanford University School of Medicine,
+Stanford, California, United States of America.
+(9)Chan Zuckerberg Biohub, San Francisco, California, United States of America.
+
+Malaria parasites (Plasmodium spp.) and related apicomplexan pathogens contain a 
+nonphotosynthetic plastid called the apicoplast. Derived from an unusual
+secondary eukaryote-eukaryote endosymbiosis, the apicoplast is a fascinating
+organelle whose function and biogenesis rely on a complex amalgamation of
+bacterial and algal pathways. Because these pathways are distinct from the human 
+host, the apicoplast is an excellent source of novel antimalarial targets.
+Despite its biomedical importance and evolutionary significance, the absence of a
+reliable apicoplast proteome has limited most studies to the handful of pathways 
+identified by homology to bacteria or primary chloroplasts, precluding our
+ability to study the most novel apicoplast pathways. Here, we combine proximity
+biotinylation-based proteomics (BioID) and a new machine learning algorithm to
+generate a high-confidence apicoplast proteome consisting of 346 proteins.
+Critically, the high accuracy of this proteome significantly outperforms previous
+prediction-based methods and extends beyond other BioID studies of unique
+parasite compartments. Half of identified proteins have unknown function, and 77%
+are predicted to be important for normal blood-stage growth. We validate the
+apicoplast localization of a subset of novel proteins and show that an
+ATP-binding cassette protein ABCF1 is essential for blood-stage survival and
+plays a previously unknown role in apicoplast biogenesis. These findings indicate
+critical organellar functions for newly discovered apicoplast proteins. The
+apicoplast proteome will be an important resource for elucidating unique pathways
+derived from secondary endosymbiosis and prioritizing antimalarial drug targets.
+
+DOI: 10.1371/journal.pbio.2005895 
+PMCID: PMC6155542
+PMID: 30212465  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+1. Emerg Infect Dis. 2018 Jul;24(7):1188-1194. doi: 10.3201/eid2407.171928.
+
+Integrated Serologic Surveillance of Population Immunity and Disease
+Transmission.
+
+Arnold BF, Scobie HM, Priest JW, Lammie PJ.
+
+Antibodies are unique among biomarkers in their ability to identify persons with 
+protective immunity to vaccine-preventable diseases and to measure past exposure 
+to diverse pathogens. Most infectious disease surveillance maintains a
+single-disease focus, but broader testing of existing serologic surveys with
+multiplex antibody assays would create new opportunities for integrated
+surveillance. In this perspective, we highlight multiple areas for potential
+synergy where integrated surveillance could add more value to public health
+efforts than the current trend of independent disease monitoring through vertical
+programs. We describe innovations in laboratory and data science that should
+accelerate integration and identify remaining challenges with respect to specimen
+collection, testing, and analysis. Throughout, we illustrate how information
+generated through integrated surveillance platforms can create new opportunities 
+to more quickly and precisely identify global health program gaps that range from
+undervaccination to emerging pathogens to multilayered health disparities that
+span diverse communicable diseases.
+
+DOI: 10.3201/eid2407.171928 
+PMCID: PMC6038749
+PMID: 29912680  [Indexed for MEDLINE]
+
+
+1. Int J Biostat. 2018 Jun 7;15(2). doi: 10.1515/ijb-2017-0061.
+
+Unfolding the Genome: The Case Study of P. falciparum.
+
+Varoquaux N(1)(2).
+
+Author information: 
+(1)Statistics, University of California, Berkeley, 367 Evans Hall, Berkeley,
+California, USA.
+(2)Berkeley Institute for Data Science, 190, Doe libraryBerkeley, United States
+of America.
+
+The development of new ways to probe samples for the three-dimensional (3D)
+structure of DNA paves the way for in depth and systematic analyses of the genome
+architecture. 3C-like methods coupled with high-throughput sequencing can now
+assess physical interactions between pairs of loci in a genome-wide fashion, thus
+enabling the creation of genome-by-genome contact maps. The spreading of such
+protocols creates many new opportunities for methodological development: how can 
+we infer 3D models from these contact maps? Can such models help us gain insights
+into biological processes? Several recent studies applied such protocols to P.
+falciparum (the deadliest of the five human malaria parasites), assessing its
+genome organization at different moments of its life cycle. With its small
+genomic size, fairly simple (yet changing) genomic organization during its
+lifecyle and strong correlation between chromatin folding and gene expression,
+this parasite is the ideal case study for applying and developing methods to
+infer 3D models and use them for downstream analysis. Here, I review a set of
+methods used to build and analyse three-dimensional models from contact maps data
+with a special highlight on P. falciparum's genome organization.
+
+DOI: 10.1515/ijb-2017-0061 
+PMID: 29878883 
+
+
+1. JAMA. 2018 Jun 5;319(21):2202-2211. doi: 10.1001/jama.2018.6229.
+
+Association of the Quick Sequential (Sepsis-Related) Organ Failure Assessment
+(qSOFA) Score With Excess Hospital Mortality in Adults With Suspected Infection
+in Low- and Middle-Income Countries.
+
+Rudd KE(1), Seymour CW(2), Aluisio AR(3), Augustin ME(4), Bagenda DS(5), Beane
+A(6)(7), Byiringiro JC(8), Chang CH(9), Colas LN(4), Day NPJ(6)(10), De Silva
+AP(11)(12), Dondorp AM(6)(10), Dünser MW(13), Faiz MA(6)(14), Grant DS(15)(16),
+Haniffa R(11), Van Hao N(17)(18), Kennedy JN(2), Levine AC(3), Limmathurotsakul
+D(6)(10), Mohanty S(19)(20), Nosten F(10)(21), Papali A(22)(23), Patterson AJ(5),
+Schieffelin JS(24), Shaffer JG(25), Thuy DB(17)(26), Thwaites CL(10)(26),
+Urayeneza O(27), White NJ(6)(10), West TE(1), Angus DC(2); Sepsis Assessment and 
+Identification in Low Resource Settings (SAILORS) Collaboration.
+
+Author information: 
+(1)Department of Medicine and the International Respiratory and Severe Illness
+Center (INTERSECT), University of Washington, Seattle.
+(2)Clinical Research, Investigation, and Systems Modeling of Acute Illness
+(CRISMA) Center, Department of Critical Care Medicine, University of Pittsburgh
+School of Medicine, Pittsburgh, Pennsylvania.
+(3)Department of Emergency Medicine, Warren Alpert Medical School of Brown
+University, Providence, Rhode Island.
+(4)Saint Luke Foundation, Port-au-Prince, Haiti.
+(5)Department of Anesthesiology, University of Nebraska Medical Center, Omaha.
+(6)Mahidol Oxford Tropical Medicine Research Unit, Faculty of Tropical Medicine, 
+Mahidol University, Bangkok, Thailand.
+(7)Academic Medical Centre, University of Amsterdam, Amsterdam, the Netherlands.
+(8)Division of Clinical Education and Research, University Teaching Hospital of
+Kigali, College of Medicine and Health Sciences, University of Rwanda, Kigali,
+Rwanda.
+(9)Departments of Medicine and Biostatistics, University of Pittsburgh,
+Pittsburgh, Pennsylvania.
+(10)Oxford Centre for Tropical Medicine and Global Health, Nuffield Department of
+Clinical Medicine, Oxford, United Kingdom.
+(11)National Intensive Care Surveillance, Colombo, Sri Lanka.
+(12)Intensive Care National Audit & Research Centre, London, United Kingdom.
+(13)Department of Anesthesiology and Intensive Care Medicine, Kepler University
+Hospital, Johannes Kepler University Linz, Linz, Austria.
+(14)Dev Care Foundation, Dhaka, Bangladesh.
+(15)Kenema Government Hospital, Ministry of Health and Sanitation, Kenema, Sierra
+Leone.
+(16)College of Medicine and Allied Health Sciences, University of Sierra Leone,
+Freetown, Sierra Leone.
+(17)Adult Intensive Care Unit, Hospital for Tropical Diseases, Ho Chi Minh City, 
+Vietnam.
+(18)Department of Infectious Diseases, University of Medicine and Pharmacy, Ho
+Chi Minh City, Vietnam.
+(19)Ispat General Hospital, Rourkela, Odisha, India.
+(20)Center for Emerging Infectious Diseases, Asian Institute of Public Health,
+Bhubaneswar, Odisha, India.
+(21)Shoklo Malaria Research Unit, Mahidol-Oxford Tropical Medicine Research Unit,
+Faculty of Tropical Medicine, Mahidol University, Mae Sot, Thailand.
+(22)Division of Pulmonary & Critical Care Medicine and Institute for Global
+Health, University of Maryland School of Medicine, Baltimore.
+(23)Division of Pulmonary & Critical Care Medicine, Atrium Health, Charlotte,
+North Carolina.
+(24)Department of Pediatrics, Tulane University School of Medicine, New Orleans, 
+Louisiana.
+(25)Department of Global Biostatistics and Data Science, Tulane University, New
+Orleans, Louisiana.
+(26)Oxford University Clinical Research Unit (OUCRU), Hospital for Tropical
+Diseases, Ho Chi Minh City, Vietnam.
+(27)University of Gitwe, Gitwe, Rwanda.
+
+Comment in
+    JAMA. 2018 Jun 5;319(21):2175-2177.
+    JAMA. 2018 Nov 20;320(19):2038-2039.
+
+Importance: The quick Sequential (Sepsis-Related) Organ Failure Assessment
+(qSOFA) score has not been well-evaluated in low- and middle-income countries
+(LMICs).
+Objective: To assess the association of qSOFA with excess hospital death among
+patients with suspected infection in LMICs and to compare qSOFA with the systemic
+inflammatory response syndrome (SIRS) criteria.
+Design, Settings, and Participants: Retrospective secondary analysis of 8 cohort 
+studies and 1 randomized clinical trial from 2003 to 2017. This study included
+6569 hospitalized adults with suspected infection in emergency departments,
+inpatient wards, and intensive care units of 17 hospitals in 10 LMICs across
+sub-Saharan Africa, Asia, and the Americas.
+Exposures: Low (0), moderate (1), or high (≥2) qSOFA score (range, 0 [best] to 3 
+[worst]) or SIRS criteria (range, 0 [best] to 4 [worst]) within 24 hours of
+presentation to study hospital.
+Main Outcomes and Measures: Predictive validity (measured as incremental hospital
+mortality beyond that predicted by baseline risk factors, as a marker of sepsis
+or analogous severe infectious course) of the qSOFA score (primary) and SIRS
+criteria (secondary).
+Results: The cohorts were diverse in enrollment criteria, demographics (median
+ages, 29-54 years; males range, 36%-76%), HIV prevalence (range, 2%-43%), cause
+of infection, and hospital mortality (range, 1%-39%). Among 6218 patients with
+nonmissing outcome status in the combined cohort, 643 (10%) died. Compared with a
+low or moderate score, a high qSOFA score was associated with increased risk of
+death overall (19% vs 6%; difference, 13% [95% CI, 11%-14%]; odds ratio, 3.6 [95%
+CI, 3.0-4.2]) and across cohorts (P < .05 for 8 of 9 cohorts). Compared with a
+low qSOFA score, a moderate qSOFA score was also associated with increased risk
+of death overall (8% vs 3%; difference, 5% [95% CI, 4%-6%]; odds ratio, 2.8 [95% 
+CI, 2.0-3.9]), but not in every cohort (P < .05 in 2 of 7 cohorts). High, vs low 
+or moderate, SIRS criteria were associated with a smaller increase in risk of
+death overall (13% vs 8%; difference, 5% [95% CI, 3%-6%]; odds ratio, 1.7 [95%
+CI, 1.4-2.0]) and across cohorts (P < .05 for 4 of 9 cohorts). qSOFA
+discrimination (area under the receiver operating characteristic curve [AUROC],
+0.70 [95% CI, 0.68-0.72]) was superior to that of both the baseline model (AUROC,
+0.56 [95% CI, 0.53-0.58; P < .001) and SIRS (AUROC, 0.59 [95% CI, 0.57-0.62];
+P < .001).
+Conclusions and Relevance: When assessed among hospitalized adults with suspected
+infection in 9 LMIC cohorts, the qSOFA score identified infected patients at risk
+of death beyond that explained by baseline factors. However, the predictive
+validity varied among cohorts and settings, and further research is needed to
+better understand potential generalizability.
+
+DOI: 10.1001/jama.2018.6229 
+PMCID: PMC6134436
+PMID: 29800114  [Indexed for MEDLINE]
+
+
+1. Nat Commun. 2018 May 15;9(1):1910. doi: 10.1038/s41467-018-04295-5.
+
+Changes in genome organization of parasite-specific gene families during the
+Plasmodium transmission stages.
+
+Bunnik EM(1)(2), Cook KB(3), Varoquaux N(4)(5)(6)(7)(8), Batugedara G(2),
+Prudhomme J(2), Cort A(2), Shi L(9), Andolina C(10)(11), Ross LS(12), Brady
+D(13), Fidock DA(12)(14), Nosten F(10)(11), Tewari R(13), Sinnis P(9), Ay F(15), 
+Vert JP(6)(7)(8)(16), Noble WS(17)(18), Le Roch KG(19).
+
+Author information: 
+(1)Department of Microbiology, Immunology & Molecular Genetics, The University of
+Texas Health Science Center at San Antonio, 7703 Floyd Curl Drive, San Antonio,
+TX, 78229, USA.
+(2)Department of Molecular, Cell and Systems Biology, University of California
+Riverside, 900 University Ave, Riverside, CA, 92521, USA.
+(3)Department of Genome Sciences, University of Washington, 3720 15th Ave NE,
+Seattle, WA, 98195, USA.
+(4)Department of Statistics, University of California, 367 Evans Hall, Berkeley, 
+CA, 94720, USA.
+(5)Berkeley Institute for Data Science, 190 Doe Library, Berkeley, CA, 94720,
+USA.
+(6)MINES ParisTech, PSL Research University, CBIO-Centre for Computational
+Biology, 60 boulevard Saint-Michel, 75006, Paris, France.
+(7)Institut Curie, 75248, Paris, France.
+(8)U900, INSERM, Paris, 75248, France.
+(9)Department of Molecular Microbiology and Immunology, Johns Hopkins Bloomberg
+School of Public Health, 615N. Wolfe Street, E5132, Baltimore, MD, 21205, USA.
+(10)Centre for Tropical Medicine and Global Health, Nuffield Department of
+Medicine Research building, University of Oxford, Old Road campus, Roosevelt
+Drive, Headington, Oxford, OX3 7FZ, UK.
+(11)Shoklo Malaria Research Unit, Mahidol-Oxford Tropical Medicine Research Unit,
+Faculty of Tropical Medicine, Mahidol University, Mae Sot, Tak, 63110, Thailand.
+(12)Department of Microbiology and Immunology, Columbia University Medical
+Center, 701W. 168 St., HHSC 1208, New York, NY, 10032, USA.
+(13)School of Life Sciences, Queens Medical Centre, University of Nottingham,
+Nottingham, NG7 2UH, UK.
+(14)Division of Infectious Diseases, Department of Medicine, Columbia University,
+New York, NY, 10032, USA.
+(15)La Jolla Institute for Allergy & Immunology, 9420 Athena Cir, La Jolla, CA,
+92037, USA.
+(16)Département de mathématiques et applications, École normale supérieure, CNRS,
+PSL Research University, Paris, 75005, France.
+(17)Department of Genome Sciences, University of Washington, 3720 15th Ave NE,
+Seattle, WA, 98195, USA. william-noble@uw.edu.
+(18)Department of Computer Science and Engineering, University of Washington,
+Seattle, WA, 98195, USA. william-noble@uw.edu.
+(19)Department of Molecular, Cell and Systems Biology, University of California
+Riverside, 900 University Ave, Riverside, CA, 92521, USA. karine.leroch@ucr.edu.
+
+The development of malaria parasites throughout their various life cycle stages
+is coordinated by changes in gene expression. We previously showed that the
+three-dimensional organization of the Plasmodium falciparum genome is strongly
+associated with gene expression during its replication cycle inside red blood
+cells. Here, we analyze genome organization in the P. falciparum and P. vivax
+transmission stages. Major changes occur in the localization and interactions of 
+genes involved in pathogenesis and immune evasion, host cell invasion, sexual
+differentiation, and master regulation of gene expression. Furthermore, we
+observe reorganization of subtelomeric heterochromatin around genes involved in
+host cell remodeling. Depletion of heterochromatin protein 1 (PfHP1) resulted in 
+loss of interactions between virulence genes, confirming that PfHP1 is essential 
+for maintenance of the repressive center. Our results suggest that the
+three-dimensional genome structure of human malaria parasites is strongly
+connected with transcriptional activity of specific gene families throughout the 
+life cycle.
+
+DOI: 10.1038/s41467-018-04295-5 
+PMCID: PMC5954139
+PMID: 29765020  [Indexed for MEDLINE]
+
+
+1. Eur J Med Chem. 2018 Feb 25;146:651-667. doi: 10.1016/j.ejmech.2018.01.062. Epub 
+2018 Jan 31.
+
+Machine learning prioritizes synthesis of primaquine ureidoamides with high
+antimalarial activity and attenuated cytotoxicity.
+
+Levatić J(1), Pavić K(2), Perković I(2), Uzelac L(3), Ester K(3), Kralj M(3),
+Kaiser M(4), Rottmann M(4), Supek F(5), Zorc B(6).
+
+Author information: 
+(1)Genome Data Science, Institute for Research in Biomedicine (IRB Barcelona),
+The Barcelona Institute of Science and Technology (BIST), Baldiri Reixac 10,
+08028, Barcelona, Spain; Department of Knowledge Technologies, Jožef Stefan
+Institute, Jamova cesta 39, SI-1000, Ljubljana, Slovenia.
+(2)Faculty of Pharmacy and Biochemistry, University of Zagreb, A. Kovačića 1,
+HR-10 000 Zagreb, Croatia.
+(3)Laboratory of Experimental Therapy, Division of Molecular Medicine, Rudjer
+Bošković Institute, Bijenička cesta 54, HR-10 000 Zagreb, Croatia.
+(4)Parasite Chemotherapy, Medical Parasitology & Infection Biology, Swiss
+Tropical and Public Health Institute, 4051 Basel, Switzerland.
+(5)Genome Data Science, Institute for Research in Biomedicine (IRB Barcelona),
+The Barcelona Institute of Science and Technology (BIST), Baldiri Reixac 10,
+08028, Barcelona, Spain. Electronic address: fran.supek@irbbarcelona.org.
+(6)Faculty of Pharmacy and Biochemistry, University of Zagreb, A. Kovačića 1,
+HR-10 000 Zagreb, Croatia. Electronic address: bzorc@pharma.hr.
+
+Primaquine (PQ) is a commonly used drug that can prevent the transmission of
+Plasmodium falciparum malaria, however toxicity limits its use. We prepared five 
+groups of PQ derivatives: amides 1a-k, ureas 2a-k, semicarbazides 3a,b,
+acylsemicarbazides 4a-k and bis-ureas 5a-v, and evaluated them for antimalarial
+activity in vitro against the erythrocytic stage of P. falciparum NF54.
+Particular substituents, such as trityl (in 2j and 5r) and methoxybenzhydryl (in 
+3b and 5v) were associated with a favorable cytotoxicity-to-activity ratio. To
+systematically link structural features of PQ derivatives to antiplasmodial
+activity, we performed a quantitative structure-activity relationship (QSAR)
+study using the Support Vector Machines machine learning method. This yielded a
+highly accurate statistical model (R2 = 0.776 in cross-validation), which was
+used to prioritize novel candidate compounds. Seven novel PQ-ureidoamides 10a-g
+were synthesized and evaluated for activity, highlighting the benzhydryl
+ureidoamides 10e and 10f derived from p-chlorophenylglycine. Further experiments 
+on human cell lines revealed that 10e and 10f are an order of magnitude less
+toxic than PQ in vitro while having antimalarial activity indistinguishable from 
+PQ. The toxicity profile of novel compounds 10 toward human cells was
+particularly favorable when the glucose-6-phosphate dehydrogenase (G6PD) was
+inhibited, while toxicity of PQ was exacerbated by G6PD inhibition. Our work
+therefore highlights promising lead compounds for the development of effective
+antimalarial drugs that may also be safer for G6PD-deficient patients. In
+addition, we provide computational inferences of antimalarial activity and
+cytotoxicity for thousands of PQ-like molecular structures.
+
+Copyright © 2018 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.ejmech.2018.01.062 
+PMID: 29407988  [Indexed for MEDLINE]
+
+
+1. Lancet Infect Dis. 2017 Dec;17(12):1266-1275. doi: 10.1016/S1473-3099(17)30365-1.
+Epub 2017 Sep 12.
+
+AQ-13, an investigational antimalarial, versus artemether plus lumefantrine for
+the treatment of uncomplicated Plasmodium falciparum malaria: a randomised, phase
+2, non-inferiority clinical trial.
+
+Koita OA(1), Sangaré L(1), Miller HD(2), Sissako A(1), Coulibaly M(1), Thompson
+TA(2), Fongoro S(1), Diarra Y(1), Ba M(1), Maiga A(1), Diallo B(1), Mushatt
+DM(3), Mather FJ(4), Shaffer JG(4), Anwar AH(3), Krogstad DJ(5).
+
+Author information: 
+(1)University of the Sciences, Techniques and Technologies of Bamako, Bamako,
+Mali.
+(2)Department of Tropical Medicine and the Center for Infectious Diseases, Tulane
+University Health Sciences Center, New Orleans, LA, USA.
+(3)Department of Medicine, Tulane University Health Sciences Center, New Orleans,
+LA, USA.
+(4)Department of Global Biostatistics and Data Science, Tulane University Health 
+Sciences Center, New Orleans, LA, USA.
+(5)Department of Medicine, Tulane University Health Sciences Center, New Orleans,
+LA, USA; Department of Tropical Medicine and the Center for Infectious Diseases, 
+Tulane University Health Sciences Center, New Orleans, LA, USA. Electronic
+address: donkrogstad@gmail.com.
+
+Comment in
+    Lancet Infect Dis. 2017 Dec;17(12):1223-1224.
+
+BACKGROUND: Chloroquine was used for malaria treatment until resistant Plasmodium
+falciparum was identified. Because 4-aminoquinolines with modified side chains,
+such as AQ-13, are active against resistant parasites, we compared AQ-13 against 
+artemether plus lumefantrine for treatment of uncomplicated P falciparum malaria.
+METHODS: We did a randomised, non-inferiority trial. We screened men (≥18 years) 
+with uncomplicated malaria in Missira (northeast Mali) and Bamako (capital of
+Mali) for eligibility (≥2000 asexual P falciparum parasites per μL of blood).
+Eligible participants were randomly assigned to either the artemether plus
+lumefantrine group or AQ-13 group by permuting blocks of four with a random
+number generator. Physicians and others caring for the participants were masked, 
+except for participants who received treatment and the research pharmacist who
+implemented the randomisation and provided treatment. Participants received
+either 80 mg of oral artemether and 480 mg of oral lumefantrine twice daily for 3
+days or 638·50 mg of AQ-13 base (two oral capsules) on days 1 and 2, and 319·25
+mg base (one oral capsule) on day 3. Participants were monitored for parasite
+clearance (50 μL blood samples twice daily at 12 h intervals until two
+consecutive negative samples were obtained) and interviewed for adverse events
+(once every day) as inpatients during week 1. During the 5-week outpatient
+follow-up, participants were examined for adverse events and recurrent infection 
+twice per week. All participants were included in the intention-to-treat analysis
+and per-protocol analysis, except for those who dropped out in the per-protocol
+analysis. The composite primary outcome was clearance of asexual parasites and
+fever by day 7, and absence of recrudescent infection by parasites with the same 
+molecular markers from days 8 to 42 (defined as cure). Non-inferiority was
+considered established if the proportion of patients who were cured was higher
+for artemether plus lumefantrine than for AQ-13 and the upper limit of the 95% CI
+was less than the non-inferiority margin of 15%. This trial is registered at
+ClinicalTrials.gov, number NCT01614964.
+FINDINGS: Between Aug 6 and Nov 18, 2013, and between Sept 18 and Nov 20, 2015,
+66 Malian men with uncomplicated malaria were enrolled. 33 participants were
+randomly assigned to each group. There were no serious adverse events (grade 2-4)
+and asexual parasites were cleared by day 7 in both groups. 453 less-severe
+adverse events (≤grade 1) were reported: 214 in the combination group and 239 in 
+the AQ-13 group. Two participants withdrew from the AQ-13 group after parasite
+clearance and three were lost to follow-up. In the artemether plus lumefantrine
+group, two participants had late treatment failures (same markers as original
+isolates). On the basis of the per-protocol analysis, the AQ-13 and artemether
+plus lumefantrine groups had similar proportions cured (28 [100%] of 28 vs 31
+[93·9%] of 33; p=0·50) and AQ-13 was not inferior to artemether plus lumefantrine
+(difference -6·1%, 95% CI -14·7 to 2·4). Proportions cured were also similar
+between the groups in the intention-to-treat analysis (28 of 33, 84·8% for AQ-13 
+vs 31 of 33, 93·9% for artemether and lumefantrine; p=0·43) but the upper bound
+of the 95% CI exceeded the 15% non-inferiority margin (difference 9·1%, 95% CI
+-5·6 to 23·8).
+INTERPRETATION: The per-protocol analysis suggested non-inferiority of AQ-13 to
+artemether plus lumefantrine. By contrast, the intention-to-treat analysis, which
+included two participants who withdrew and three who were lost to follow-up from 
+the AQ-13 group, did not meet the criterion for non-inferiority of AQ-13,
+although there were no AQ-13 treatment failures. Studies with more participants
+(and non-immune participants) are needed to decide whether widespread use of
+modified 4-aminoquinolones should be recommended.
+FUNDING: US Food and Drug Administration Orphan Product Development, National
+Institutes of Health, US Centers for Disease Control and Prevention,
+Burroughs-Wellcome Fund, US State Department, and WHO.
+
+Copyright © 2017 The Author(s). Published by Elsevier Ltd. This is an Open Access
+article under the CC BY-NC-ND 4.0 license. Published by Elsevier Ltd.. All rights
+reserved.
+
+DOI: 10.1016/S1473-3099(17)30365-1 
+PMCID: PMC5700806
+PMID: 28916443  [Indexed for MEDLINE]
+

@@ -1,0 +1,141 @@
+
+1. Artif Intell Med. 2018 Jan;84:127-138. doi: 10.1016/j.artmed.2017.12.002. Epub
+2017 Dec 11.
+
+Spatiotemporal Bayesian networks for malaria prediction.
+
+Haddawy P(1), Hasan AHMI(2), Kasantikul R(2), Lawpoolsri S(3), Sa-Angchai P(3),
+Kaewkungwal J(3), Singhasivanon P(3).
+
+Author information: 
+(1)Faculty of ICT, Mahidol University, 999 Phuttamonthon 4 Rd, Salaya,
+Nakhonpathom 73170 Thailand. Electronic address: peter.had@mahidol.ac.th.
+(2)Faculty of ICT, Mahidol University, 999 Phuttamonthon 4 Rd, Salaya,
+Nakhonpathom 73170 Thailand.
+(3)Faculty of Tropical Medicine, Mahidol University, 420/6 Ratchawithi Rd,
+Bangkok 10400 Thailand.
+
+Targeted intervention and resource allocation are essential for effective malaria
+control, particularly in remote areas, with predictive models providing important
+information for decision making. While a diversity of modeling technique have
+been used to create predictive models of malaria, no work has made use of
+Bayesian networks. Bayes nets are attractive due to their ability to represent
+uncertainty, model time lagged and nonlinear relations, and provide explanations.
+This paper explores the use of Bayesian networks to model malaria, demonstrating 
+the approach by creating village level models with weekly temporal resolution for
+Tha Song Yang district in northern Thailand. The networks are learned using data 
+on cases and environmental covariates. Three types of networks are explored:
+networks for numeric prediction, networks for outbreak prediction, and networks
+that incorporate spatial autocorrelation. Evaluation of the numeric prediction
+network shows that the Bayes net has prediction accuracy in terms of mean
+absolute error of about 1.4 cases for 1 week prediction and 1.7 cases for 6 week 
+prediction. The network for outbreak prediction has an ROC AUC above 0.9 for all 
+prediction horizons. Comparison of prediction accuracy of both Bayes nets against
+several traditional modeling approaches shows the Bayes nets to outperform the
+other models for longer time horizon prediction of high incidence transmission.
+To model spread of malaria over space, we elaborate the models with links between
+the village networks. This results in some very large models which would be far
+too laborious to build by hand. So we represent the models as collections of
+probability logic rules and automatically generate the networks. Evaluation of
+the models shows that the autocorrelation links significantly improve prediction 
+accuracy for some villages in regions of high incidence. We conclude that
+spatiotemporal Bayesian networks are a highly promising modeling alternative for 
+prediction of malaria and other vector-borne diseases.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.artmed.2017.12.002 
+PMID: 29241658  [Indexed for MEDLINE]
+
+
+1. Stud Health Technol Inform. 2016;228:773-7.
+
+Spatiotemporal Bayesian Networks for Malaria Prediction: Case Study of Northern
+Thailand.
+
+Haddawy P(1), Kasantikul R(1), Hasan AH(1), Rattanabumrung C(1), Rungrun P(1),
+Suksopee N(1), Tantiwaranpant S(1), Niruntasuk N(1).
+
+Author information: 
+(1)Faculty of Information and Communication Technology, Mahidol University.
+
+While a diversity of modeling technique have been used to create predictive
+models of malaria, no work has made use of Bayesian networks. Bayes nets are
+attractive due to their ability to represent uncertainty, model time lagged and
+nonlinear relations, and provide explanations of inferences. This paper explores 
+the use of Bayesian networks to model malaria, demonstrating the approach by
+creating a village level model with weekly temporal resolution for Tha Song Yang 
+district in northern Thailand. The network is learned using data on cases and
+environmental covariates. The network models incidence over time as well as
+evolution of the environmental variables, and captures time lagged and nonlinear 
+effects. Out of sample evaluation shows the model to have high accuracy for one
+and two week predictions.
+
+
+PMID: 27577491  [Indexed for MEDLINE]
+
+
+1. BMC Syst Biol. 2015 Aug 28;9:49. doi: 10.1186/s12918-015-0194-7.
+
+A tree-like Bayesian structure learning algorithm for small-sample datasets from 
+complex biological model systems.
+
+Yin W(1)(2), Garimalla S(3), Moreno A(4), Galinski MR(5), Styczynski MP(6).
+
+Author information: 
+(1)Key Laboratory for Biomedical Engineering of Education Ministry, Department of
+Biomedical Engineering, Zhejiang University, Hangzhou, P. R. China.
+wwyin@mail.zju.edu.cn.
+(2)School of Chemical & Biomolecular Engineering, Georgia Institute of
+Technology, 311 Ferst Drive NW, Atlanta, GA, 30332-0100, USA.
+wwyin@mail.zju.edu.cn.
+(3)School of Biology, Georgia Institute of Technology, Atlanta, GA, USA.
+swetha.garimalla@gatech.edu.
+(4)Division of Infectious Diseases, Emory Vaccine Center, Yerkes National Primate
+Research Center, Emory University School of Medicine, Emory University, Atlanta, 
+GA, USA. camoren@emory.edu.
+(5)Division of Infectious Diseases, Emory Vaccine Center, Yerkes National Primate
+Research Center, Emory University School of Medicine, Emory University, Atlanta, 
+GA, USA. Mary.Galinski@emory.edu.
+(6)School of Chemical & Biomolecular Engineering, Georgia Institute of
+Technology, 311 Ferst Drive NW, Atlanta, GA, 30332-0100, USA.
+Mark.Styczynski@chbe.gatech.edu.
+
+BACKGROUND: There are increasing efforts to bring high-throughput systems biology
+techniques to bear on complex animal model systems, often with a goal of learning
+about underlying regulatory network structures (e.g., gene regulatory networks). 
+However, complex animal model systems typically have significant limitations on
+cohort sizes, number of samples, and the ability to perform follow-up and
+validation experiments. These constraints are particularly problematic for many
+current network learning approaches, which require large numbers of samples and
+may predict many more regulatory relationships than actually exist.
+RESULTS: Here, we test the idea that by leveraging the accuracy and efficiency of
+classifiers, we can construct high-quality networks that capture important
+interactions between variables in datasets with few samples. We start from a
+previously-developed tree-like Bayesian classifier and generalize its network
+learning approach to allow for arbitrary depth and complexity of tree-like
+networks. Using four diverse sample networks, we demonstrate that this approach
+performs consistently better at low sample sizes than the Sparse Candidate
+Algorithm, a representative approach for comparison because it is known to
+generate Bayesian networks with high positive predictive value. We develop and
+demonstrate a resampling-based approach to enable the identification of a viable 
+root for the learned tree-like network, important for cases where the root of a
+network is not known a priori. We also develop and demonstrate an integrated
+resampling-based approach to the reduction of variable space for the learning of 
+the network. Finally, we demonstrate the utility of this approach via the
+analysis of a transcriptional dataset of a malaria challenge in a non-human
+primate model system, Macaca mulatta, suggesting the potential to capture
+indicators of the earliest stages of cellular differentiation during
+leukopoiesis.
+CONCLUSIONS: We demonstrate that by starting from effective and efficient
+approaches for creating classifiers, we can identify interesting tree-like
+network structures with significant ability to capture the relationships in the
+training data. This approach represents a promising strategy for inferring
+networks with high positive predictive value under the constraint of small
+numbers of samples, meeting a need that will only continue to grow as more
+high-throughput studies are applied to complex model systems.
+
+DOI: 10.1186/s12918-015-0194-7 
+PMCID: PMC4551520
+PMID: 26310492  [Indexed for MEDLINE]
+
