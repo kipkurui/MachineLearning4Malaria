@@ -1,0 +1,10 @@
+disease,year_bin,n_total,missing_pct_of_total,n_classified_africa_or_gn,africa_n,Africa_pct_of_classified,Africa_pct_95ci_lo,Africa_pct_95ci_hi
+hiv,pre-2020,140,25.7,74,11,14.9,8.5,24.7
+hiv,2020-2022,238,21.4,115,13,11.3,6.7,18.4
+hiv,2023+,942,21.8,443,116,26.2,22.3,30.5
+malaria,pre-2020,104,26.0,36,7,19.4,9.8,35.0
+malaria,2020-2022,352,17.9,102,26,25.5,18.0,34.7
+malaria,2023+,1212,18.3,399,188,47.1,42.3,52.0
+tuberculosis,pre-2020,196,22.4,91,10,11.0,6.1,19.1
+tuberculosis,2020-2022,567,15.9,173,24,13.9,9.5,19.8
+tuberculosis,2023+,2538,18.5,565,187,33.1,29.3,37.1

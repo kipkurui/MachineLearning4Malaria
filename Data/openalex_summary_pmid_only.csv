@@ -1,0 +1,7 @@
+term,disease,n_papers,Africa,Africa_pct,Global North,Global North_pct,Other,Other_pct,Missing,Missing_pct
+artificial intelligence,hiv,435,49,11.3,230,52.9,128,29.4,28,6.4
+artificial intelligence,malaria,219,30,13.7,84,38.4,94,42.9,11,5.0
+artificial intelligence,tuberculosis,617,44,7.1,229,37.1,323,52.4,21,3.4
+deep learning,hiv,164,11,6.7,94,57.3,55,33.5,4,2.4
+deep learning,malaria,172,14,8.1,73,42.4,82,47.7,3,1.7
+deep learning,tuberculosis,425,16,3.8,155,36.5,240,56.5,14,3.3

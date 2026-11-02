@@ -1,0 +1,31 @@
+disease,bucket,iso2,n_papers
+hiv,Africa,ZA,36
+hiv,Africa,NG,27
+hiv,Africa,UG,14
+hiv,Africa,ZM,10
+hiv,Africa,ET,9
+hiv,Global North,US,273
+hiv,Global North,GB,43
+hiv,Global North,CA,25
+hiv,Global North,IT,21
+hiv,Global North,AU,21
+malaria,Africa,NG,64
+malaria,Africa,ZA,15
+malaria,Africa,UG,13
+malaria,Africa,EG,11
+malaria,Africa,KE,11
+malaria,Global North,US,121
+malaria,Global North,GB,43
+malaria,Global North,FR,24
+malaria,Global North,ES,21
+malaria,Global North,IT,20
+tuberculosis,Africa,ZA,38
+tuberculosis,Africa,NG,29
+tuberculosis,Africa,EG,20
+tuberculosis,Africa,MA,18
+tuberculosis,Africa,UG,18
+tuberculosis,Global North,US,224
+tuberculosis,Global North,GB,73
+tuberculosis,Global North,KR,60
+tuberculosis,Global North,CA,47
+tuberculosis,Global North,ES,30

@@ -1,81 +1,134 @@
-# Write-up + Africa vs Global North authorship comparison
+# OpenAlex rebuild: Africa vs Global North, deeper + latest snapshot
 
 ## Context
-Last session added HIV and an `ai_agentic` term list to the diffusion analysis, with
-delay tables and 3 trend plots (`Plots/malaria_artificial_intelligence.png`,
-`Plots/hiv_artificial_intelligence.png`, `Plots/malaria_deep_learning.png`).
+Previous Africa-vs-Global-North analysis regex-parsed PubMed abstract text for
+countries (fragile, needed several bug fixes). User now wants: (1) the latest data
+snapshot, (2) a deeper analysis. Agreed approach: switch to the OpenAlex API, which
+gives structured ISO2 country codes per author directly — no regex, no pycountry
+aliases — plus citations, and cheap aggregate counts via `group_by` for denominators.
+Confirmed via live probe: `filter=title_and_abstract.search:...` does AND search,
+`authorships[].countries` gives ISO2 codes directly, `group_by=authorships.countries`
+gives per-country totals without fetching every record.
 
-Two new asks:
-1. Turn the figures + insights into a written report.
-2. Compare who is actually publishing this AI-diffusion research: African-affiliated
-   authors vs Global North-affiliated authors, for the malaria/HIV + AI terms.
+Enrichments the user selected, all in scope for this pass:
+- Africa share over time (not just one snapshot)
+- Country-level breakdown within Africa (not one bucket)
+- International co-authorship (Africa+Global-North collab vs Africa-only)
+- True adoption rate (AI papers ÷ all papers, per region) — previously skipped
+- Citation-impact comparison (Africa-led vs Global-North-led papers)
+- Broaden to TB, alongside malaria and HIV
 
-## Part 1: Country-of-authorship comparison (new analysis)
-- [x] Batch-fetch abstracts for the 3 term+disease pairs already plotted
-- [x] Reuse the pycountry-matching idea, fixed up (see Review) and generalized to
-      disease+term
-- [x] Classify each detected country as Africa / Global North / Other using two short
-      hardcoded name lists
-- [x] Compute % of papers per bucket for each of the 3 term+disease pairs, plot as a
-      100%-stacked bar chart, save to `Plots/`
-- [x] Add these as new notebook cells, same pattern as the existing country section
+## Before starting
+- [x] Get a free OpenAlex API key (raises the shared daily request budget from
+      $0.10 to $1.00/day — we need ~50-100 requests). Requires POSTing the user's
+      email to OpenAlex and them clicking a confirmation link. **Confirming with
+      user before doing this** (external service + their email). User confirmed,
+      key requested and activated.
 
-## Part 2: Write-up
-- [x] Compile a report covering: the original diffusion-delay finding, the HIV extension,
-      the AI/agentic-term findings (corrected - see Review), the 3 trend plots, and the new
-      Africa-vs-Global-North authorship comparison
-- [x] Publish it as a Claude Doc: [AI Diffusion to Malaria and HIV Research](https://claude.ai/artifact/R7ADHaYoh8EqKb8TJ38VUY)
+## Part 1: Fetch pipeline (OpenAlex)
+- [x] `fetch_term_disease(term, disease)`: paginated fetch via
+      `title_and_abstract.search` filter, term × disease pairs:
+      {artificial intelligence, deep learning} × {malaria, HIV, TB}
+- [x] Per paper, keep: year, cited_by_count, first-author country code + raw
+      affiliation text, full set of distinct author countries (for collaboration)
+- [x] Save to `Data/openalex_ai_diffusion_detail.csv` (per-paper) +
+      `Data/openalex_disease_denominators.csv` (exact per-region disease totals)
+
+## Part 2: Denominators for adoption rate
+- [x] Switched from a `group_by` sum (confirmed to double-count papers with >1
+      co-author in the same region — inflated Global North ~1.46x vs Africa
+      ~1.25x) to an OR-combined country filter's exact `meta.count`, for both
+      numerator and denominator
+- [x] Noted in the notebook: this is "any co-author in region" (presence),
+      different from the first-author-based "authorship share" metric
+
+## Part 3: Analysis + plots (dataviz skill, same palette as before)
+- [x] Updated Africa/Global North authorship-share stacked bar (6 pairs now, was 3)
+- [x] Africa-share-over-time trend (year bins, with 95% Wilson CI bands), split by
+      disease, both full corpus and PubMed-indexed-only
+- [x] Top African vs top Global-North countries by paper count (bar)
+- [x] Collaboration breakdown: Africa-only / Global-North-only / collab / other (bar)
+- [x] Citation comparison by first-author region, restricted to a fixed 2020-2022
+      maturity window (not "all pre-2023"), medians only
+- [x] Adoption-rate comparison by region, per disease/term, with two-proportion
+      z-tests marking which differences are actually distinguishable
+
+## Part 4: Notebook + write-up
+- [x] Added new notebook section for the OpenAlex pipeline + plots (existing
+      PubMed delay/trend analysis untouched)
+- [ ] Update the existing Claude Doc with the new findings and plots (same doc,
+      not a new one) — confirm with user this is wanted before publishing
 
 ## Notes / open questions
-- "Global North" and "Africa" will be two fixed country-name lists I hardcode (standard
-  groupings) — not a precise or contested economic definition, just enough to answer
-  "who's publishing this."
-- Scope stays on the 3 AI-term plots already generated last session (not re-deriving country
-  data for the original `ml`/`other_tech` lists across all 4 diseases — that would be a much
-  bigger re-fetch for a question the user didn't ask about).
+- OpenAlex's corpus is broader than PubMed's (indexes conference proceedings etc.),
+  so raw counts will differ from the old PubMed numbers — that's expected, not a bug.
+- Deep learning × HIV/TB are new pairs never fetched before (old pipeline only did
+  deep learning × malaria) — first-ever data point for those, not a re-derivation.
 
 ## Review
 
 ### What changed
-- **`paper_retriever()` fixed**: `efetch(..., rettype="gb")` no longer returns any content
-  from PubMed (confirmed empty response, even single-id) - switched to `rettype="abstract"`,
-  which still produces the "Author information:" / "PMID:" layout the parser expects.
-- **New country-classification pipeline** (notebook + `Data/africa_vs_global_north*.csv`):
-  fetches abstracts in batches (not one `efetch` per paper), classifies each paper's first
-  author's country into Africa / Global North / Other via `pycountry` + a short alias list
-  (real affiliations use "Tanzania"/"South Korea", not pycountry's formal ISO names), and
-  joins against each paper's publication year.
-- **New plot**: `Plots/africa_vs_global_north.png`, a 100%-stacked bar.
-- **Write-up published**: [AI Diffusion to Malaria and HIV Research](https://claude.ai/artifact/R7ADHaYoh8EqKb8TJ38VUY)
-  (Claude Doc) - background + HIV extension, AI/agentic findings (corrected), the 3 trend
-  plots, the Africa-vs-Global-North comparison, and a methodology/caveats section.
+- **New OpenAlex pipeline** (notebook section "Deeper dive: OpenAlex, latest snapshot
+  (Nov 2026)", + `Data/openalex_*.csv`): replaces regex-parsed PubMed text with
+  OpenAlex's structured per-author ISO2 country codes for 6 term×disease pairs
+  ({artificial intelligence, deep learning} × {malaria, HIV, tuberculosis}), current
+  through Nov 2026.
+- **6 new analyses**: authorship-share summary (full corpus + PubMed-indexed-only, side
+  by side), a time trend with confidence intervals, top countries within each region,
+  international co-authorship, a true adoption rate (AI papers ÷ all disease papers per
+  region), and a citation comparison.
+- **6 new plots** in `Plots/`: `openalex_summary_stacked.png`, `openalex_trend.png`,
+  `openalex_top_countries.png`, `openalex_collaboration.png`, `openalex_adoption_rate.png`.
+- Got a free OpenAlex API key (sent to `.env`, gitignored, read via `Authorization: Bearer`
+  header — never as a URL param, so it can't leak into a logged URL or saved notebook output).
 
-### Bugs caught before they reached the write-up (worth knowing about)
-An advisor review caught several real problems in my first pass that would have produced
-wrong numbers:
-1. **Country parsing picked the wrong country.** The original cell's logic iterated
-   `pycountry.countries` and took whichever matched first (alphabetical-ish ISO order), not
-   the country actually named in the affiliation - a US-or-UK affiliation with any other
-   country word in the address got mis-credited. Fixed: match everything, take the **last**
-   match in the first author's affiliation segment (addresses end with the country).
-2. **Line-wrap bug**: PubMed abstracts wrap at ~80 characters, which was splitting
-   "South Africa" and "United Kingdom" across a line break and losing the match -
-   undercounting Africa specifically. Fixed by normalizing whitespace before matching.
-2. **PubMed's `esearch` 9999-ID cap** (new since the notebook was first written) made
-   "first published" dates wrong, not just missing, for high-volume terms - `get_count()`
-   now reports them as unknown instead of silently reading off the wrong paper. This also
-   fixed a bug in `clean_df()` where an unparseable PubMed date string ("2003 Feb-Apr")
-   crashed the notebook outright (`errors='coerce'` added).
-3. **"AI agents" + cancer acronym collision**: "AI" is oncology's standard abbreviation for
-   *aromatase inhibitor*. The oldest "AI agents + cancer" hit I'd initially reported (2015)
-   was actually about breast-cancer endocrine therapy costs, not artificial intelligence.
-   "AI agents" and "autonomous agents" are now excluded from delay calculations and reported
-   as counts only.
-4. **Right-censoring**: terms coined in 2022-2024 (LLMs, generative AI) can't show more than
-   a 2-4 year "delay" no matter how slowly they're actually diffusing - the write-up now
-   states this explicitly rather than implying fast diffusion.
+### Bugs/biases caught before they reached any conclusion (2 advisor rounds)
+This was a much higher-stakes round than last session's — several of the headline numbers
+the first pass produced were real artifacts, not findings:
+1. **Adoption-rate denominator mismatch**: numerator (AI papers) was almost all 2018+, but
+   the first denominator (all-time disease papers) spanned decades — inflated the apparent
+   "Africa adopts AI faster" gap. Fixed by windowing both to 2015-2026.
+2. **`group_by` double-counts**: summing OpenAlex's per-country `group_by` buckets counts a
+   paper once per co-author country, and Global North papers (more international
+   co-authorship) were inflated more (~1.46x) than Africa's (~1.25x) — would have biased
+   the region comparison. Fixed by switching to an OR-combined country filter's exact
+   `meta.count` for both numerator and denominator.
+3. **Corpus shift unexplained**: OpenAlex's full corpus initially looked wildly different
+   from the published doc's PubMed-based numbers (malaria+AI: ~parity vs the doc's "~2.5x
+   Global North"). Validated by rebuilding the PubMed-indexed-only subset, which reproduces
+   the original finding's direction — the difference is real and explained (OpenAlex's
+   non-PubMed venues, e.g. CS conference proceedings, have a different regional mix and a
+   much higher missing-affiliation rate) — now both corpora are shown side by side.
+4. **Trend could have been a venue-mix artifact**: the "Africa's share rising in 2023+"
+   finding was checked against the PubMed-only subset specifically because 2023+ is
+   dominated by non-PubMed venues; it holds (z=2.0-2.5) for malaria/TB, confirmed with
+   two-proportion z-tests, not just eyeballed off a bar chart.
+5. **Missing-affiliation bias direction, checked not assumed**: ~30% "Missing" (vs 5-9%
+   with the old PubMed-only pipeline) turned out to be mostly OpenAlex's own
+   institution-matcher failing on smaller/regional institutions, not a geocoding gap -
+   confirmed by eyeball-checking raw affiliation text, then recovered ~28% of them with the
+   same regex fallback as the PubMed section.
+6. **NaN round-trip bug** (caught by my own dry-run validation, not the advisor): a
+   co-author-country column with no data serializes to an empty string, but `pd.read_csv`
+   reads that back as `NaN` - a naive `str(x).split(";")` on real NaN produces the literal
+   string `"nan"`, which then got misclassified as region "Other" instead of "Missing".
+   Fixed with an explicit `pd.isna()` guard. Confirmed via a dry run of the exact ported
+   notebook code (not just the scratch scripts) against the cached CSVs before trusting it.
+
+### Headline findings (with the caveats above already applied)
+- **Adoption rate** (AI-term papers ÷ all disease papers, same region): Africa is higher
+  for "artificial intelligence" across all 3 diseases, but the gap is small and only
+  malaria/TB clear p<0.05; "deep learning" specifically flips to Global-North-favoring or
+  parity. Framing matters - "AI" picks up more general/review content than "deep learning".
+- **Trend**: Africa's first-author share roughly doubled from 2020-2022 to 2023+ for
+  malaria and TB (statistically distinguishable, holds in the PubMed-only subset too); HIV's
+  rise is weaker and concentrated in non-PubMed venues.
+- **Collaboration**: true Africa+Global-North co-authorship is modest (~5-8% of papers);
+  most non-Global-North-only output is from elsewhere entirely (India, China, Brazil), not
+  from Africa or from Africa-GN partnerships.
+- **Citations**: no consistent region gap once restricted to a fixed 2020-2022 maturity
+  window - mixed direction across the 3 diseases, small samples (n=13-26 for Africa).
 
 ### Not done
-- No population-normalized "adoption rate" (AI-papers / total-papers per region) - would
-  need ~12 more affiliation-restricted PubMed queries. The write-up reports authorship
-  *share* and says so explicitly, not "adoption rate."
+- The write-up (Claude Doc) has not been updated yet with these new findings - checking
+  with the user first since publishing it is a separate, visible action.

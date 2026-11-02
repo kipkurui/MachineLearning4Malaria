@@ -1,0 +1,7 @@
+disease,term,ai_papers_africa_exact,ai_papers_global_north_exact,disease_papers_africa_exact,disease_papers_global_north_exact,adoption_rate_africa_pct,adoption_rate_global_north_pct,z_africa_vs_gn,distinguishable_p_lt_05
+hiv,artificial intelligence,165,409,61108,172246,0.27,0.24,1.4,False
+malaria,artificial intelligence,178,211,30668,44769,0.58,0.47,2.05,True
+tuberculosis,artificial intelligence,218,488,24573,65937,0.89,0.74,2.24,True
+hiv,deep learning,44,192,61108,172246,0.07,0.11,-2.64,True
+malaria,deep learning,148,268,30668,44769,0.48,0.6,-2.11,True
+tuberculosis,deep learning,166,491,24573,65937,0.68,0.74,-1.09,False

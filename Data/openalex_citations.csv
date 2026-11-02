@@ -1,0 +1,7 @@
+disease,region,n_papers,median_citations
+hiv,Africa,13,12.0
+hiv,Global North,102,10.0
+malaria,Africa,26,7.0
+malaria,Global North,76,16.0
+tuberculosis,Africa,24,25.0
+tuberculosis,Global North,149,19.0

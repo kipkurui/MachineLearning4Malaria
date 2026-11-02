@@ -1,0 +1,16 @@
+disease,bucket,n_papers,pct
+hiv,Africa-only,97,7.3
+hiv,Global North-only,491,37.2
+hiv,Africa + Global North collab,102,7.7
+hiv,Other only,321,24.3
+hiv,Missing,309,23.4
+malaria,Africa-only,197,11.8
+malaria,Global North-only,347,20.8
+malaria,Africa + Global North collab,105,6.3
+malaria,Other only,690,41.3
+malaria,Missing,330,19.8
+tuberculosis,Africa-only,195,5.9
+tuberculosis,Global North-only,732,22.2
+tuberculosis,Africa + Global North collab,151,4.6
+tuberculosis,Other only,1563,47.3
+tuberculosis,Missing,661,20.0
