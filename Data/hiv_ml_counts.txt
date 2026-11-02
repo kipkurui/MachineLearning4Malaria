@@ -1,0 +1,11 @@
+ML_algorithm	Count	First_Paper	Latest_paper
+machine learning	1179	2002 Jun 11	2026 Aug 3
+neural networks	285	1993	2026
+support vector machine	195	2002 Jan 30	2026 Oct 5
+k-nearest neighbor	27	2003 Feb-Apr	2025 Oct 13
+linear regression	3434	1988 Mar-Apr	2026 Oct 30
+random forests	51	2004	2026 Aug 3
+logistic regression	19451		2026 Nov 1
+convolutional neural networks	16	2017 Oct	2026 Jun 11
+bayesian networks	26	2006 Dec 15	2026 Mar 26
+data science	909	2014	2026

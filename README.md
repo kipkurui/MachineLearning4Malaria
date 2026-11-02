@@ -5,6 +5,10 @@
 
 This repo contains data analysis to support our medium article on the Diffusion of data science technologies to malaria research. We find that it takes too long for data science tools to diffuse to the diseases of the poor. Read our [medium article](https://medium.com/@siwomolbio/machinelearning4malaria-e171ca85e7f5) to find out more. 
 
+The notebook also extends the same question to HIV research, and to the current wave of AI
+techniques (artificial intelligence, deep learning, generative AI, and agentic systems),
+benchmarked against cancer research as before.
+
 ### Structure
 - **Data_fetching_and_Analysis.ipynb** is the main data analysis notebook
 - **Data** Contain the raw data downloaded from PubMed search for malaria and cancer

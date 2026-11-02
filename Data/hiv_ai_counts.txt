@@ -1,0 +1,8 @@
+ML_algorithm	Count	First_Paper	Latest_paper
+artificial intelligence	773	1993	2026
+deep learning	195	2017	2026
+large language models	55	2023 Aug 28	2026 Aug 29
+generative AI	45	2023 Dec	2026 Oct 20
+agentic AI	0		
+autonomous agents	1	2026 Jun 29	2026 Jun 29
+AI agents	2	2016	2025 Oct
